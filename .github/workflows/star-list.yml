@@ -21,11 +21,6 @@ jobs:
           github-email: "github-actions[bot]@users.noreply.github.com"
           template-path: "template/README.ejs"
 
-  categorize:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -42,6 +37,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
+          python - <<EOF
           import json
           import openai
 
@@ -51,14 +47,15 @@ jobs:
 
           # Prepare prompt for categorization
           prompt = "根据以下JSON数据，将仓库分类为“字体”“工具”“windows”“安卓”等类别，并生成一个README.md内容：\n\n" + json.dumps(data, ensure_ascii=False)
-            # Call OpenAI API using gpt-4o-mini model
-            openai.api_base = "https://api.chatanywhere.org/v1"
-            response = openai.Completion.create(
+          # Call OpenAI API using gpt-4o-mini model
+          openai.api_base = "https://api.chatanywhere.org/v1"
+          response = openai.Completion.create(
               engine="gpt-4o-mini",
               prompt=prompt,
               max_tokens=2000
-            )
+          )
 
           # Save the categorized content to README.md
           with open('README.md', 'w', encoding='utf-8') as readme_file:
               readme_file.write(response.choices[0].text.strip())
+          EOF
