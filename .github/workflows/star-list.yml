@@ -49,9 +49,12 @@ jobs:
           prompt = "根据以下JSON数据，将仓库分类为“字体”“工具”“windows”“安卓”等类别，并生成一个README.md内容：\n\n" + json.dumps(data, ensure_ascii=False)
           # Call OpenAI API using gpt-4o-mini model
           openai.api_base = "https://api.chatanywhere.org/v1"
-          response = openai.Completion.create(
-              engine="gpt-4o-mini",
-              prompt=prompt,
+          response = openai.ChatCompletion.create(
+              model="gpt-4o-mini",
+              messages=[
+                  {"role": "system", "content": "You are a helpful assistant."},
+                  {"role": "user", "content": prompt}
+              ],
               max_tokens=2000
           )
 
