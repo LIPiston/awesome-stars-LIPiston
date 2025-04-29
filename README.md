@@ -7,6 +7,9 @@
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
 </div><br>
 
+[README](README.md)
+[TOPICS](TOPICS.md)
+
 ## Table of Contents
 
 *   [JavaScript](#javascript)
