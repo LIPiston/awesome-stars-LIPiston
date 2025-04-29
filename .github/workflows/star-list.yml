@@ -17,48 +17,7 @@ jobs:
         uses: simonecorsi/mawesome@v2
         with:
           api-token: ${{ secrets.ACCESS_TOKEN }}
+          compact-by-topic: true
           github-name: "github-actions[bot]"
           github-email: "github-actions[bot]@users.noreply.github.com"
           template-path: "template/README.ejs"
-
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: |
-          rm -rf README.MD
-          python -m pip install --upgrade pip
-          pip install openai
-
-      - name: Categorize repositories
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: |
-          python - <<EOF
-          import json
-          import openai
-
-          # Load data.json
-          with open('data.json', 'r', encoding='utf-8') as file:
-              data = json.load(file)
-
-          # Prepare prompt for categorization
-          prompt = "根据以下JSON数据，将仓库分类为“字体”“工具”“windows”“安卓”等类别，并生成一个README.md内容：\n\n" + json.dumps(data, ensure_ascii=False)
-          # Call OpenAI API using gpt-4o-mini model
-          openai.api_base = "https://api.chatanywhere.org/v1"
-          response = openai.ChatCompletion.create(
-              model="gpt-4o-mini",
-              messages=[
-                  {"role": "system", "content": "You are a helpful assistant."},
-                  {"role": "user", "content": prompt}
-              ],
-              max_tokens=2000
-          )
-
-          # Save the categorized content to README.md
-          with open('README.md', 'w', encoding='utf-8') as readme_file:
-              readme_file.write(response.choices[0].text.strip())
-          EOF
