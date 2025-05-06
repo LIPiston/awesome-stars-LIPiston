@@ -15,6 +15,24 @@
 *   [178](#178)
 *   [114514](#114514)
 *   [miscellaneous](#miscellaneous)
+*   [ai](#ai)
+*   [ai-deep-fake](#ai-deep-fake)
+*   [ai-face](#ai-face)
+*   [ai-webcam](#ai-webcam)
+*   [artificial-intelligence](#artificial-intelligence)
+*   [deep-fake](#deep-fake)
+*   [deepfake](#deepfake)
+*   [deepfake-webcam](#deepfake-webcam)
+*   [faceswap](#faceswap)
+*   [fake-webcam](#fake-webcam)
+*   [gan](#gan)
+*   [real-time-deepfake](#real-time-deepfake)
+*   [realtime](#realtime)
+*   [realtime-deepfake](#realtime-deepfake)
+*   [realtime-face-changer](#realtime-face-changer)
+*   [video-deepfake](#video-deepfake)
+*   [webcam](#webcam)
+*   [webcamera](#webcamera)
 *   [bluesky](#bluesky)
 *   [chrome-extension](#chrome-extension)
 *   [twitter](#twitter)
@@ -467,7 +485,6 @@
 *   [xhup](#xhup)
 *   [mobaxterm](#mobaxterm)
 *   [agent](#agent)
-*   [artificial-intelligence](#artificial-intelligence)
 *   [claude-ai](#claude-ai)
 *   [developer-tools](#developer-tools)
 *   [android-client](#android-client)
@@ -1793,7 +1810,6 @@
 *   [process-monitor](#process-monitor)
 *   [processhacker](#processhacker)
 *   [profiling](#profiling)
-*   [realtime](#realtime)
 *   [system-monitor](#system-monitor)
 *   [systeminformer](#systeminformer)
 *   [task-manager](#task-manager)
@@ -1928,7 +1944,6 @@
 *   [neko](#neko)
 *   [newbing](#newbing)
 *   [prompt-engineering](#prompt-engineering)
-*   [ai](#ai)
 *   [chat](#chat)
 *   [freechatgpt](#freechatgpt)
 *   [github-android](#github-android)
@@ -2519,13 +2534,6 @@
 *   [manifest-v3](#manifest-v3)
 *   [mcdreforged](#mcdreforged)
 *   [localization](#localization)
-*   [better](#better)
-*   [bettersleeping](#bettersleeping)
-*   [sleeping](#sleeping)
-*   [spigot-plugin](#spigot-plugin)
-*   [alternatives](#alternatives)
-*   [files](#files)
-*   [power-user](#power-user)
 *   [Thanks](#thanks)
 
 ## 178
@@ -2537,6 +2545,8 @@
 *   [Sticky-attention/Sticky-attention](https://github.com/Sticky-attention/Sticky-attention) - 一款新作业贴软件 新增了原版没有的新功能
 
 ## miscellaneous
+
+*   [cao-awa/Medical-mc](https://github.com/cao-awa/Medical-mc) -
 
 *   [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
 
@@ -3194,6 +3204,86 @@
 
 *   [MCDReforged/PluginCatalogue](https://github.com/MCDReforged/PluginCatalogue) - The official MCDReforged plugin catalogue
 
+## ai
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+*   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
+
+*   [premieroctet/photoshot](https://github.com/premieroctet/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
+
+## ai-deep-fake
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+## ai-face
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+## ai-webcam
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+## artificial-intelligence
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+*   [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+
+## deep-fake
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+## deepfake
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+## deepfake-webcam
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+## faceswap
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+## fake-webcam
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+## gan
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+## real-time-deepfake
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+## realtime
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
+
+## realtime-deepfake
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+## realtime-face-changer
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+## video-deepfake
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+## webcam
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+## webcamera
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
 ## bluesky
 
 *   [kawamataryo/sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Instantly find and follow the same users from your X(Twitter) follower on Bluesky.
@@ -3373,8 +3463,6 @@
 *   [MCDReforged/MCDReforged](https://github.com/MCDReforged/MCDReforged) - A rewritten version of MCDaemon, a python tool to control your Minecraft server
 
 *   [CFPAOrg/Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) - A language package for Minecraft Mods.
-
-*   [Nuytemans-Dieter/BetterSleeping](https://github.com/Nuytemans-Dieter/BetterSleeping) - A Spigot plugin that will make sleeping on servers less of a hassle
 
 ## minecraft-launcher
 
@@ -3672,7 +3760,7 @@
 
 *   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
-*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
 *   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 
@@ -3722,15 +3810,11 @@
 
 *   [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
 
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-
 ## fluent-design
 
 *   [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
 
 *   [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## fluentui
 
@@ -3853,8 +3937,6 @@
 *   [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
 
 *   [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## winui3
 
@@ -4812,7 +4894,7 @@
 
 *   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 *   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 
@@ -4844,7 +4926,7 @@
 
 *   [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 
-*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
 ## reports
 
@@ -5150,8 +5232,6 @@
 
 *   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-
 ## ifeo
 
 *   [SuGar0218/PreLaunchTaskr](https://github.com/SuGar0218/PreLaunchTaskr) - 通过映像劫持，在应用程序启动前做一些事情，例如：更改启动参数、设置环境变量、执行程序或脚本。
@@ -5167,8 +5247,6 @@
 *   [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
 
 *   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## cloudflare
 
@@ -5914,8 +5992,6 @@
 
 *   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
 
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-
 ## bilibili-api
 
 *   [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) - bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现
@@ -6612,7 +6688,7 @@
 
 *   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 *   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
@@ -6785,8 +6861,6 @@
 *   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 *   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## specification
 
@@ -7240,7 +7314,7 @@
 
 *   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 ## bookamrk
 
@@ -7560,10 +7634,6 @@
 
 *   [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Linux运维监控工具，支持系统硬件信息，内存，CPU，温度，磁盘空间及IO，硬盘smart，GPU，防火墙，网络流量速率等监控，服务接口监测，大屏展示，拓扑图，端口监控，进程监控，docker监控，日志监控，文件防篡改，数据库监控，指令批量下发执行，web ssh，Linux面板(探针)，告警，SNMP监测，K8S，Redis，Nginx，Kafka，资产管理，计划任务，密码管理，工作笔记
 
-## artificial-intelligence
-
-*   [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-
 ## claude-ai
 
 *   [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -7573,8 +7643,6 @@
 *   [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 
 *   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## android-client
 
@@ -7947,8 +8015,6 @@
 *   [siavash79/PixelXpert](https://github.com/siavash79/PixelXpert) - mixed Xposed+Magisk module for customization of Google Pixel rom of Android 12+
 
 *   [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) - Iconify lets you customize your Android 12+ device easily. Change icons, colors, shapes, and even the notification panel for a personalized look that suits your style.
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## dark-theme
 
@@ -8558,8 +8624,6 @@
 
 *   [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
 
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-
 ## windows-10
 
 *   [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
@@ -8578,8 +8642,6 @@
 
 *   [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
 
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-
 ## windows-11
 
 *   [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
@@ -8591,8 +8653,6 @@
 *   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 
 *   [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## winget
 
@@ -9536,8 +9596,6 @@
 
 *   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-
 ## dotnet-core
 
 *   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
@@ -9894,23 +9952,23 @@
 
 ## ai-agents
 
-*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
 ## ai-tools
 
-*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
 ## browser-automation
 
-*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
 ## browser-use
 
-*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
 ## playwright
 
-*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
 ## explorer
 
@@ -10972,7 +11030,7 @@
 
 *   [awesome-iwb/awesome-iwb](https://github.com/awesome-iwb/awesome-iwb) - 🕶️ ✨ Collection of practical software for interactive whiteboard.  ✨ 全网最全的 教学辅助软件/一体机软件 推荐清单
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 *   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 
@@ -11648,7 +11706,7 @@
 
 *   [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme、移动端网页。
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 *   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 
@@ -11813,8 +11871,6 @@
 ## utilities
 
 *   [awesome-iwb/awesome-iwb](https://github.com/awesome-iwb/awesome-iwb) - 🕶️ ✨ Collection of practical software for interactive whiteboard.  ✨ 全网最全的 教学辅助软件/一体机软件 推荐清单
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## anticensorship
 
@@ -12172,8 +12228,6 @@
 
 *   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-
 ## windows-console
 
 *   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -12205,8 +12259,6 @@
 *   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
 *   [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## website
 
@@ -12530,7 +12582,7 @@
 
 *   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 ## instagram
 
@@ -12574,8 +12626,6 @@
 
 *   [Ayman-Isam/HungerGames](https://github.com/Ayman-Isam/HungerGames) - A modern HungerGames Plugin for Minecraft
 
-*   [Nuytemans-Dieter/BetterSleeping](https://github.com/Nuytemans-Dieter/BetterSleeping) - A Spigot plugin that will make sleeping on servers less of a hassle
-
 ## spigot
 
 *   [Ayman-Isam/HungerGames](https://github.com/Ayman-Isam/HungerGames) - A modern HungerGames Plugin for Minecraft
@@ -12587,8 +12637,6 @@
 *   [PurpurMC/Purpur](https://github.com/PurpurMC/Purpur) - Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.
 
 *   [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers, and proxies.
-
-*   [Nuytemans-Dieter/BetterSleeping](https://github.com/Nuytemans-Dieter/BetterSleeping) - A Spigot plugin that will make sleeping on servers less of a hassle
 
 ## cdn
 
@@ -13005,8 +13053,6 @@
 *   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 
 *   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## xaml-winrt
 
@@ -14590,10 +14636,6 @@
 
 *   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
 
-## realtime
-
-*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
-
 ## system-monitor
 
 *   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
@@ -14758,29 +14800,29 @@
 
 ## canvas
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 *   [Icemic/huozi.js](https://github.com/Icemic/huozi.js) - A simple typography engine for CJK languages, especially designed for game rich-text. 用于游戏富文本的中日韩文字排印引擎。
 
 ## diagram
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 ## drawing
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 ## infinite
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 ## multiplayer
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 ## sketch
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 ## bytecode
 
@@ -15183,12 +15225,6 @@
 ## prompt-engineering
 
 *   [L1Xu4n/Awesome-ChatGPT-prompts-ZH\_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) - 如何将ChatGPT调教成一只猫娘
-
-## ai
-
-*   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
-
-*   [premieroctet/photoshot](https://github.com/premieroctet/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 
 ## chat
 
@@ -17627,34 +17663,6 @@
 ## localization
 
 *   [CFPAOrg/Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) - A language package for Minecraft Mods.
-
-## better
-
-*   [Nuytemans-Dieter/BetterSleeping](https://github.com/Nuytemans-Dieter/BetterSleeping) - A Spigot plugin that will make sleeping on servers less of a hassle
-
-## bettersleeping
-
-*   [Nuytemans-Dieter/BetterSleeping](https://github.com/Nuytemans-Dieter/BetterSleeping) - A Spigot plugin that will make sleeping on servers less of a hassle
-
-## sleeping
-
-*   [Nuytemans-Dieter/BetterSleeping](https://github.com/Nuytemans-Dieter/BetterSleeping) - A Spigot plugin that will make sleeping on servers less of a hassle
-
-## spigot-plugin
-
-*   [Nuytemans-Dieter/BetterSleeping](https://github.com/Nuytemans-Dieter/BetterSleeping) - A Spigot plugin that will make sleeping on servers less of a hassle
-
-## alternatives
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-
-## files
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-
-## power-user
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## Thanks
 
