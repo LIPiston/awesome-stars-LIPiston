@@ -14,6 +14,8 @@
 
 *   [178](#178)
 *   [114514](#114514)
+*   [bakaxl](#bakaxl)
+*   [vitepress](#vitepress)
 *   [miscellaneous](#miscellaneous)
 *   [ai](#ai)
 *   [ai-deep-fake](#ai-deep-fake)
@@ -1685,7 +1687,6 @@
 *   [giscus](#giscus)
 *   [progressive-web-app](#progressive-web-app)
 *   [vite-plugin-pwa](#vite-plugin-pwa)
-*   [vitepress](#vitepress)
 *   [defender](#defender)
 *   [defender-disabler](#defender-disabler)
 *   [defender-remover](#defender-remover)
@@ -2544,6 +2545,16 @@
 
 *   [Sticky-attention/Sticky-attention](https://github.com/Sticky-attention/Sticky-attention) - 一款新作业贴软件 新增了原版没有的新功能
 
+## bakaxl
+
+*   [BakaXL-Support/BakaXL-Document](https://github.com/BakaXL-Support/BakaXL-Document) - BakaXL 用户帮助文档
+
+## vitepress
+
+*   [BakaXL-Support/BakaXL-Document](https://github.com/BakaXL-Support/BakaXL-Document) - BakaXL 用户帮助文档
+
+*   [GlobeMC/crashmc.com](https://github.com/GlobeMC/crashmc.com) - CrashMC.com Website
+
 ## miscellaneous
 
 *   [cao-awa/Medical-mc](https://github.com/cao-awa/Medical-mc) -
@@ -3201,8 +3212,6 @@
 *   [plusls/MasaGadget](https://github.com/plusls/MasaGadget) - Masa Gadget
 
 *   [AnzhiZhang/MCDReforgedPlugins](https://github.com/AnzhiZhang/MCDReforgedPlugins) - MCDReforged Plugins
-
-*   [MCDReforged/PluginCatalogue](https://github.com/MCDReforged/PluginCatalogue) - The official MCDReforged plugin catalogue
 
 ## ai
 
@@ -14061,10 +14070,6 @@
 *   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
 ## vite-plugin-pwa
-
-*   [GlobeMC/crashmc.com](https://github.com/GlobeMC/crashmc.com) - CrashMC.com Website
-
-## vitepress
 
 *   [GlobeMC/crashmc.com](https://github.com/GlobeMC/crashmc.com) - CrashMC.com Website
 
