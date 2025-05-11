@@ -12,6 +12,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Java](#java)
 *   [Lua](#lua)
 *   [TypeScript](#typescript)
@@ -29,7 +30,6 @@
 *   [Go](#go)
 *   [Dockerfile](#dockerfile)
 *   [Ruby](#ruby)
-*   [Swift](#swift)
 *   [Just](#just)
 *   [C](#c-2)
 *   [HTML](#html)
@@ -59,8 +59,15 @@
 *   [Markdown](#markdown)
 *   [Squirrel](#squirrel)
 *   [TeX](#tex)
-*   [Scala](#scala)
 *   [Thanks](#thanks)
+
+## Swift
+
+*   [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) - Switch and track your input sources with ease ✨
+
+*   [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android
+
+*   [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 
 ## Java
 
@@ -1146,7 +1153,7 @@
 
 *   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
 
-*   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护4年多，每天都会检测可用性，全网质量最高的公益订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨sing-box丨clash丨karing丨Hiddify丨v2box丨v2rayNG
+*   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护4年多，每天都会检测可用性，全网质量最高的公益订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨sing-box丨clash丨karing丨Hiddify丨mihomo丨v2rayNG
 
 *   [baidusama/EroPassword](https://github.com/baidusama/EroPassword) - 一些常用的解压密码（包括但不限于本子、里番、galgame）
 
@@ -1854,12 +1861,6 @@
 
 *   [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
-## Swift
-
-*   [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android
-
-*   [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
-
 ## Just
 
 *   [catppuccin/fcitx5](https://github.com/catppuccin/fcitx5) - 🧃 Soothing pastel theme for Fcitx5
@@ -2002,7 +2003,7 @@
 
 ## Rich Text Format
 
-*   [54ph/win7-sp2](https://github.com/54ph/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
+*   [PrysmaVT/win7-sp2](https://github.com/PrysmaVT/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
 
 ## NSIS
 
@@ -2153,10 +2154,6 @@
 ## TeX
 
 *   [moesoha/debian-media-box](https://github.com/moesoha/debian-media-box) - “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。
-
-## Scala
-
-*   [MultiCoreNetwork/carpet-redcraft-addons](https://github.com/MultiCoreNetwork/carpet-redcraft-addons) - RedCraft 3 - Minecraft Fabric Mod
 
 ## Thanks
 

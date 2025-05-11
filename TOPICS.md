@@ -2585,7 +2585,6 @@
 *   [html5](#html5)
 *   [libav](#libav)
 *   [sdl2](#sdl2)
-*   [carpet-redcraft-addons](#carpet-redcraft-addons)
 *   [Thanks](#thanks)
 
 ## 178
@@ -2597,6 +2596,8 @@
 *   [Sticky-attention/Sticky-attention](https://github.com/Sticky-attention/Sticky-attention) - 一款新作业贴软件 新增了原版没有的新功能
 
 ## miscellaneous
+
+*   [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) - Switch and track your input sources with ease ✨
 
 *   [hotpad100c/yetanothercarpetaddition](https://github.com/hotpad100c/yetanothercarpetaddition) - Another carpet addition
 
@@ -3204,7 +3205,7 @@
 
 *   [44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel) - 基于思源黑体的开源像素字体
 
-*   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护4年多，每天都会检测可用性，全网质量最高的公益订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨sing-box丨clash丨karing丨Hiddify丨v2box丨v2rayNG
+*   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护4年多，每天都会检测可用性，全网质量最高的公益订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨sing-box丨clash丨karing丨Hiddify丨mihomo丨v2rayNG
 
 *   [baidusama/EroPassword](https://github.com/baidusama/EroPassword) - 一些常用的解压密码（包括但不限于本子、里番、galgame）
 
@@ -5556,7 +5557,7 @@
 
 *   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
 
-*   [54ph/win7-sp2](https://github.com/54ph/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
+*   [PrysmaVT/win7-sp2](https://github.com/PrysmaVT/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
 
 *   [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 
@@ -7328,11 +7329,11 @@
 
 ## win7
 
-*   [54ph/win7-sp2](https://github.com/54ph/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
+*   [PrysmaVT/win7-sp2](https://github.com/PrysmaVT/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
 
 ## windows7
 
-*   [54ph/win7-sp2](https://github.com/54ph/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
+*   [PrysmaVT/win7-sp2](https://github.com/PrysmaVT/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
 
 ## firefox
 
@@ -7999,8 +8000,6 @@
 *   [OKTW-Network/FabricProxy-Lite](https://github.com/OKTW-Network/FabricProxy-Lite) - Fabric mod for support forward player data from velocity.
 
 *   [DichuuCraft/SReplay](https://github.com/DichuuCraft/SReplay) - Server-side recording mod for ReplayMod
-
-*   [MultiCoreNetwork/carpet-redcraft-addons](https://github.com/MultiCoreNetwork/carpet-redcraft-addons) - RedCraft 3 - Minecraft Fabric Mod
 
 ## aur
 
@@ -9549,8 +9548,6 @@
 *   [senseiwells/EssentialClient](https://github.com/senseiwells/EssentialClient) - EssentialClient is a client-side mod that adds many client utilities as well as providing a gui to modify carpet rules!
 
 *   [DichuuCraft/SReplay](https://github.com/DichuuCraft/SReplay) - Server-side recording mod for ReplayMod
-
-*   [MultiCoreNetwork/carpet-redcraft-addons](https://github.com/MultiCoreNetwork/carpet-redcraft-addons) - RedCraft 3 - Minecraft Fabric Mod
 
 ## framework
 
@@ -16390,8 +16387,6 @@
 
 *   [jsorrell/CarpetSkyAdditions](https://github.com/jsorrell/CarpetSkyAdditions) - Empty world generation with new ways to obtain resources
 
-*   [MultiCoreNetwork/carpet-redcraft-addons](https://github.com/MultiCoreNetwork/carpet-redcraft-addons) - RedCraft 3 - Minecraft Fabric Mod
-
 ## skyblock
 
 *   [jsorrell/CarpetSkyAdditions](https://github.com/jsorrell/CarpetSkyAdditions) - Empty world generation with new ways to obtain resources
@@ -17959,10 +17954,6 @@
 ## sdl2
 
 *   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-## carpet-redcraft-addons
-
-*   [MultiCoreNetwork/carpet-redcraft-addons](https://github.com/MultiCoreNetwork/carpet-redcraft-addons) - RedCraft 3 - Minecraft Fabric Mod
 
 ## Thanks
 
