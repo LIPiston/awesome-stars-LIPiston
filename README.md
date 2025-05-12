@@ -12,11 +12,12 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
+*   [JavaScript](#javascript)
 *   [Swift](#swift)
 *   [Java](#java)
 *   [Lua](#lua)
 *   [TypeScript](#typescript)
-*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
@@ -24,7 +25,6 @@
 *   [Kotlin](#kotlin)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Dart](#dart)
-*   [Shell](#shell)
 *   [C++](#c-1)
 *   [Rust](#rust)
 *   [Go](#go)
@@ -60,6 +60,324 @@
 *   [Squirrel](#squirrel)
 *   [TeX](#tex)
 *   [Thanks](#thanks)
+
+## Shell
+
+*   [chenzyadb/CuprumTurbo-Scheduler](https://github.com/chenzyadb/CuprumTurbo-Scheduler) - A Simple and Reliable Performance Scheduler.
+
+*   [aormsby/Fork-Sync-With-Upstream-action](https://github.com/aormsby/Fork-Sync-With-Upstream-action) - An action to automatically update your fork with new commits from the upstream repo
+
+*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
+
+*   [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) - Run Cloudflare WARP in Docker.
+
+*   [Unofficial-Life/Lawnchair-Launcher-Module](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module) - Replace your stock launcher with Lawnchair Launcher module (Q to U) for Magisk and KSU (Quickswitch included)
+
+*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
+
+*   [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
+
+*   [pzcn/Perfect-Icons-Completion-Project](https://github.com/pzcn/Perfect-Icons-Completion-Project) - MIUI 完美图标补全计划
+
+*   [symbuzzer/livebootmodule](https://github.com/symbuzzer/livebootmodule) - A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices
+
+*   [YumeYuka/Suu-Nyanya](https://github.com/YumeYuka/Suu-Nyanya) - 让杂乱无章的文件世界变得如同精美画卷般整洁可爱喵~✨Let the chaotic world of documents become as tidy and lovely as a beautiful painting~✨
+
+*   [twoone-3/AdGuardHomeForRoot](https://github.com/twoone-3/AdGuardHomeForRoot) -
+
+*   [suiyuanlixin/fas-rs-usage-clamping](https://github.com/suiyuanlixin/fas-rs-usage-clamping) - Frame aware scheduling for android, work with cpufreq clamping. Requires 5.10 or 5.15 kernel and kernel ebpf support
+
+*   [TimeBreeze/Tritium](https://github.com/TimeBreeze/Tritium) - 最大化CPU的潜力 Maximize the potential of CPU
+
+*   [Magisk-Modules-Repo/adb-ndk](https://github.com/Magisk-Modules-Repo/adb-ndk) - adb-ndk
+
+*   [eendroroy/alien](https://github.com/eendroroy/alien) - An asynchronous zsh prompt
+
+*   [Bambooin/rimerc](https://github.com/Bambooin/rimerc) - rimerc: rimer's dictionary & config
+
+*   [RohitVerma882/termux-miunlock](https://github.com/RohitVerma882/termux-miunlock) - A program that can be used to retrieve the bootloader unlock token for Xiaomi devices. (and unlock the bootloader) using Termux
+
+*   [nohajc/termux-adb](https://github.com/nohajc/termux-adb) - Run adb in Termux without root permissions!
+
+*   [MoGuangYu/Surfing](https://github.com/MoGuangYu/Surfing) - Magisk and KernelSU modules for  Clash/mihomo services.
+
+*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
+
+*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
+
+*   [kirklin/magisk-brick-guardian](https://github.com/kirklin/magisk-brick-guardian) - 一个Magisk 模块，用于防止您的设备因 Magisk 模块导致的启动问题而变砖。
+
+*   [olegos2/mobox](https://github.com/olegos2/mobox) -
+
+*   [rushiranpise/xmlpak-RE](https://github.com/rushiranpise/xmlpak-RE) -
+
+*   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
+
+*   [DanGLES3/Hide-Navbar](https://github.com/DanGLES3/Hide-Navbar) - Hide Navbar
+
+*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
+
+*   [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices
+
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
+
+*   [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) -
+
+*   [Goooler/systemless-fcm-hosts](https://github.com/Goooler/systemless-fcm-hosts) - A Magisk module integrated with FCM hosts for Chinese users.
+
+*   [VR-25/acc](https://github.com/VR-25/acc) - Advanced Charging Controller
+
+*   [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) - Colorize your termux! Oh-my-zsh included!
+
+*   [ful1e5/Bibata\_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
+
+*   [muink/Magisk-Captive-Manager](https://github.com/muink/Magisk-Captive-Manager) - 修改Captive Portal服务器, 可解Android 网络感叹号问题
+
+*   [huzesama/ASGuard](https://github.com/huzesama/ASGuard) - Magisk模块，用于安卓的无障碍服务(或名:辅助功能)辅助管理模块
+
+*   [programminghoch10/ViPER4AndroidRepackaged](https://github.com/programminghoch10/ViPER4AndroidRepackaged) - A refined ViPER4Android installer.
+
+*   [Zackptg5/Disable\_Dm-Verity\_ForceEncrypt](https://github.com/Zackptg5/Disable_Dm-Verity_ForceEncrypt) - Disables dm-verity and forceencrypt
+
+*   [Magisk-Modules-Repo/wifi-bonding](https://github.com/Magisk-Modules-Repo/wifi-bonding) - Double your bandwith on your Qualcomm devices.
+
+*   [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
+
+*   [White9shadow/God-Speed-Mode](https://github.com/White9shadow/God-Speed-Mode) - This Is  a Magisk Module Aimed To Boost Android Performance.
+
+*   [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) -
+
+*   [2moe/tmoe](https://github.com/2moe/tmoe) - TMOE, More Optional Environments.
+
+*   [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
+
+*   [ping11700/LOLkit](https://github.com/ping11700/LOLkit) - One gift for all LOL gamers， League of Legends工具
+
+*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
+
+*   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
+
+*   [shipinbaoku/ikev2-vpn-setup-bash](https://github.com/shipinbaoku/ikev2-vpn-setup-bash) - 使用bash脚本一键搭建Ikev2的vpn服务端.
+
+*   [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
+
+*   [410154425/AdGuardHome\_magisk](https://github.com/410154425/AdGuardHome_magisk) - 去广告magisk模块，通过DNS层面过滤广告、防DNS劫持，使用前请先详读mode.conf文件，使用前需关闭私人dns，不可用wap接入点，支持订阅过滤规则，可兼容VPN、免模块、翻模块、校园网等特殊使用环境。top大佬(酷安)
+
+*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
+
+*   [Magisk-Modules-Repo/CloudflareDNS4Magisk](https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk) - CloudflareDNS4Magisk
+
+*   [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
+
+*   [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List for blocking ads in the Chinese region
+
+*   [yinwanxi/Uperf-Game-Turbo](https://github.com/yinwanxi/Uperf-Game-Turbo) - Userspace performance controller for android
+
+*   [yc9559/uperf](https://github.com/yc9559/uperf) - Userspace performance controller for android
+
+*   [zhucaidan/mtr\_trace](https://github.com/zhucaidan/mtr_trace) - Linux MTR route trace script | 检测VPS回程国内三网路由
+
+*   [VIKINGYFY/OpenWRT-CI](https://github.com/VIKINGYFY/OpenWRT-CI) - 云编译OpenWRT开源固件
+
+*   [nufeng1999/WSL\_GNOME](https://github.com/nufeng1999/WSL_GNOME) - Environment configuration for WSL running Gnome
+
+*   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+
+*   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+
+*   [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) - Transparent proxy(Tproxy) for android (root)
+
+*   [alvatip/Borealis-cursors](https://github.com/alvatip/Borealis-cursors) -
+
+*   [Generator/Grub2-themes](https://github.com/Generator/Grub2-themes) - Grub2 gfxmenu themes
+
+*   [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
+
+*   [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
+
+*   [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
+
+*   [vufa/deepin-wine-tim-arch](https://github.com/vufa/deepin-wine-tim-arch) - Tencent TIM on Deepin Wine(com.qq.office.deepin) For Archlinux
+
+*   [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch) - Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
+
+*   [zpj80231/znote](https://github.com/zpj80231/znote) - 🎈VuePress 静态布局 Blog，清新+ 简洁+。
+
+*   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
+
+*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+
+## JavaScript
+
+*   [jqwgt/bilibili-favlist-classifier](https://github.com/jqwgt/bilibili-favlist-classifier) -
+
+*   [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
+
+*   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
+
+*   [wangweianger/zanePerfor](https://github.com/wangweianger/zanePerfor) - 前端性能监控系统,消息队列,高可用,集群等相关架构
+
+*   [AHCorn/Bilibili-Auto-Quality](https://github.com/AHCorn/Bilibili-Auto-Quality) - 自动解锁并更改哔哩哔哩视频的画质和音质及直播画质，实现自动选择最高画质、无损音频、杜比全景声。 / Automatically unlock and select highest quality,lossless audio,and Dolby Atmos for Bilibili videos.
+
+*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
+
+*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
+
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+
+*   [Alanrk/TabMark-Bookmark-New-Tab](https://github.com/Alanrk/TabMark-Bookmark-New-Tab) - TabMark是一款基于书签的新标签页插件，将你的收藏夹变成新标签页，让你收藏的书签一目了然、整洁高效，快速直达你最需要的网站和资源。搭配智能 AI 搜索，更快找到你想要的答案。支持 Chrome 和 Edge。
+
+*   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
+
+*   [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) - GitHub Freshness 在线文档
+
+*   [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research.
+
+*   [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。
+
+*   [bennyyip/Rime-See-Me](https://github.com/bennyyip/Rime-See-Me) - Skin editor for Weasel(Rime frontend on Windows). All credit goes to http://tieba.baidu.com/p/2491103778
+
+*   [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
+
+*   [maebert/themostdangerouswritingapp](https://github.com/maebert/themostdangerouswritingapp) - If you stop typing for more than five seconds, all progress will be lost.
+
+*   [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
+
+*   [teaSummer/MCiSEE](https://github.com/teaSummer/MCiSEE) - 所见皆是Minecraft，让获取MC资源更加轻便！All of Minecraft, EASILY get Minecraft resources!
+
+*   [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
+
+*   [liseami/DeepRant](https://github.com/liseami/DeepRant) - -游戏文字交流AI嘴强王者工具
+
+*   [liu673cn/box](https://github.com/liu673cn/box) - 自用，勿宣传。
+
+*   [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘/阿里云盘/中国移动云盘/天翼云盘/迅雷云盘/夸克网盘/UC网盘/123云盘 八大网盘
+
+*   [ApliNi/IpacLinker](https://github.com/ApliNi/IpacLinker) - IpacLinker 是一款点对点网络连接工具, 基于 WebRTC. 可用于 Minecraft 联机和开服, 或者远程桌面 / 网络驱动器等应用的连接
+
+*   [brcontainer/prevent-duplicate-tabs](https://github.com/brcontainer/prevent-duplicate-tabs) - Simple add-on/extension for prevent duplicate tabs
+
+*   [QingJ01/123pan\_unlock](https://github.com/QingJ01/123pan_unlock) - 基于油猴的123云盘解锁脚本，支持解锁123云盘下载功能
+
+*   [setube/vue-XiuXianGame](https://github.com/setube/vue-XiuXianGame) - 文字游戏: 我的文字修仙全靠刷
+
+*   [ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend) - FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。
+
+*   [xh321/LiteLoaderQQNT-Media-Local-View](https://github.com/xh321/LiteLoaderQQNT-Media-Local-View) - LiteLoaderQQNT 插件 - QQNT 图片和视频用本地查看器打开
+
+*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
+*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援  iPhone \&iPad 、TikTok\&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
+
+*   [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager
+
+*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+
+*   [welai/glow-sans](https://github.com/welai/glow-sans) - SHSans-derived CJK font family with a more concise & modern look. 未来荧黑·未來熒黑·ヒカリ角ゴ：基于思源黑体改造，拥有粗度和宽度系列，更加简明现代的超大字体家族。
+
+*   [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
+
+*   [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) - Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。
+
+*   [limbopro/Adblock4limbo](https://github.com/limbopro/Adblock4limbo) - 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.新增页面右下角导航；2.通过调用 JavaScript 移除特定网站网页广告 —— 搜索引擎（Bing/Google）广告及内容农场结果清除/低端影视/欧乐影院/iyf爱壹帆/哔滴影视/Pornhub/Javbus/Supjav/Jable(M3U8)/MissAv/91porn/hitomi/紳士漫畫/禁漫天堂/等视频\&ACG&小说&漫画网站上的弹窗广告&视频广告\&Gif图片广告等，保持网页清爽干净无打扰！ P.S. 欢迎提交issue
+
+*   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+
+*   [shichuanenhui/TvBox](https://github.com/shichuanenhui/TvBox) -
+
+*   [sirpdboy/luci-app-ddns-go](https://github.com/sirpdboy/luci-app-ddns-go) - luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商 Alidns(阿里云) Dnspod(腾讯云) Cloudflare 华为云 Callback 百度云 porkbun GoDaddy
+
+*   [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+
+*   [xianyuyimu/TVBOX-](https://github.com/xianyuyimu/TVBOX-) - 一木TVBOX自用仓库
+
+*   [ymyuuu/Cloudflare-Workers-Proxy](https://github.com/ymyuuu/Cloudflare-Workers-Proxy) - 简单而功能强大的反代服务，允许你将一个网址映射到另一个网址，并处理跨域请求
+
+*   [windyhusky/PixivSource](https://github.com/windyhusky/PixivSource) - 为Pixiv网站制作的适配在阅读3.0App上的书源
+
+*   [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
+
+*   [cyao2q/files](https://github.com/cyao2q/files) - TVBox开源版,盒子软件分享
+
+*   [itorr/eva-title](https://github.com/itorr/eva-title) - 🐧「福音战士标题生成器」 Evangelion Title Card Generator
+
+*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
+
+*   [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
+
+*   [jinenge/tvbox](https://github.com/jinenge/tvbox) - TVBox(自带配置版)，内置源，随时更新内置源，不必担心不能用
+
+*   [HCLonely/awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra) - 收集一些让我们在使用B站时更加方便的浏览器扩展/脚本/程序【月底更新】
+
+*   [pulse-browser/browser](https://github.com/pulse-browser/browser) - Pulse Browser: An experimental firefox fork
+
+*   [JudouEco/JudouSans](https://github.com/JudouEco/JudouSans) - 句读黑体，商用免费的多文种混排字体。Judou Sans is a multilingual open-source typeface.
+
+*   [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.
+
+*   [nordtheme/terminal-app](https://github.com/nordtheme/terminal-app) - An arctic, north-bluish clean and elegant Terminal.app color theme.
+
+*   [TankNee/LOL\_Game\_Subscription](https://github.com/TankNee/LOL_Game_Subscription) - lpl,ldl professional match calendar subscription!
+
+*   [OrangeX4/Termux-Finux](https://github.com/OrangeX4/Termux-Finux) - A file manager for mobile linux like termux.
+
+*   [dimdenGD/OldTwitter](https://github.com/dimdenGD/OldTwitter) - Extension to return old Twitter layout from 2015 / 2018.
+
+*   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
+
+*   [MMPI-CHN/MMPI-CHN.github.io](https://github.com/MMPI-CHN/MMPI-CHN.github.io) - MMPI-2中文测试-全免费-带结果
+
+*   [Wiederhoeft/okjiasu\_action](https://github.com/Wiederhoeft/okjiasu_action) - 机场https://okjiasu.com    的自动签到脚本
+
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+*   [yuzu233/anti-ocr](https://github.com/yuzu233/anti-ocr) - 對抗文字識別
+
+*   [netptop/siteproxy](https://github.com/netptop/siteproxy) - reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录(请注意不要通过不信任的代理进行登录)。支持DuckDuckGo AI Chat(可免费访问chatGPT3.5和Claude3)
+
+*   [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - The open source code of this project is used for userscripts (油猴脚本) for desktop browsers, including Font Rendering (Customized) (字体渲染（自用脚本）- Font Rendering.user.js), and Search Engine Assistant (优雅的搜索引擎助手 - Google & Baidu Switcher.user.js), etc.
+
+*   [Icemic/huozi.js](https://github.com/Icemic/huozi.js) - A simple typography engine for CJK languages, especially designed for game rich-text. 用于游戏富文本的中日韩文字排印引擎。
+
+*   [ineo6/fast-dev](https://github.com/ineo6/fast-dev) - GitHub访问助手
+
+*   [wu-mx/URLignore](https://github.com/wu-mx/URLignore) - A simple node tool.
+
+*   [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
+
+*   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+
+*   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
+
+*   [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
+
+*   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
+
+*   [xugaoyi/vuepress-theme-vdoing-doc](https://github.com/xugaoyi/vuepress-theme-vdoing-doc) - vuepress-theme-vdoing主题文档
+
+*   [cteamx/Thief](https://github.com/cteamx/Thief) - 一款创新跨平台摸鱼神器，支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式，为上班族打造的上班必备神器，使用此软件可以让上班倍感轻松，远离 ICU。
+
+*   [ShizukuIchi/minesweeper](https://github.com/ShizukuIchi/minesweeper) - 💣 Windows XP minesweeper in web. Also support mobile. 🎉📱
+
+*   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
+
+*   [BakaXL-Support/BakaXL-QA-docs](https://github.com/BakaXL-Support/BakaXL-QA-docs) - 本存储库文档已全量转移至下一代文档仓库
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [aidenlx/cm-chs-patch](https://github.com/aidenlx/cm-chs-patch) - A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chinese word splitting Obsidian内置编辑器的(简体)中文分词支持
+
+*   [wifi-left/HMCL-docs-website](https://github.com/wifi-left/HMCL-docs-website) - HMCL 文档的网站版本
+
+*   [lkyero/GitHubDesktop\_zh](https://github.com/lkyero/GitHubDesktop_zh) - 【GitHub Desktop】客户端中文汉化（简体）；【GitHub Desktop】 Simplified Chinese interface；（GitHub桌面版 中文汉化，非网页插件）
+
+*   [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
+
+*   [alexhua/Aria2-Explorer](https://github.com/alexhua/Aria2-Explorer) - An aria2 download task management extension for chromium based browser
+
+*   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
+
+*   [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 
 ## Swift
 
@@ -551,174 +869,6 @@
 
 *   [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more. :electron:
 
-## JavaScript
-
-*   [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
-
-*   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
-
-*   [wangweianger/zanePerfor](https://github.com/wangweianger/zanePerfor) - 前端性能监控系统,消息队列,高可用,集群等相关架构
-
-*   [AHCorn/Bilibili-Auto-Quality](https://github.com/AHCorn/Bilibili-Auto-Quality) - 自动解锁并更改哔哩哔哩视频的画质和音质及直播画质，实现自动选择最高画质、无损音频、杜比全景声。 / Automatically unlock and select highest quality,lossless audio,and Dolby Atmos for Bilibili videos.
-
-*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
-
-*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
-
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-
-*   [Alanrk/TabMark-Bookmark-New-Tab](https://github.com/Alanrk/TabMark-Bookmark-New-Tab) - TabMark是一款基于书签的新标签页插件，将你的收藏夹变成新标签页，让你收藏的书签一目了然、整洁高效，快速直达你最需要的网站和资源。搭配智能 AI 搜索，更快找到你想要的答案。支持 Chrome 和 Edge。
-
-*   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
-
-*   [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) - GitHub Freshness 在线文档
-
-*   [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research.
-
-*   [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。
-
-*   [bennyyip/Rime-See-Me](https://github.com/bennyyip/Rime-See-Me) - Skin editor for Weasel(Rime frontend on Windows). All credit goes to http://tieba.baidu.com/p/2491103778
-
-*   [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
-
-*   [maebert/themostdangerouswritingapp](https://github.com/maebert/themostdangerouswritingapp) - If you stop typing for more than five seconds, all progress will be lost.
-
-*   [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
-
-*   [teaSummer/MCiSEE](https://github.com/teaSummer/MCiSEE) - 所见皆是Minecraft，让获取MC资源更加轻便！All of Minecraft, EASILY get Minecraft resources!
-
-*   [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
-
-*   [liseami/DeepRant](https://github.com/liseami/DeepRant) - -游戏文字交流AI嘴强王者工具
-
-*   [liu673cn/box](https://github.com/liu673cn/box) - 自用，勿宣传。
-
-*   [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘/阿里云盘/中国移动云盘/天翼云盘/迅雷云盘/夸克网盘/UC网盘/123云盘 八大网盘
-
-*   [ApliNi/IpacLinker](https://github.com/ApliNi/IpacLinker) - IpacLinker 是一款点对点网络连接工具, 基于 WebRTC. 可用于 Minecraft 联机和开服, 或者远程桌面 / 网络驱动器等应用的连接
-
-*   [brcontainer/prevent-duplicate-tabs](https://github.com/brcontainer/prevent-duplicate-tabs) - Simple add-on/extension for prevent duplicate tabs
-
-*   [QingJ01/123pan\_unlock](https://github.com/QingJ01/123pan_unlock) - 基于油猴的123云盘解锁脚本，支持解锁123云盘下载功能
-
-*   [setube/vue-XiuXianGame](https://github.com/setube/vue-XiuXianGame) - 文字游戏: 我的文字修仙全靠刷
-
-*   [ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend) - FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。
-
-*   [xh321/LiteLoaderQQNT-Media-Local-View](https://github.com/xh321/LiteLoaderQQNT-Media-Local-View) - LiteLoaderQQNT 插件 - QQNT 图片和视频用本地查看器打开
-
-*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-
-*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援  iPhone \&iPad 、TikTok\&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
-
-*   [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager
-
-*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-
-*   [welai/glow-sans](https://github.com/welai/glow-sans) - SHSans-derived CJK font family with a more concise & modern look. 未来荧黑·未來熒黑·ヒカリ角ゴ：基于思源黑体改造，拥有粗度和宽度系列，更加简明现代的超大字体家族。
-
-*   [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
-
-*   [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) - Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。
-
-*   [limbopro/Adblock4limbo](https://github.com/limbopro/Adblock4limbo) - 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.新增页面右下角导航；2.通过调用 JavaScript 移除特定网站网页广告 —— 搜索引擎（Bing/Google）广告及内容农场结果清除/低端影视/欧乐影院/iyf爱壹帆/哔滴影视/Pornhub/Javbus/Supjav/Jable(M3U8)/MissAv/91porn/hitomi/紳士漫畫/禁漫天堂/等视频\&ACG&小说&漫画网站上的弹窗广告&视频广告\&Gif图片广告等，保持网页清爽干净无打扰！ P.S. 欢迎提交issue
-
-*   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
-
-*   [shichuanenhui/TvBox](https://github.com/shichuanenhui/TvBox) -
-
-*   [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
-
-*   [xianyuyimu/TVBOX-](https://github.com/xianyuyimu/TVBOX-) - 一木TVBOX自用仓库
-
-*   [ymyuuu/Cloudflare-Workers-Proxy](https://github.com/ymyuuu/Cloudflare-Workers-Proxy) - 简单而功能强大的反代服务，允许你将一个网址映射到另一个网址，并处理跨域请求
-
-*   [windyhusky/PixivSource](https://github.com/windyhusky/PixivSource) - 为Pixiv网站制作的适配在阅读3.0App上的书源
-
-*   [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
-
-*   [cyao2q/files](https://github.com/cyao2q/files) - TVBox开源版,盒子软件分享
-
-*   [itorr/eva-title](https://github.com/itorr/eva-title) - 🐧「福音战士标题生成器」 Evangelion Title Card Generator
-
-*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
-
-*   [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
-
-*   [jinenge/tvbox](https://github.com/jinenge/tvbox) - TVBox(自带配置版)，内置源，随时更新内置源，不必担心不能用
-
-*   [HCLonely/awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra) - 收集一些让我们在使用B站时更加方便的浏览器扩展/脚本/程序【月底更新】
-
-*   [pulse-browser/browser](https://github.com/pulse-browser/browser) - Pulse Browser: An experimental firefox fork
-
-*   [JudouEco/JudouSans](https://github.com/JudouEco/JudouSans) - 句读黑体，商用免费的多文种混排字体。Judou Sans is a multilingual open-source typeface.
-
-*   [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.
-
-*   [nordtheme/terminal-app](https://github.com/nordtheme/terminal-app) - An arctic, north-bluish clean and elegant Terminal.app color theme.
-
-*   [TankNee/LOL\_Game\_Subscription](https://github.com/TankNee/LOL_Game_Subscription) - lpl,ldl professional match calendar subscription!
-
-*   [OrangeX4/Termux-Finux](https://github.com/OrangeX4/Termux-Finux) - A file manager for mobile linux like termux.
-
-*   [dimdenGD/OldTwitter](https://github.com/dimdenGD/OldTwitter) - Extension to return old Twitter layout from 2015 / 2018.
-
-*   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
-
-*   [MMPI-CHN/MMPI-CHN.github.io](https://github.com/MMPI-CHN/MMPI-CHN.github.io) - MMPI-2中文测试-全免费-带结果
-
-*   [Wiederhoeft/okjiasu\_action](https://github.com/Wiederhoeft/okjiasu_action) - 机场https://okjiasu.com    的自动签到脚本
-
-*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-
-*   [yuzu233/anti-ocr](https://github.com/yuzu233/anti-ocr) - 對抗文字識別
-
-*   [netptop/siteproxy](https://github.com/netptop/siteproxy) - reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录(请注意不要通过不信任的代理进行登录)。支持DuckDuckGo AI Chat(可免费访问chatGPT3.5和Claude3)
-
-*   [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - The open source code of this project is used for userscripts (油猴脚本) for desktop browsers, including Font Rendering (Customized) (字体渲染（自用脚本）- Font Rendering.user.js), and Search Engine Assistant (优雅的搜索引擎助手 - Google & Baidu Switcher.user.js), etc.
-
-*   [Icemic/huozi.js](https://github.com/Icemic/huozi.js) - A simple typography engine for CJK languages, especially designed for game rich-text. 用于游戏富文本的中日韩文字排印引擎。
-
-*   [ineo6/fast-dev](https://github.com/ineo6/fast-dev) - GitHub访问助手
-
-*   [wu-mx/URLignore](https://github.com/wu-mx/URLignore) - A simple node tool.
-
-*   [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-
-*   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-
-*   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
-
-*   [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
-
-*   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
-
-*   [xugaoyi/vuepress-theme-vdoing-doc](https://github.com/xugaoyi/vuepress-theme-vdoing-doc) - vuepress-theme-vdoing主题文档
-
-*   [cteamx/Thief](https://github.com/cteamx/Thief) - 一款创新跨平台摸鱼神器，支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式，为上班族打造的上班必备神器，使用此软件可以让上班倍感轻松，远离 ICU。
-
-*   [ShizukuIchi/minesweeper](https://github.com/ShizukuIchi/minesweeper) - 💣 Windows XP minesweeper in web. Also support mobile. 🎉📱
-
-*   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
-
-*   [BakaXL-Support/BakaXL-QA-docs](https://github.com/BakaXL-Support/BakaXL-QA-docs) - 本存储库文档已全量转移至下一代文档仓库
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [aidenlx/cm-chs-patch](https://github.com/aidenlx/cm-chs-patch) - A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chinese word splitting Obsidian内置编辑器的(简体)中文分词支持
-
-*   [wifi-left/HMCL-docs-website](https://github.com/wifi-left/HMCL-docs-website) - HMCL 文档的网站版本
-
-*   [lkyero/GitHubDesktop\_zh](https://github.com/lkyero/GitHubDesktop_zh) - 【GitHub Desktop】客户端中文汉化（简体）；【GitHub Desktop】 Simplified Chinese interface；（GitHub桌面版 中文汉化，非网页插件）
-
-*   [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
-
-*   [alexhua/Aria2-Explorer](https://github.com/alexhua/Aria2-Explorer) - An aria2 download task management extension for chromium based browser
-
-*   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
-
-*   [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
-
 ## Python
 
 *   [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
@@ -924,8 +1074,6 @@
 *   [chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) -
 
 *   [archlinuxcn/mirrorlist-repo](https://github.com/archlinuxcn/mirrorlist-repo) - Arch Linux CN Community repo mirrors list
-
-*   [TISUnion/ChatBridge](https://github.com/TISUnion/ChatBridge) - boardcast chat between mc servers or even discord server
 
 ## miscellaneous
 
@@ -1511,150 +1659,6 @@
 
 *   [2697a/bujuan](https://github.com/2697a/bujuan) - Flutter移动端+桌面端三方网易云播放器
 
-## Shell
-
-*   [aormsby/Fork-Sync-With-Upstream-action](https://github.com/aormsby/Fork-Sync-With-Upstream-action) - An action to automatically update your fork with new commits from the upstream repo
-
-*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
-
-*   [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) - Run Cloudflare WARP in Docker.
-
-*   [Unofficial-Life/Lawnchair-Launcher-Module](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module) - Replace your stock launcher with Lawnchair Launcher module (Q to U) for Magisk and KSU (Quickswitch included)
-
-*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
-
-*   [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
-
-*   [pzcn/Perfect-Icons-Completion-Project](https://github.com/pzcn/Perfect-Icons-Completion-Project) - MIUI 完美图标补全计划
-
-*   [symbuzzer/livebootmodule](https://github.com/symbuzzer/livebootmodule) - A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices
-
-*   [YumeYuka/Suu-Nyanya](https://github.com/YumeYuka/Suu-Nyanya) - 让杂乱无章的文件世界变得如同精美画卷般整洁可爱喵~✨Let the chaotic world of documents become as tidy and lovely as a beautiful painting~✨
-
-*   [twoone-3/AdGuardHomeForRoot](https://github.com/twoone-3/AdGuardHomeForRoot) -
-
-*   [suiyuanlixin/fas-rs-usage-clamping](https://github.com/suiyuanlixin/fas-rs-usage-clamping) - Frame aware scheduling for android, work with cpufreq clamping. Requires 5.10 or 5.15 kernel and kernel ebpf support
-
-*   [TimeBreeze/Tritium](https://github.com/TimeBreeze/Tritium) - 最大化CPU的潜力 Maximize the potential of CPU
-
-*   [Magisk-Modules-Repo/adb-ndk](https://github.com/Magisk-Modules-Repo/adb-ndk) - adb-ndk
-
-*   [eendroroy/alien](https://github.com/eendroroy/alien) - An asynchronous zsh prompt
-
-*   [Bambooin/rimerc](https://github.com/Bambooin/rimerc) - rimerc: rimer's dictionary & config
-
-*   [RohitVerma882/termux-miunlock](https://github.com/RohitVerma882/termux-miunlock) - A program that can be used to retrieve the bootloader unlock token for Xiaomi devices. (and unlock the bootloader) using Termux
-
-*   [nohajc/termux-adb](https://github.com/nohajc/termux-adb) - Run adb in Termux without root permissions!
-
-*   [MoGuangYu/Surfing](https://github.com/MoGuangYu/Surfing) - Magisk and KernelSU modules for  Clash/mihomo services.
-
-*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
-
-*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
-
-*   [kirklin/magisk-brick-guardian](https://github.com/kirklin/magisk-brick-guardian) - 一个Magisk 模块，用于防止您的设备因 Magisk 模块导致的启动问题而变砖。
-
-*   [olegos2/mobox](https://github.com/olegos2/mobox) -
-
-*   [rushiranpise/xmlpak-RE](https://github.com/rushiranpise/xmlpak-RE) -
-
-*   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
-
-*   [DanGLES3/Hide-Navbar](https://github.com/DanGLES3/Hide-Navbar) - Hide Navbar
-
-*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
-
-*   [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices
-
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
-
-*   [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) -
-
-*   [Goooler/systemless-fcm-hosts](https://github.com/Goooler/systemless-fcm-hosts) - A Magisk module integrated with FCM hosts for Chinese users.
-
-*   [VR-25/acc](https://github.com/VR-25/acc) - Advanced Charging Controller
-
-*   [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) - Colorize your termux! Oh-my-zsh included!
-
-*   [ful1e5/Bibata\_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
-
-*   [muink/Magisk-Captive-Manager](https://github.com/muink/Magisk-Captive-Manager) - 修改Captive Portal服务器, 可解Android 网络感叹号问题
-
-*   [huzesama/ASGuard](https://github.com/huzesama/ASGuard) - Magisk模块，用于安卓的无障碍服务(或名:辅助功能)辅助管理模块
-
-*   [programminghoch10/ViPER4AndroidRepackaged](https://github.com/programminghoch10/ViPER4AndroidRepackaged) - A refined ViPER4Android installer.
-
-*   [Zackptg5/Disable\_Dm-Verity\_ForceEncrypt](https://github.com/Zackptg5/Disable_Dm-Verity_ForceEncrypt) - Disables dm-verity and forceencrypt
-
-*   [Magisk-Modules-Repo/wifi-bonding](https://github.com/Magisk-Modules-Repo/wifi-bonding) - Double your bandwith on your Qualcomm devices.
-
-*   [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
-
-*   [White9shadow/God-Speed-Mode](https://github.com/White9shadow/God-Speed-Mode) - This Is  a Magisk Module Aimed To Boost Android Performance.
-
-*   [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) -
-
-*   [2moe/tmoe](https://github.com/2moe/tmoe) - TMOE, More Optional Environments.
-
-*   [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
-
-*   [ping11700/LOLkit](https://github.com/ping11700/LOLkit) - One gift for all LOL gamers， League of Legends工具
-
-*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-
-*   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
-
-*   [shipinbaoku/ikev2-vpn-setup-bash](https://github.com/shipinbaoku/ikev2-vpn-setup-bash) - 使用bash脚本一键搭建Ikev2的vpn服务端.
-
-*   [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
-
-*   [410154425/AdGuardHome\_magisk](https://github.com/410154425/AdGuardHome_magisk) - 去广告magisk模块，通过DNS层面过滤广告、防DNS劫持，使用前请先详读mode.conf文件，使用前需关闭私人dns，不可用wap接入点，支持订阅过滤规则，可兼容VPN、免模块、翻模块、校园网等特殊使用环境。top大佬(酷安)
-
-*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
-
-*   [Magisk-Modules-Repo/CloudflareDNS4Magisk](https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk) - CloudflareDNS4Magisk
-
-*   [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
-
-*   [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List for blocking ads in the Chinese region
-
-*   [yinwanxi/Uperf-Game-Turbo](https://github.com/yinwanxi/Uperf-Game-Turbo) - Userspace performance controller for android
-
-*   [yc9559/uperf](https://github.com/yc9559/uperf) - Userspace performance controller for android
-
-*   [zhucaidan/mtr\_trace](https://github.com/zhucaidan/mtr_trace) - Linux MTR route trace script | 检测VPS回程国内三网路由
-
-*   [VIKINGYFY/OpenWRT-CI](https://github.com/VIKINGYFY/OpenWRT-CI) - 云编译OpenWRT开源固件
-
-*   [nufeng1999/WSL\_GNOME](https://github.com/nufeng1999/WSL_GNOME) - Environment configuration for WSL running Gnome
-
-*   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-
-*   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-
-*   [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) - Transparent proxy(Tproxy) for android (root)
-
-*   [alvatip/Borealis-cursors](https://github.com/alvatip/Borealis-cursors) -
-
-*   [Generator/Grub2-themes](https://github.com/Generator/Grub2-themes) - Grub2 gfxmenu themes
-
-*   [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
-
-*   [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
-
-*   [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
-
-*   [vufa/deepin-wine-tim-arch](https://github.com/vufa/deepin-wine-tim-arch) - Tencent TIM on Deepin Wine(com.qq.office.deepin) For Archlinux
-
-*   [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch) - Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
-
-*   [zpj80231/znote](https://github.com/zpj80231/znote) - 🎈VuePress 静态布局 Blog，清新+ 简洁+。
-
-*   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
-
-*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-
 ## C++
 
 *   [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
@@ -1732,8 +1736,6 @@
 *   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
 *   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-
-*   [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.
 
 ## Rust
 
@@ -1963,8 +1965,6 @@
 
 *   [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io) -
 
-*   [sirpdboy/luci-app-ddns-go](https://github.com/sirpdboy/luci-app-ddns-go) - luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商 Alidns(阿里云) Dnspod(腾讯云) Cloudflare 华为云 Callback 百度云 porkbun GoDaddy
-
 *   [Terminus2049/Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) - 豆瓣不存在的书影音
 
 *   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
@@ -2003,7 +2003,7 @@
 
 ## Rich Text Format
 
-*   [PrysmaVT/win7-sp2](https://github.com/PrysmaVT/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
+*   [54ph/win7-sp2](https://github.com/54ph/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
 
 ## NSIS
 

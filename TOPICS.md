@@ -2597,6 +2597,10 @@
 
 ## miscellaneous
 
+*   [chenzyadb/CuprumTurbo-Scheduler](https://github.com/chenzyadb/CuprumTurbo-Scheduler) - A Simple and Reliable Performance Scheduler.
+
+*   [jqwgt/bilibili-favlist-classifier](https://github.com/jqwgt/bilibili-favlist-classifier) -
+
 *   [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) - Switch and track your input sources with ease ✨
 
 *   [hotpad100c/yetanothercarpetaddition](https://github.com/hotpad100c/yetanothercarpetaddition) - Another carpet addition
@@ -3250,10 +3254,6 @@
 *   [Earthcomputer/clientcommands](https://github.com/Earthcomputer/clientcommands) - Adds useful client-side commands
 
 *   [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more. :electron:
-
-*   [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.
-
-*   [TISUnion/ChatBridge](https://github.com/TISUnion/ChatBridge) - boardcast chat between mc servers or even discord server
 
 ## neovim
 
@@ -5557,7 +5557,7 @@
 
 *   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
 
-*   [PrysmaVT/win7-sp2](https://github.com/PrysmaVT/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
+*   [54ph/win7-sp2](https://github.com/54ph/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
 
 *   [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 
@@ -7329,11 +7329,11 @@
 
 ## win7
 
-*   [PrysmaVT/win7-sp2](https://github.com/PrysmaVT/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
+*   [54ph/win7-sp2](https://github.com/54ph/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
 
 ## windows7
 
-*   [PrysmaVT/win7-sp2](https://github.com/PrysmaVT/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
+*   [54ph/win7-sp2](https://github.com/54ph/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
 
 ## firefox
 
