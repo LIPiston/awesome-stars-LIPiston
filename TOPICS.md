@@ -14,9 +14,39 @@
 
 *   [178](#178)
 *   [114514](#114514)
-*   [cloudflare](#cloudflare)
-*   [http](#http)
+*   [cloudflare-worker](#cloudflare-worker)
+*   [docker-registry](#docker-registry)
 *   [proxy](#proxy)
+*   [acme](#acme)
+*   [alpine](#alpine)
+*   [argo](#argo)
+*   [clash-meta](#clash-meta)
+*   [cloudflared](#cloudflared)
+*   [geosite](#geosite)
+*   [hostuno](#hostuno)
+*   [hysteria2](#hysteria2)
+*   [oblivion](#oblivion)
+*   [openclash](#openclash)
+*   [psiphon](#psiphon)
+*   [serv00](#serv00)
+*   [shadowrocket](#shadowrocket)
+*   [sing-box](#sing-box)
+*   [telegram-bot](#telegram-bot)
+*   [tuic](#tuic)
+*   [v2ray](#v2ray)
+*   [v2rayn](#v2rayn)
+*   [warp](#warp)
+*   [xray](#xray)
+*   [edge](#edge)
+*   [image-file-execution-options](#image-file-execution-options)
+*   [msedge](#msedge)
+*   [uri](#uri)
+*   [uri-manipulations](#uri-manipulations)
+*   [uri-parser](#uri-parser)
+*   [uri-solutions](#uri-solutions)
+*   [windows](#windows)
+*   [windows10](#windows10)
+*   [windows11](#windows11)
 *   [123pan](#123pan)
 *   [netdisk](#netdisk)
 *   [tampermonkey-script](#tampermonkey-script)
@@ -50,12 +80,10 @@
 *   [magiskonwsa](#magiskonwsa)
 *   [magiskonwsalocal](#magiskonwsalocal)
 *   [subsystem](#subsystem)
-*   [windows](#windows)
 *   [windows-10](#windows-10)
 *   [windows-11](#windows-11)
 *   [windows-subsystem-android](#windows-subsystem-android)
 *   [windows-subsystem-for-android](#windows-subsystem-for-android)
-*   [windows10](#windows10)
 *   [windowssubsystemforandroid](#windowssubsystemforandroid)
 *   [wsa](#wsa)
 *   [wsa-root](#wsa-root)
@@ -131,7 +159,6 @@
 *   [utterances](#utterances)
 *   [widget](#widget)
 *   [almalinux](#almalinux)
-*   [alpine](#alpine)
 *   [archlinux](#archlinux)
 *   [armbian](#armbian)
 *   [centos](#centos)
@@ -334,7 +361,6 @@
 *   [ssr](#ssr)
 *   [trojan](#trojan)
 *   [trojan-go](#trojan-go)
-*   [v2ray](#v2ray)
 *   [vpn](#vpn)
 *   [f-droid](#f-droid)
 *   [jetpack-compose](#jetpack-compose)
@@ -403,12 +429,11 @@
 *   [snippets](#snippets)
 *   [text-expansion](#text-expansion)
 *   [ifeo](#ifeo)
-*   [image-file-execution-options](#image-file-execution-options)
 *   [xaml](#xaml)
+*   [cloudflare](#cloudflare)
 *   [endpoint](#endpoint)
 *   [netflix](#netflix)
 *   [socks5-proxy](#socks5-proxy)
-*   [warp](#warp)
 *   [warp-cli](#warp-cli)
 *   [warp-go](#warp-go)
 *   [wgcf](#wgcf)
@@ -426,7 +451,6 @@
 *   [imgbed](#imgbed)
 *   [oss](#oss)
 *   [s3](#s3)
-*   [telegram-bot](#telegram-bot)
 *   [chinese](#chinese)
 *   [cookbook](#cookbook)
 *   [cooking](#cooking)
@@ -915,14 +939,10 @@
 *   [text](#text)
 *   [viewmodel](#viewmodel)
 *   [preview](#preview)
-*   [clash-meta](#clash-meta)
 *   [mihomo](#mihomo)
 *   [client](#client)
-*   [hysteria2](#hysteria2)
-*   [sing-box](#sing-box)
 *   [tproxy](#tproxy)
 *   [tun](#tun)
-*   [xray](#xray)
 *   [honkai-star-rail](#honkai-star-rail)
 *   [star-rail-api](#star-rail-api)
 *   [hysteria](#hysteria)
@@ -1193,7 +1213,6 @@
 *   [system-utility](#system-utility)
 *   [windows-optimization](#windows-optimization)
 *   [windows-performance](#windows-performance)
-*   [windows11](#windows11)
 *   [aosp](#aosp)
 *   [wireless](#wireless)
 *   [xbox](#xbox)
@@ -1234,6 +1253,7 @@
 *   [firebase-push](#firebase-push)
 *   [gcm](#gcm)
 *   [hosts](#hosts)
+*   [http](#http)
 *   [https](#https)
 *   [annotations](#annotations)
 *   [annotree](#annotree)
@@ -1399,7 +1419,6 @@
 *   [nginx](#nginx)
 *   [quantumultx](#quantumultx)
 *   [routing](#routing)
-*   [shadowrocket](#shadowrocket)
 *   [surge](#surge)
 *   [gkd](#gkd)
 *   [gkd-subscription](#gkd-subscription)
@@ -1431,16 +1450,16 @@
 *   [todotxt](#todotxt)
 *   [university](#university)
 *   [zim-wiki](#zim-wiki)
-*   [aes-256](#aes-256)
 *   [background-removal](#background-removal)
 *   [clean-architecture](#clean-architecture)
 *   [crop](#crop)
-*   [djvu](#djvu)
 *   [edit-photo](#edit-photo)
 *   [exif](#exif)
 *   [filter-image](#filter-image)
 *   [jxl](#jxl)
 *   [ocr-recognition](#ocr-recognition)
+*   [photo-collage](#photo-collage)
+*   [photo-editor](#photo-editor)
 *   [psd](#psd)
 *   [qrcode-scanner](#qrcode-scanner)
 *   [watermark](#watermark)
@@ -1582,7 +1601,6 @@
 *   [chinalist](#chinalist)
 *   [dnsmasq](#dnsmasq)
 *   [easylist](#easylist)
-*   [geosite](#geosite)
 *   [gfwlist](#gfwlist)
 *   [miru](#miru)
 *   [ani](#ani)
@@ -2092,7 +2110,6 @@
 *   [containerd](#containerd)
 *   [vm](#vm)
 *   [juicity](#juicity)
-*   [tuic](#tuic)
 *   [dae](#dae)
 *   [ebpf](#ebpf)
 *   [policy-routing](#policy-routing)
@@ -2555,7 +2572,6 @@
 *   [doc](#doc)
 *   [documentation-tool](#documentation-tool)
 *   [github-pages](#github-pages)
-*   [openclash](#openclash)
 *   [snell](#snell)
 *   [afdko](#afdko)
 *   [ttf-fonts](#ttf-fonts)
@@ -2614,29 +2630,17 @@
 
 *   [Sticky-attention/Sticky-attention](https://github.com/Sticky-attention/Sticky-attention) - 一款新作业贴软件 新增了原版没有的新功能
 
-## cloudflare
+## cloudflare-worker
 
-*   [jonssonyan/cf-workers-proxy](https://github.com/jonssonyan/cf-workers-proxy) - Cloudflare Workers HTTP 反向代理
+*   [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) -  A docker registry proxy run on cloudflare worker.
 
-*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
+## docker-registry
 
-*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
-
-*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
-
-*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-
-## http
-
-*   [jonssonyan/cf-workers-proxy](https://github.com/jonssonyan/cf-workers-proxy) - Cloudflare Workers HTTP 反向代理
-
-*   [Goooler/systemless-fcm-hosts](https://github.com/Goooler/systemless-fcm-hosts) - A Magisk module integrated with FCM hosts for Chinese users.
-
-*   [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
+*   [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) -  A docker registry proxy run on cloudflare worker.
 
 ## proxy
 
-*   [jonssonyan/cf-workers-proxy](https://github.com/jonssonyan/cf-workers-proxy) - Cloudflare Workers HTTP 反向代理
+*   [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) -  A docker registry proxy run on cloudflare worker.
 
 *   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
 
@@ -2667,6 +2671,320 @@
 *   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 
 *   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+## acme
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+## alpine
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
+
+*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
+
+## argo
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+## clash-meta
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+*   [GitMetaio/Surfing](https://github.com/GitMetaio/Surfing) - Magisk and KernelSU modules for  Clash/mihomo services.
+
+*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
+
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+
+## cloudflared
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+## geosite
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+## hostuno
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+## hysteria2
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
+
+*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
+
+## oblivion
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+## openclash
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+## psiphon
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+## serv00
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+## shadowrocket
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+*   [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
+
+*   [limbopro/Adblock4limbo](https://github.com/limbopro/Adblock4limbo) - 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.新增页面右下角导航；2.通过调用 JavaScript 移除特定网站网页广告 —— 搜索引擎（Bing/Google）广告及内容农场结果清除/低端影视/欧乐影院/iyf爱壹帆/哔滴影视/Pornhub/Javbus/Supjav/Jable(M3U8)/MissAv/91porn/hitomi/紳士漫畫/禁漫天堂/等视频\&ACG&小说&漫画网站上的弹窗广告&视频广告\&Gif图片广告等，保持网页清爽干净无打扰！ P.S. 欢迎提交issue
+
+*   [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
+
+*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
+
+*   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
+
+## sing-box
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
+
+*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
+
+*   [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - Best Sub, Best for Your Net
+
+*   [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
+
+*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+
+## telegram-bot
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
+
+*   [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
+
+## tuic
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+*   [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
+
+## v2ray
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+*   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
+
+*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
+
+*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
+
+*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
+*   [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
+
+*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
+
+*   [ca110us/epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach
+
+*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
+
+*   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
+
+*   [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
+
+*   [Vikutorika/Airports](https://github.com/Vikutorika/Airports) - 免费订阅推荐以及个人认为划算的机场，因为免费域名被回收了，所以在这里重新更新
+
+*   [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
+
+*   [MatsuriDayo/Matsuri](https://github.com/MatsuriDayo/Matsuri) - Matsuri (茉莉) / V2Ray / universal proxy toolchain for Android / Fork of SagerNet
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+## v2rayn
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+## warp
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
+
+*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
+
+## xray
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
+
+*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
+
+*   [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
+
+*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
+
+## edge
+
+*   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+
+## image-file-execution-options
+
+*   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+
+*   [SuGar0218/PreLaunchTaskr](https://github.com/SuGar0218/PreLaunchTaskr) - 通过映像劫持，在应用程序启动前做一些事情，例如：更改启动参数、设置环境变量、执行程序或脚本。
+
+## msedge
+
+*   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+
+## uri
+
+*   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+
+## uri-manipulations
+
+*   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+
+## uri-parser
+
+*   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+
+## uri-solutions
+
+*   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+
+## windows
+
+*   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+
+*   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
+
+*   [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 HuLa是一款基于Tauri v2+Vue3的跨平台即时通讯桌面应用（不仅仅是即时通讯），兼容Windows、MacOS、Linux、Android、IOS
+
+*   [dongyuwei/hallelujahIM](https://github.com/dongyuwei/hallelujahIM) - hallelujahIM(哈利路亚 英文输入法) is  an intelligent English input method with auto-suggestions and spell check features.
+
+*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 跨平台桌宠 BongoCat，为桌面增添乐趣！
+
+*   [bukson/steampy](https://github.com/bukson/steampy) - A Steam trading library for python 3
+
+*   [mir1ce/Hawkeye](https://github.com/mir1ce/Hawkeye) - Windows应急响应工具---Hawkeye(鹰眼)。集Windows日志分析，进程扫描，主机信息于一体的综合应急响应分析工具
+
+*   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
+
+*   [54ph/win7-sp2](https://github.com/54ph/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
+
+*   [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
+
+*   [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
+
+*   [Bambooin/rimerc](https://github.com/Bambooin/rimerc) - rimerc: rimer's dictionary & config
+
+*   [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances
+
+*   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
+
+*   [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
+
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+
+*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
+
+*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+
+*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
+
+*   [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
+
+*   [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
+
+*   [InkCanvas/InkCanvasForClass](https://github.com/InkCanvas/InkCanvasForClass) - InkCanvasForClass 是一款开源易用的电子教鞭软件
+
+*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
+*   [sxzxs/Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing) - 实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字
+
+*   [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
+
+*   [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - Block the keyboard input while you were eating instant noodles on your laptop keyboard.
+
+*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+
+*   [Class-Widgets/Class-Widgets](https://github.com/Class-Widgets/Class-Widgets) - Class Widgets One，但是维护者是 IsHPDuwu & baiyao105  | CW2 is coming soon
+
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+*   [ful1e5/Bibata\_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
+
+*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
+
+*   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
+
+*   [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
+
+*   [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
+
+*   [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
+
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+
+*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
+
+*   [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
+
+*   [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
+
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+
+*   [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
+
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+
+*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
+
+*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
+
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
+## windows10
+
+*   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+
+*   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
+
+*   [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
+
+*   [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
+
+## windows11
+
+*   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+
+*   [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
+
+*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
 
 ## 123pan
 
@@ -3412,8 +3730,6 @@
 
 *   [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
 
-*   [KusStar/rewind-apks](https://github.com/KusStar/rewind-apks) - 倒带 App｜应用安装包仓库
-
 ## ai
 
 *   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -3846,102 +4162,6 @@
 
 *   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 
-## windows
-
-*   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
-
-*   [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 HuLa是一款基于Tauri v2+Vue3的跨平台即时通讯桌面应用（不仅仅是即时通讯），兼容Windows、MacOS、Linux、Android、IOS
-
-*   [dongyuwei/hallelujahIM](https://github.com/dongyuwei/hallelujahIM) - hallelujahIM(哈利路亚 英文输入法) is  an intelligent English input method with auto-suggestions and spell check features.
-
-*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 跨平台桌宠 BongoCat，为桌面增添乐趣！
-
-*   [bukson/steampy](https://github.com/bukson/steampy) - A Steam trading library for python 3
-
-*   [mir1ce/Hawkeye](https://github.com/mir1ce/Hawkeye) - Windows应急响应工具---Hawkeye(鹰眼)。集Windows日志分析，进程扫描，主机信息于一体的综合应急响应分析工具
-
-*   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
-
-*   [54ph/win7-sp2](https://github.com/54ph/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
-
-*   [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
-
-*   [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
-
-*   [Bambooin/rimerc](https://github.com/Bambooin/rimerc) - rimerc: rimer's dictionary & config
-
-*   [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances
-
-*   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
-
-*   [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
-
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-
-*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
-
-*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-
-*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
-
-*   [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
-
-*   [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
-
-*   [InkCanvas/InkCanvasForClass](https://github.com/InkCanvas/InkCanvasForClass) - InkCanvasForClass 是一款开源易用的电子教鞭软件
-
-*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-
-*   [sxzxs/Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing) - 实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字
-
-*   [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
-
-*   [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - Block the keyboard input while you were eating instant noodles on your laptop keyboard.
-
-*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-
-*   [Class-Widgets/Class-Widgets](https://github.com/Class-Widgets/Class-Widgets) - Class Widgets One，但是维护者是 IsHPDuwu & baiyao105  | CW2 is coming soon
-
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-
-*   [ful1e5/Bibata\_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
-
-*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
-
-*   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
-
-*   [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
-
-*   [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
-
-*   [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
-
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-
-*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
-
-*   [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
-
-*   [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
-
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
-
-*   [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
-
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-
-*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
-
-*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
-
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-
-*   [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
-
 ## windows-10
 
 *   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
@@ -3962,8 +4182,6 @@
 
 *   [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
 
-*   [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
-
 ## windows-11
 
 *   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
@@ -3978,8 +4196,6 @@
 
 *   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 
-*   [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
-
 ## windows-subsystem-android
 
 *   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
@@ -3987,14 +4203,6 @@
 ## windows-subsystem-for-android
 
 *   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
-
-## windows10
-
-*   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
-
-*   [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
-
-*   [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
 
 ## windowssubsystemforandroid
 
@@ -4849,12 +5057,6 @@
 ## almalinux
 
 *   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
-
-## alpine
-
-*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
-
-*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
 
 ## archlinux
 
@@ -6444,38 +6646,6 @@
 
 *   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
 
-## v2ray
-
-*   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
-
-*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
-
-*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
-
-*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-
-*   [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
-
-*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
-
-*   [ca110us/epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach
-
-*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-
-*   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
-
-*   [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
-
-*   [Vikutorika/Airports](https://github.com/Vikutorika/Airports) - 免费订阅推荐以及个人认为划算的机场，因为免费域名被回收了，所以在这里重新更新
-
-*   [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
-
-*   [MatsuriDayo/Matsuri](https://github.com/MatsuriDayo/Matsuri) - Matsuri (茉莉) / V2Ray / universal proxy toolchain for Android / Fork of SagerNet
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
 ## vpn
 
 *   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
@@ -6988,10 +7158,6 @@
 
 *   [SuGar0218/PreLaunchTaskr](https://github.com/SuGar0218/PreLaunchTaskr) - 通过映像劫持，在应用程序启动前做一些事情，例如：更改启动参数、设置环境变量、执行程序或脚本。
 
-## image-file-execution-options
-
-*   [SuGar0218/PreLaunchTaskr](https://github.com/SuGar0218/PreLaunchTaskr) - 通过映像劫持，在应用程序启动前做一些事情，例如：更改启动参数、设置环境变量、执行程序或脚本。
-
 ## xaml
 
 *   [SuGar0218/PreLaunchTaskr](https://github.com/SuGar0218/PreLaunchTaskr) - 通过映像劫持，在应用程序启动前做一些事情，例如：更改启动参数、设置环境变量、执行程序或脚本。
@@ -6999,6 +7165,16 @@
 *   [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
 
 *   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+## cloudflare
+
+*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
+
+*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
+
+*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
+
+*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
 
 ## endpoint
 
@@ -7013,12 +7189,6 @@
 *   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
 
 *   [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
-
-## warp
-
-*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
-
-*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 
 ## warp-cli
 
@@ -7169,12 +7339,6 @@
 *   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 
 *   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-
-## telegram-bot
-
-*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
-
-*   [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
 
 ## chinese
 
@@ -9216,8 +9380,6 @@
 
 *   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
-*   [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
-
 ## terminal-emulators
 
 *   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -9298,8 +9460,6 @@
 
 *   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 
-*   [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
-
 ## wsl2
 
 *   [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances
@@ -9363,8 +9523,6 @@
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 *   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
-
-*   [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
 
 ## scoop
 
@@ -10284,16 +10442,6 @@
 
 *   [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 
-## clash-meta
-
-*   [GitMetaio/Surfing](https://github.com/GitMetaio/Surfing) - Magisk and KernelSU modules for  Clash/mihomo services.
-
-*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
-
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-
 ## mihomo
 
 *   [GitMetaio/Surfing](https://github.com/GitMetaio/Surfing) - Magisk and KernelSU modules for  Clash/mihomo services.
@@ -10322,24 +10470,6 @@
 
 *   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 
-## hysteria2
-
-*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
-
-*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
-
-## sing-box
-
-*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
-
-*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
-
-*   [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - Best Sub, Best for Your Net
-
-*   [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
-
-*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-
 ## tproxy
 
 *   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
@@ -10347,16 +10477,6 @@
 ## tun
 
 *   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
-
-## xray
-
-*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
-
-*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
-
-*   [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
-
-*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
 
 ## honkai-star-rail
 
@@ -11764,12 +11884,6 @@
 
 *   [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
 
-## windows11
-
-*   [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
-
-*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
-
 ## aosp
 
 *   [xudazhu1/NoticeFix](https://github.com/xudazhu1/NoticeFix) - 这是一个用于原生/类原生的Xposed模块 修复(类)原生安卓通知图标在墙内水土不服等功能
@@ -11963,6 +12077,12 @@
 *   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 
 *   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
+
+## http
+
+*   [Goooler/systemless-fcm-hosts](https://github.com/Goooler/systemless-fcm-hosts) - A Magisk module integrated with FCM hosts for Chinese users.
+
+*   [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
 
 ## https
 
@@ -12802,18 +12922,6 @@
 
 *   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 
-## shadowrocket
-
-*   [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
-
-*   [limbopro/Adblock4limbo](https://github.com/limbopro/Adblock4limbo) - 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.新增页面右下角导航；2.通过调用 JavaScript 移除特定网站网页广告 —— 搜索引擎（Bing/Google）广告及内容农场结果清除/低端影视/欧乐影院/iyf爱壹帆/哔滴影视/Pornhub/Javbus/Supjav/Jable(M3U8)/MissAv/91porn/hitomi/紳士漫畫/禁漫天堂/等视频\&ACG&小说&漫画网站上的弹窗广告&视频广告\&Gif图片广告等，保持网页清爽干净无打扰！ P.S. 欢迎提交issue
-
-*   [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
-
-*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
-
-*   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
-
 ## surge
 
 *   [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
@@ -12900,8 +13008,6 @@
 
 *   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
-*   [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
-
 ## wsldl
 
 *   [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
@@ -12974,10 +13080,6 @@
 
 *   [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 
-## aes-256
-
-*   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
-
 ## background-removal
 
 *   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
@@ -12987,10 +13089,6 @@
 *   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 
 ## crop
-
-*   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
-
-## djvu
 
 *   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 
@@ -13011,6 +13109,14 @@
 *   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 
 ## ocr-recognition
+
+*   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
+
+## photo-collage
+
+*   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
+
+## photo-editor
 
 *   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 
@@ -13680,12 +13786,6 @@
 
 *   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 
-## geosite
-
-*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
 ## gfwlist
 
 *   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
@@ -14133,8 +14233,6 @@
 ## context-menu
 
 *   [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
-
-*   [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
 
 ## file-explorer
 
@@ -15927,10 +16025,6 @@
 *   [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 
 ## juicity
-
-*   [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
-
-## tuic
 
 *   [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
 
@@ -17837,10 +17931,6 @@
 ## github-pages
 
 *   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
-
-## openclash
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 
 ## snell
 
