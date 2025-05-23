@@ -14,6 +14,18 @@
 
 *   [178](#178)
 *   [114514](#114514)
+*   [argo](#argo)
+*   [cdn](#cdn)
+*   [cloudflare](#cloudflare)
+*   [proxy](#proxy)
+*   [shadowsock](#shadowsock)
+*   [trojan](#trojan)
+*   [tunnel](#tunnel)
+*   [v2ray](#v2ray)
+*   [vless](#vless)
+*   [vmess](#vmess)
+*   [vpn](#vpn)
+*   [xray](#xray)
 *   [miscellaneous](#miscellaneous)
 *   [pytorch](#pytorch)
 *   [stable-diffusion](#stable-diffusion)
@@ -53,7 +65,6 @@
 *   [oauth](#oauth)
 *   [sso](#sso)
 *   [tailscale](#tailscale)
-*   [vpn](#vpn)
 *   [wireguard](#wireguard)
 *   [autohotkey](#autohotkey)
 *   [palestine](#palestine)
@@ -119,7 +130,6 @@
 *   [sing-box](#sing-box)
 *   [analytics](#analytics)
 *   [bitly-alternative](#bitly-alternative)
-*   [cloudflare](#cloudflare)
 *   [link-shortener](#link-shortener)
 *   [nuxt](#nuxt)
 *   [nuxthub](#nuxthub)
@@ -149,10 +159,8 @@
 *   [static-analysis](#static-analysis)
 *   [cloudflare-worker](#cloudflare-worker)
 *   [docker-registry](#docker-registry)
-*   [proxy](#proxy)
 *   [acme](#acme)
 *   [alpine](#alpine)
-*   [argo](#argo)
 *   [clash-meta](#clash-meta)
 *   [cloudflared](#cloudflared)
 *   [geosite](#geosite)
@@ -164,10 +172,8 @@
 *   [shadowrocket](#shadowrocket)
 *   [telegram-bot](#telegram-bot)
 *   [tuic](#tuic)
-*   [v2ray](#v2ray)
 *   [v2rayn](#v2rayn)
 *   [warp](#warp)
-*   [xray](#xray)
 *   [edge](#edge)
 *   [image-file-execution-options](#image-file-execution-options)
 *   [msedge](#msedge)
@@ -467,7 +473,6 @@
 *   [clash](#clash)
 *   [sr](#sr)
 *   [ssr](#ssr)
-*   [trojan](#trojan)
 *   [trojan-go](#trojan-go)
 *   [jetpack-compose](#jetpack-compose)
 *   [youtube-dl](#youtube-dl)
@@ -1120,7 +1125,6 @@
 *   [xunlei-netdisk](#xunlei-netdisk)
 *   [yidong-netdisk](#yidong-netdisk)
 *   [multi-platform](#multi-platform)
-*   [vless](#vless)
 *   [cuda](#cuda)
 *   [dark-mode](#dark-mode)
 *   [file-server](#file-server)
@@ -1640,7 +1644,6 @@
 *   [gradle](#gradle)
 *   [minecraft-plugin](#minecraft-plugin)
 *   [spigot](#spigot)
-*   [cdn](#cdn)
 *   [cdn-provider](#cdn-provider)
 *   [chunzhen](#chunzhen)
 *   [geoip2](#geoip2)
@@ -2010,7 +2013,6 @@
 *   [virtual-engine](#virtual-engine)
 *   [virtualapp](#virtualapp)
 *   [virtualbox](#virtualbox)
-*   [vmess](#vmess)
 *   [sh](#sh)
 *   [ss](#ss)
 *   [chromium-extension](#chromium-extension)
@@ -2167,7 +2169,6 @@
 *   [rtc](#rtc)
 *   [rtt](#rtt)
 *   [socket](#socket)
-*   [tunnel](#tunnel)
 *   [udp](#udp)
 *   [responsive](#responsive)
 *   [single-page-app](#single-page-app)
@@ -2806,14 +2807,6 @@
 *   [mca-region](#mca-region)
 *   [minecraft-saves](#minecraft-saves)
 *   [minecraft-world](#minecraft-world)
-*   [cli-app](#cli-app)
-*   [oh-my-zsh-plugin](#oh-my-zsh-plugin)
-*   [oh-my-zsh-theme](#oh-my-zsh-theme)
-*   [ohmyzsh](#ohmyzsh)
-*   [plugin-framework](#plugin-framework)
-*   [plugins](#plugins)
-*   [themes](#themes)
-*   [zsh-configuration](#zsh-configuration)
 *   [Thanks](#thanks)
 
 ## 178
@@ -2823,6 +2816,194 @@
 ## 114514
 
 *   [Sticky-attention/Sticky-attention](https://github.com/Sticky-attention/Sticky-attention) - 一款新作业贴软件 新增了原版没有的新功能
+
+## argo
+
+*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+## cdn
+
+*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
+
+*   [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
+
+*   [Vikutorika/Free-Services](https://github.com/Vikutorika/Free-Services) - 适合开发者使用的服务一览
+
+*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+
+*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
+
+## cloudflare
+
+*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
+
+*   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+
+*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
+
+*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
+
+*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
+
+*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+
+*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
+
+## proxy
+
+*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
+
+*   [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) -  A docker registry proxy run on cloudflare worker.
+
+*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
+
+*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
+*   [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
+
+*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
+
+*   [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
+
+*   [layou233/ZBProxy](https://github.com/layou233/ZBProxy) - 🚀Transfer your network data, bypassing the Hypixel unofficial address detection!
+
+*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+
+*   [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
+
+*   [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) - A proxy to expose real tls handshake to the firewall
+
+*   [SunsetMkt/anti-ip-attribution](https://github.com/SunsetMkt/anti-ip-attribution) - 针对部分网站显示IP归属地的流量分流规则
+
+*   [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
+
+*   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
+
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+## shadowsock
+
+*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
+
+## trojan
+
+*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
+
+*   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
+
+*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
+
+*   [ca110us/epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach
+
+*   [Vikutorika/Airports](https://github.com/Vikutorika/Airports) - 免费订阅推荐以及个人认为划算的机场，因为免费域名被回收了，所以在这里重新更新
+
+*   [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
+
+*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+
+*   [wu-mx/URLignore](https://github.com/wu-mx/URLignore) - A simple node tool.
+
+*   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
+
+## tunnel
+
+*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
+
+*   [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
+
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+## v2ray
+
+*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+*   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
+
+*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
+
+*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
+
+*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
+*   [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
+
+*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
+
+*   [ca110us/epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach
+
+*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
+
+*   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
+
+*   [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
+
+*   [Vikutorika/Airports](https://github.com/Vikutorika/Airports) - 免费订阅推荐以及个人认为划算的机场，因为免费域名被回收了，所以在这里重新更新
+
+*   [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
+
+*   [MatsuriDayo/Matsuri](https://github.com/MatsuriDayo/Matsuri) - Matsuri (茉莉) / V2Ray / universal proxy toolchain for Android / Fork of SagerNet
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+## vless
+
+*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
+
+*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
+## vmess
+
+*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
+
+*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
+
+*   [Wiederhoeft/okjiasu\_action](https://github.com/Wiederhoeft/okjiasu_action) - 机场https://okjiasu.com    的自动签到脚本
+
+*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+
+*   [wu-mx/URLignore](https://github.com/wu-mx/URLignore) - A simple node tool.
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+## vpn
+
+*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
+
+*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+
+*   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
+
+*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
+
+*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
+*   [Wiederhoeft/okjiasu\_action](https://github.com/Wiederhoeft/okjiasu_action) - 机场https://okjiasu.com    的自动签到脚本
+
+*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+
+## xray
+
+*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
+
+*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
+
+*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
+
+*   [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
+
+*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
 
 ## miscellaneous
 
@@ -3212,7 +3393,7 @@
 
 *   [takagen99/Box](https://github.com/takagen99/Box) - Experimental
 
-*   [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - A repository for Skyline, Vita3K and Yuzu Android compatible Adreno drivers.
+*   [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - A repository for Skyline, Strato, Vita3K and Yuzu Android compatible Adreno drivers.
 
 *   [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 
@@ -3754,8 +3935,6 @@
 
 *   [CardboardPowered/cardboard](https://github.com/CardboardPowered/cardboard) - The Bukkit/Spigot/Paper API implementation for Fabric
 
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
 ## hashes
 
 *   [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -3933,20 +4112,6 @@
 ## tailscale
 
 *   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-
-## vpn
-
-*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-
-*   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
-
-*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
-
-*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-
-*   [Wiederhoeft/okjiasu\_action](https://github.com/Wiederhoeft/okjiasu_action) - 机场https://okjiasu.com    的自动签到脚本
-
-*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 
 ## wireguard
 
@@ -4972,20 +5137,6 @@
 
 *   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 
-## cloudflare
-
-*   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
-
-*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
-
-*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
-
-*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
-
-*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-
-*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
-
 ## link-shortener
 
 *   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
@@ -5214,40 +5365,6 @@
 
 *   [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) -  A docker registry proxy run on cloudflare worker.
 
-## proxy
-
-*   [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) -  A docker registry proxy run on cloudflare worker.
-
-*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
-
-*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-
-*   [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
-
-*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
-
-*   [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
-
-*   [layou233/ZBProxy](https://github.com/layou233/ZBProxy) - 🚀Transfer your network data, bypassing the Hypixel unofficial address detection!
-
-*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-
-*   [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
-
-*   [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) - A proxy to expose real tls handshake to the firewall
-
-*   [SunsetMkt/anti-ip-attribution](https://github.com/SunsetMkt/anti-ip-attribution) - 针对部分网站显示IP归属地的流量分流规则
-
-*   [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
-
-*   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
-*   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
-
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-
 ## acme
 
 *   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
@@ -5259,10 +5376,6 @@
 *   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
 
 *   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
-
-## argo
-
-*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
 
 ## clash-meta
 
@@ -5342,40 +5455,6 @@
 
 *   [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
 
-## v2ray
-
-*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
-
-*   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
-
-*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
-
-*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
-
-*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-
-*   [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
-
-*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
-
-*   [ca110us/epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach
-
-*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-
-*   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
-
-*   [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
-
-*   [Vikutorika/Airports](https://github.com/Vikutorika/Airports) - 免费订阅推荐以及个人认为划算的机场，因为免费域名被回收了，所以在这里重新更新
-
-*   [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
-
-*   [MatsuriDayo/Matsuri](https://github.com/MatsuriDayo/Matsuri) - Matsuri (茉莉) / V2Ray / universal proxy toolchain for Android / Fork of SagerNet
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
 ## v2rayn
 
 *   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
@@ -5387,18 +5466,6 @@
 *   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
 
 *   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
-
-## xray
-
-*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
-
-*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
-
-*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
-
-*   [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
-
-*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
 
 ## edge
 
@@ -5887,8 +5954,6 @@
 *   [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 
 *   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
 ## golang
 
@@ -7700,24 +7765,6 @@
 
 *   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 
-## trojan
-
-*   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
-
-*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
-
-*   [ca110us/epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach
-
-*   [Vikutorika/Airports](https://github.com/Vikutorika/Airports) - 免费订阅推荐以及个人认为划算的机场，因为免费域名被回收了，所以在这里重新更新
-
-*   [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
-
-*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-
-*   [wu-mx/URLignore](https://github.com/wu-mx/URLignore) - A simple node tool.
-
-*   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
-
 ## trojan-go
 
 *   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
@@ -9212,8 +9259,6 @@
 
 *   [tickmao/Novel](https://github.com/tickmao/Novel) - 📚 Novle setting | 小说书源及软件整理 爱阅书香 / 阅读 / 香色闺阁
 
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
 ## ui-theme
 
 *   [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
@@ -10172,8 +10217,6 @@
 
 *   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
 ## zsh-theme
 
 *   [eendroroy/alien](https://github.com/eendroroy/alien) - An asynchronous zsh prompt
@@ -10401,8 +10444,6 @@
 *   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 *   [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
 ## terminal-emulators
 
@@ -10639,8 +10680,6 @@
 *   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 *   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
 ## unix
 
@@ -12049,10 +12088,6 @@
 *   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
 *   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
-
-## vless
-
-*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
 ## cuda
 
@@ -14134,8 +14169,6 @@
 
 *   [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) - Colorize your termux! Oh-my-zsh included!
 
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
 ## asciidoc
 
 *   [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
@@ -14307,8 +14340,6 @@
 *   [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 
 *   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
 ## website
 
@@ -14697,16 +14728,6 @@
 *   [Nuytemans-Dieter/BetterSleeping](https://github.com/Nuytemans-Dieter/BetterSleeping) - A Spigot plugin that will make sleeping on servers less of a hassle
 
 *   [CardboardPowered/cardboard](https://github.com/CardboardPowered/cardboard) - The Bukkit/Spigot/Paper API implementation for Fabric
-
-## cdn
-
-*   [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
-
-*   [Vikutorika/Free-Services](https://github.com/Vikutorika/Free-Services) - 适合开发者使用的服务一览
-
-*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-
-*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
 
 ## cdn-provider
 
@@ -16394,18 +16415,6 @@
 
 *   [FBlackBox/BlackBox](https://github.com/FBlackBox/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
 
-## vmess
-
-*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-
-*   [Wiederhoeft/okjiasu\_action](https://github.com/Wiederhoeft/okjiasu_action) - 机场https://okjiasu.com    的自动签到脚本
-
-*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-
-*   [wu-mx/URLignore](https://github.com/wu-mx/URLignore) - A simple node tool.
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
 ## sh
 
 *   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
@@ -17081,12 +17090,6 @@
 ## socket
 
 *   [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
-
-## tunnel
-
-*   [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
-
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 ## udp
 
@@ -19737,38 +19740,6 @@
 ## minecraft-world
 
 *   [Querz/mcaselector](https://github.com/Querz/mcaselector) - A tool to select chunks from Minecraft worlds for deletion or export.
-
-## cli-app
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
-## oh-my-zsh-plugin
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
-## oh-my-zsh-theme
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
-## ohmyzsh
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
-## plugin-framework
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
-## plugins
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
-## themes
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
-## zsh-configuration
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
 ## Thanks
 
