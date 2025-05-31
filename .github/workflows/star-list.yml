@@ -23,3 +23,11 @@ jobs:
           github-name: "github-actions[bot]"
           github-email: "github-actions[bot]@users.noreply.github.com"
           template-path: "template/README.ejs"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Python script
+        run: python3 group-tool.py
