@@ -2,23 +2,29 @@
 
 # awesome-stars-LIPiston
 
-⭐ 我的star列表，每天凌晨自动更新  
+⭐ 我的star列表，每天凌晨自动更新
 
-[📚我自己的分类](grouped.md)
-<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
-</div><br>
+[📚我自己的分类](grouped.md)  
+<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800" height="3">
 
-<% 
-  // 计算总仓库数
-  let totalCount = 0; 
+</div>
+
+<br>
+
+<%
+  // 统计总仓库数
+  let totalCount = 0;
   for (let repos of stars.values()) {
     totalCount += repos.length;
   }
 
-  // 将 Map 转成数组并按语言名称排序
-  let sortedStars = Array.from(stars.entries()).sort((a, b) => {
-    return a[0].localeCompare(b[0]);
-  });
+  // 按语言字母排序
+  let sortedStars = Array.from(stars.entries()).sort((a, b) => a[0].localeCompare(b[0]));
+
+  // 数字格式化，千位分隔符
+  function formatNumber(num) {
+    return num.toLocaleString();
+  }
 %>
 
 ## Table of Contents（共 <%= totalCount %> 个仓库）
@@ -27,7 +33,7 @@
 ## <%= language %>（共 <%= repositories.length %> 个仓库）
 
   <% for (let repo of repositories) { %>
-- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %>
+- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %> ⭐ <%= formatNumber(repo.stargazers_count) %>
   <% } %>
 <% } %>
 
