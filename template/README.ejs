@@ -8,18 +8,22 @@
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
 </div><br>
 
+<% 
+  // 计算总仓库数
+  let totalCount = 0; 
+  for (let repos of stars.values()) {
+    totalCount += repos.length;
+  }
 
-<%
-// 计算总仓库数
-let totalCount = 0;
-for (let repos of stars.values()) {
-  totalCount += repos.length;
-}
+  // 将 Map 转成数组并按语言名称排序
+  let sortedStars = Array.from(stars.entries()).sort((a, b) => {
+    return a[0].localeCompare(b[0]);
+  });
 %>
 
 ## Table of Contents（共 <%= totalCount %> 个仓库）
 
-<% for (let [language, repositories] of stars) { %>
+<% for (let [language, repositories] of sortedStars) { %>
 ## <%= language %>（共 <%= repositories.length %> 个仓库）
 
   <% for (let repo of repositories) { %>
