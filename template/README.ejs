@@ -20,7 +20,7 @@
   let sortedStars = Object.entries(stars).sort((a, b) => a[0].localeCompare(b[0]));
 
   function formatNumber(num) {
-    return num.toLocaleString();
+    return (typeof num === 'number' && !isNaN(num)) ? num.toLocaleString() : '0';
   }
 %>
 
