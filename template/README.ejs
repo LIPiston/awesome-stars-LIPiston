@@ -24,14 +24,20 @@
   }
 %>
 
-## Table of Contents（共 <%= totalCount %> 个仓库）
+## 目录（共 <%= totalCount %> 个仓库）
+<% for (let [language, repositories] of sortedStars) { %>
+- [<%= language %>](#<%= encodeURIComponent(language) %>)（<%= repositories.length %>）
+<% } %>
 
 <% for (let [language, repositories] of sortedStars) { %>
-## <%= language %>（共 <%= repositories.length %> 个仓库）
 
-  <% for (let repo of repositories) { %>
-- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %> ⭐ <%= formatNumber(repo.stargazers_count) %>
-  <% } %>
+## <a name="<%= encodeURIComponent(language) %>"></a><%= language %>（共 <%= repositories.length %> 个仓库）
+<% for (let repo of repositories) { if (repo.full_name && repo.html_url) { %>
+- [<%= repo.full_name %>](<%= repo.html_url %>) ⭐ <%= formatNumber(repo.stargazers_count) %>
+<% if (repo.description) { %>
+> <%= repo.description %>
+<% } %>
+<% } } %>
 <% } %>
 
 ## Thanks
