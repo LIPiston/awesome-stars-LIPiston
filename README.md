@@ -8,62 +8,9 @@
 
 </div><br>
 
-## Table of Contents
+## Table of Contents（共 102 个仓库）
 
-*   [Vue](#vue)
-*   [Python](#python)
-*   [Java](#java)
-*   [Kotlin](#kotlin)
-*   [miscellaneous](#miscellaneous)
-*   [Shell](#shell)
-*   [C++](#c)
-*   [TypeScript](#typescript)
-*   [CSS](#css)
-*   [Lua](#lua)
-*   [JavaScript](#javascript)
-*   [Go](#go)
-*   [Svelte](#svelte)
-*   [Dart](#dart)
-*   [Rust](#rust)
-*   [AutoIt](#autoit)
-*   [C#](#c-1)
-*   [Roff](#roff)
-*   [Nix](#nix)
-*   [Objective-C++](#objective-c)
-*   [Swift](#swift)
-*   [Visual Basic .NET](#visual-basic-net)
-*   [Dockerfile](#dockerfile)
-*   [Ruby](#ruby)
-*   [C](#c-2)
-*   [HTML](#html)
-*   [SCSS](#scss)
-*   [mcfunction](#mcfunction)
-*   [Rich Text Format](#rich-text-format)
-*   [NSIS](#nsis)
-*   [PowerShell](#powershell)
-*   [Batchfile](#batchfile)
-*   [Just](#just)
-*   [Stylus](#stylus)
-*   [AutoHotkey](#autohotkey)
-*   [Inno Setup](#inno-setup)
-*   [XML](#xml)
-*   [Makefile](#makefile)
-*   [CoffeeScript](#coffeescript)
-*   [Jupyter Notebook](#jupyter-notebook)
-*   [Vim script](#vim-script)
-*   [PHP](#php)
-*   [GLSL](#glsl)
-*   [Objective-C](#objective-c-1)
-*   [Vim Script](#vim-script-1)
-*   [MDX](#mdx)
-*   [VimL](#viml)
-*   [Markdown](#markdown)
-*   [Squirrel](#squirrel)
-*   [TeX](#tex)
-*   [Scala](#scala)
-*   [Thanks](#thanks)
-
-## Vue
+## Vue（共 19 个仓库）
 
 *   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
 
@@ -103,7 +50,7 @@
 
 *   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
-## Python
+## Python（共 121 个仓库）
 
 *   [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable or batch script.
 
@@ -347,7 +294,7 @@
 
 *   [Fabulously-Optimized/fabulously-optimized](https://github.com/Fabulously-Optimized/fabulously-optimized) - A simple Minecraft modpack focusing on performance and graphics enhancements.
 
-## Java
+## Java（共 148 个仓库）
 
 *   [TGwear/TGwear](https://github.com/TGwear/TGwear) - ‎Telegram for Android watch & wearos
 
@@ -645,7 +592,7 @@
 
 *   [Andrews54757/tweakfork](https://github.com/Andrews54757/tweakfork) - A modified small client-side Minecraft mod that adds various configurable tweaks - plus some more
 
-## Kotlin
+## Kotlin（共 95 个仓库）
 
 *   [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
 
@@ -837,7 +784,7 @@
 
 *   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-## miscellaneous
+## miscellaneous（共 128 个仓库）
 
 *   [Astro-2539/ZLabs-Bitmap](https://github.com/Astro-2539/ZLabs-Bitmap) - 一款仿 Unifont 风格的小型化像素字体
 
@@ -1095,7 +1042,7 @@
 
 *   [walter201230/Python](https://github.com/walter201230/Python) - 最良心的 Python 教程：
 
-## Shell
+## Shell（共 80 个仓库）
 
 *   [akashaProxy/akashaProxy](https://github.com/akashaProxy/akashaProxy) - better transparent proxy module (based  clash)
 
@@ -1257,7 +1204,7 @@
 
 *   [nightmare-space/code\_lfa](https://github.com/nightmare-space/code_lfa) - Implementation of the VS Code editor natively on Android.
 
-## C++
+## C++（共 41 个仓库）
 
 *   [jark006/jarkViewer](https://github.com/jark006/jarkViewer) - A simple image viewer. 一款简单的看图软件。
 
@@ -1341,7 +1288,7 @@
 
 *   [kaniol-lck/modmanager](https://github.com/kaniol-lck/modmanager) - A Qt-based mod manager for minecraft.
 
-## TypeScript
+## TypeScript（共 97 个仓库）
 
 *   [voideditor/void](https://github.com/voideditor/void) -
 
@@ -1537,7 +1484,7 @@
 
 *   [MotooriKashin/Bilibili-Old](https://github.com/MotooriKashin/Bilibili-Old) - 恢复旧版Bilibili页面，为了那些念旧的人。
 
-## CSS
+## CSS（共 7 个仓库）
 
 *   [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 
@@ -1553,7 +1500,7 @@
 
 *   [adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans) - Sans serif font family for user interface environments
 
-## Lua
+## Lua（共 16 个仓库）
 
 *   [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wubi input method schema
 
@@ -1587,7 +1534,7 @@
 
 *   [zhihulite/Hydrogen](https://github.com/zhihulite/Hydrogen) - 一个基于androlua+开发的第三方知乎安卓客户端
 
-## JavaScript
+## JavaScript（共 95 个仓库）
 
 *   [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
 
@@ -1649,7 +1596,7 @@
 
 *   [liu673cn/box](https://github.com/liu673cn/box) - 自用，勿宣传。
 
-*   [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘/阿里云盘/中国移动云盘/天翼云盘/迅雷云盘/夸克网盘/UC网盘/123云盘 八大网盘
+*   [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 
 *   [ApliNi/IpacLinker](https://github.com/ApliNi/IpacLinker) - IpacLinker 是一款点对点网络连接工具, 基于 WebRTC. 可用于 Minecraft 联机和开服, 或者远程桌面 / 网络驱动器等应用的连接
 
@@ -1779,7 +1726,7 @@
 
 *   [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
 
-## Go
+## Go（共 43 个仓库）
 
 *   [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) -  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 
@@ -1867,13 +1814,13 @@
 
 *   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
-## Svelte
+## Svelte（共 2 个仓库）
 
 *   [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local\* and free forever.
 
 *   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
-## Dart
+## Dart（共 21 个仓库）
 
 *   [flutter/pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
 
@@ -1917,7 +1864,7 @@
 
 *   [2697a/bujuan](https://github.com/2697a/bujuan) - Flutter移动端+桌面端三方网易云播放器
 
-## Rust
+## Rust（共 21 个仓库）
 
 *   [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday) - 完全免费, 自动获取新账号,一键重置新额度,  解决机器码问题, 自动满额度
 
@@ -1961,7 +1908,7 @@
 
 *   [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
 
-## AutoIt
+## AutoIt（共 3 个仓库）
 
 *   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
 
@@ -1969,7 +1916,7 @@
 
 *   [cw2k/Adobe-GenP](https://github.com/cw2k/Adobe-GenP) - Adobe CC 2019/2020/2021/2022/2023 GenP Universal Patch 3.0
 
-## C\#
+## C#（共 40 个仓库）
 
 *   [HunterPie/HunterPie](https://github.com/HunterPie/HunterPie) - A clean, modern and robust overlay for Monster Hunter games.
 
@@ -2051,19 +1998,19 @@
 
 *   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
-## Roff
+## Roff（共 1 个仓库）
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
-## Nix
+## Nix（共 1 个仓库）
 
 *   [Lxtharia/minegrub-world-sel-theme](https://github.com/Lxtharia/minegrub-world-sel-theme) - A grub theme in the style of the Minecraft singleplayer (sp) world selection screen!
 
-## Objective-C++
+## Objective-C++（共 1 个仓库）
 
 *   [dongyuwei/hallelujahIM](https://github.com/dongyuwei/hallelujahIM) - hallelujahIM(哈利路亚 英文输入法) is  an intelligent English input method with auto-suggestions and spell check features.
 
-## Swift
+## Swift（共 3 个仓库）
 
 *   [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) - Switch and track your input sources with ease ✨
 
@@ -2071,19 +2018,19 @@
 
 *   [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 
-## Visual Basic .NET
+## Visual Basic .NET（共 2 个仓库）
 
 *   [Hex-Dragon/PCL2](https://github.com/Hex-Dragon/PCL2) - Minecraft 启动器 Plain Craft Launcher（PCL）。
 
 *   [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
 
-## Dockerfile
+## Dockerfile（共 2 个仓库）
 
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 *   [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide) - ✨ archlinux 简明指南 | 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 | 提供在线文档 ✨
 
-## Ruby
+## Ruby（共 3 个仓库）
 
 *   [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) - 好耶 是女装 | 备份·接受PR
 
@@ -2091,7 +2038,7 @@
 
 *   [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
-## C
+## C（共 35 个仓库）
 
 *   [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
 
@@ -2163,7 +2110,7 @@
 
 *   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
-## HTML
+## HTML（共 24 个仓库）
 
 *   [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
 
@@ -2213,7 +2160,7 @@
 
 *   [codehz/minecraft-unicode-font-texture-generator-online](https://github.com/codehz/minecraft-unicode-font-texture-generator-online) - minecraft unicode font texture generator online(Static Web Page)
 
-## SCSS
+## SCSS（共 3 个仓库）
 
 *   [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
 
@@ -2221,21 +2168,21 @@
 
 *   [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 
-## mcfunction
+## mcfunction（共 2 个仓库）
 
 *   [Stardust-Labs-MC/Terralith](https://github.com/Stardust-Labs-MC/Terralith) - A popular Minecraft worldgen datapack for the Overworld
 
 *   [candydale/candy-pickaxe](https://github.com/candydale/candy-pickaxe) - 镐击榜数据包 对每个玩家使用各钟材料的镐子破坏方块数量的总和进行排名
 
-## Rich Text Format
+## Rich Text Format（共 1 个仓库）
 
 *   [54ph/win7-sp2](https://github.com/54ph/win7-sp2) - UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7.
 
-## NSIS
+## NSIS（共 1 个仓库）
 
 *   [lotem/rime-octagram-data](https://github.com/lotem/rime-octagram-data) - 八股文（語法）
 
-## PowerShell
+## PowerShell（共 5 个仓库）
 
 *   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
@@ -2247,7 +2194,7 @@
 
 *   [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
 
-## Batchfile
+## Batchfile（共 10 个仓库）
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
@@ -2269,43 +2216,43 @@
 
 *   [Tufmoc/W.Tools-Ver.Bat](https://github.com/Tufmoc/W.Tools-Ver.Bat) - 初代工具箱雏形
 
-## Just
+## Just（共 1 个仓库）
 
 *   [XYenon/catppuccin-fcitx5-android](https://github.com/XYenon/catppuccin-fcitx5-android) - 🐧 Soothing pastel theme for fcitx5-android
 
-## Stylus
+## Stylus（共 2 个仓库）
 
 *   [saicaca/hexo-theme-vivia](https://github.com/saicaca/hexo-theme-vivia) - A clean and minimalist theme for Hexo.
 
 *   [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
 
-## AutoHotkey
+## AutoHotkey（共 1 个仓库）
 
 *   [sxzxs/Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing) - 实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字
 
-## Inno Setup
+## Inno Setup（共 1 个仓库）
 
 *   [Bill-Stewart/SyncthingWindowsSetup](https://github.com/Bill-Stewart/SyncthingWindowsSetup) - Syncthing Windows Setup
 
-## XML
+## XML（共 1 个仓库）
 
 *   [Light-Beacon/PCL2-NewsHomepage](https://github.com/Light-Beacon/PCL2-NewsHomepage) - Provides latest Minecraft news on Plain Craft Launcher 2
 
-## Makefile
+## Makefile（共 1 个仓库）
 
 *   [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 
-## CoffeeScript
+## CoffeeScript（共 1 个仓库）
 
 *   [joyqi/sfz](https://github.com/joyqi/sfz) - 专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件）
 
-## Jupyter Notebook
+## Jupyter Notebook（共 2 个仓库）
 
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
 *   [44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel) - 基于思源黑体的开源像素字体
 
-## Vim script
+## Vim script（共 3 个仓库）
 
 *   [TheNiteCoder/mountaineer.vim](https://github.com/TheNiteCoder/mountaineer.vim) - A dark and adventurous Vim/Neovim colorscheme I AM NOT THE OWNER(The owner has disappeared from Github)
 
@@ -2313,7 +2260,7 @@
 
 *   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 
-## PHP
+## PHP（共 4 个仓库）
 
 *   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 
@@ -2323,15 +2270,15 @@
 
 *   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
 
-## GLSL
+## GLSL（共 1 个仓库）
 
 *   [Open4Es/Open4Es-Shader-Android](https://github.com/Open4Es/Open4Es-Shader-Android) - This is a shader can running on Minecraft Java Edition For Phone project which uses GL4ES. This repository contains source code for Android platform.
 
-## Objective-C
+## Objective-C（共 1 个仓库）
 
 *   [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
 
-## Vim Script
+## Vim Script（共 4 个仓库）
 
 *   [leviosa42/vim-github-theme](https://github.com/leviosa42/vim-github-theme) - GitHub theme for Vim (unofficial)
 
@@ -2341,27 +2288,27 @@
 
 *   [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook\_with\_decorative\_cover: The interactive scratchpad for hackers.
 
-## MDX
+## MDX（共 1 个仓库）
 
 *   [KusStar/rewind-docs](https://github.com/KusStar/rewind-docs) - 倒带 App｜应用主页
 
-## VimL
+## VimL（共 1 个仓库）
 
 *   [vim-scripts/VimIM](https://github.com/vim-scripts/VimIM) - Vim Input Method -- Vim 中文输入法
 
-## Markdown
+## Markdown（共 1 个仓库）
 
 *   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
-## Squirrel
+## Squirrel（共 1 个仓库）
 
 *   [Purple-CSGO/CSGO-Config-Presets](https://github.com/Purple-CSGO/CSGO-Config-Presets) - :tada:​ Presets of Config files for many scenarios in CS:GO and CS2 (Limited Test)
 
-## TeX
+## TeX（共 1 个仓库）
 
 *   [moesoha/debian-media-box](https://github.com/moesoha/debian-media-box) - “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。
 
-## Scala
+## Scala（共 1 个仓库）
 
 *   [MultiCoreNetwork/carpet-redcraft-addons](https://github.com/MultiCoreNetwork/carpet-redcraft-addons) - RedCraft 3 - Minecraft Fabric Mod
 
