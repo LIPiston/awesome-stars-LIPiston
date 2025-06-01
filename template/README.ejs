@@ -12,16 +12,13 @@
 <br>
 
 <%
-  // 统计总仓库数
   let totalCount = 0;
-  for (let repos of stars.values()) {
+  for (let repos of Object.values(stars)) {
     totalCount += repos.length;
   }
 
-  // 按语言字母排序
-  let sortedStars = Array.from(stars.entries()).sort((a, b) => a[0].localeCompare(b[0]));
+  let sortedStars = Object.entries(stars).sort((a, b) => a[0].localeCompare(b[0]));
 
-  // 数字格式化，千位分隔符
   function formatNumber(num) {
     return num.toLocaleString();
   }
