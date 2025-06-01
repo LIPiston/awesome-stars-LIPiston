@@ -2,42 +2,20 @@
 
 # awesome-stars-LIPiston
 
-⭐ 我的star列表，每天凌晨自动更新
+⭐ 我的star列表，每天凌晨自动更新  
 
-[📚我自己的分类](grouped.md)  
-<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800" height="3">
+[📚我自己的分类](grouped.md)
+<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
+</div><br>
 
-</div>
 
-<br>
+## Table of Contents
 
-<%
-  let totalCount = 0;
-  for (let repos of Object.values(stars)) {
-    totalCount += repos.length;
-  }
-
-  let sortedStars = Object.entries(stars).sort((a, b) => a[0].localeCompare(b[0]));
-
-  function formatNumber(num) {
-    return (typeof num === 'number' && !isNaN(num)) ? num.toLocaleString() : '0';
-  }
-%>
-
-## 目录（共 <%= totalCount %> 个仓库）
-<% for (let [language, repositories] of sortedStars) { %>
-- [<%= language %>](#<%= encodeURIComponent(language) %>)（<%= repositories.length %>）
-<% } %>
-
-<% for (let [language, repositories] of sortedStars) { %>
-
-## <a name="<%= encodeURIComponent(language) %>"></a><%= language %>（共 <%= repositories.length %> 个仓库）
-<% for (let repo of repositories) { if (repo.full_name && repo.html_url) { %>
-- [<%= repo.full_name %>](<%= repo.html_url %>) ⭐ <%= formatNumber(repo.stargazers_count) %>
-<% if (repo.description) { %>
-> <%= repo.description %>
-<% } %>
-<% } } %>
+<% for(let [language, repositories] of stars) { %>
+## <%= language %>
+  <% for(let repo of repositories) { %>
+- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %>
+  <% } %>
 <% } %>
 
 ## Thanks
