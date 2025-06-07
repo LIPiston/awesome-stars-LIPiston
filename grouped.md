@@ -1,30 +1,30 @@
 # 🌟 My Starred GitHub Repositories (Grouped by starflare.app)
 
 
-## 📂 网页工具 (18 Repos)
+## 📂 网页工具 (20 Repos)
 
 - [`cfour-hi/gitstars`](https://github.com/cfour-hi/gitstars) ★1683 — *Vue* — _cfour-hi_
   
   > Github Starred Repositories Manager
-- [`Heavrnl/nexus-terminal`](https://github.com/Heavrnl/nexus-terminal) ★930 — *TypeScript* — _Heavrnl_
+- [`Heavrnl/nexus-terminal`](https://github.com/Heavrnl/nexus-terminal) ★940 — *TypeScript* — _Heavrnl_
   
   > 一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
-- [`LibreSpark/LibreTV`](https://github.com/LibreSpark/LibreTV) ★5238 — *JavaScript* — _LibreSpark_
+- [`LibreSpark/LibreTV`](https://github.com/LibreSpark/LibreTV) ★5272 — *JavaScript* — _LibreSpark_
   
   > 一分钟搭建影视站，支持Vercel/Docker等部署方式
-- [`VERT-sh/VERT`](https://github.com/VERT-sh/VERT) ★4419 — *Svelte* — _VERT-sh_
+- [`VERT-sh/VERT`](https://github.com/VERT-sh/VERT) ★4532 — *Svelte* — _VERT-sh_
   
   > The next-generation file converter. Open source, fully local* and free forever.
-- [`1234567Yang/cf-proxy-ex`](https://github.com/1234567Yang/cf-proxy-ex) ★1451 — *JavaScript* — _1234567Yang_
+- [`1234567Yang/cf-proxy-ex`](https://github.com/1234567Yang/cf-proxy-ex) ★1452 — *JavaScript* — _1234567Yang_
   
   > Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Claude3），Github加速，支持解锁Libgen，在线代理。现已支持多平台部署。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker, support Duckduckgo / Libgen. Now you can deploy this project on different platforms.
-- [`zed-industries/zed`](https://github.com/zed-industries/zed) ★61002 — *Rust* — _zed-industries_
+- [`zed-industries/zed`](https://github.com/zed-industries/zed) ★61035 — *Rust* — _zed-industries_
   
   > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [`frankiejun/serv00-play`](https://github.com/frankiejun/serv00-play) ★2136 — *Shell* — _frankiejun_
+- [`frankiejun/serv00-play`](https://github.com/frankiejun/serv00-play) ★2135 — *Shell* — _frankiejun_
   
   > serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
-- [`ccbikai/Sink`](https://github.com/ccbikai/Sink) ★4651 — *Vue* — _ccbikai_
+- [`ccbikai/Sink`](https://github.com/ccbikai/Sink) ★4662 — *Vue* — _ccbikai_
   
   > ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [`ciiiii/cloudflare-docker-proxy`](https://github.com/ciiiii/cloudflare-docker-proxy) ★1757 — *JavaScript* — _ciiiii_
@@ -33,75 +33,99 @@
 - [`kisslove/web-monitoring`](https://github.com/kisslove/web-monitoring) ★1064 — *JavaScript* — _kisslove_
   
   > 前端监控，性能监控平台。前端监控平台专注于Web端体验数据监控。对网页健康状况的三个方面进行监测：页面打开速度（速度测量）、页面稳定性（JS错误）和外部服务调用成功率（API）
-- [`wekan/wekan`](https://github.com/wekan/wekan) ★20355 — *JavaScript* — _wekan_
+- [`wekan/wekan`](https://github.com/wekan/wekan) ★20358 — *JavaScript* — _wekan_
   
   > The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/wekan only.
-- [`wangweianger/zanePerfor`](https://github.com/wangweianger/zanePerfor) ★1783 — *JavaScript* — _wangweianger_
+- [`wangweianger/zanePerfor`](https://github.com/wangweianger/zanePerfor) ★1784 — *JavaScript* — _wangweianger_
   
   > 前端性能监控系统,消息队列,高可用,集群等相关架构
-- [`bojue/lemon-form`](https://github.com/bojue/lemon-form) ★229 — *TypeScript* — _bojue_
+- [`bojue/lemon-form`](https://github.com/bojue/lemon-form) ★231 — *TypeScript* — _bojue_
   
   > lemon form 柠檬轻表单（Vue3）
-- [`ruffle-rs/ruffle`](https://github.com/ruffle-rs/ruffle) ★16735 — *Rust* — _ruffle-rs_
+- [`ruffle-rs/ruffle`](https://github.com/ruffle-rs/ruffle) ★16742 — *Rust* — _ruffle-rs_
   
   > A Flash Player emulator written in Rust
 - [`moeyy01/gh-proxy-go`](https://github.com/moeyy01/gh-proxy-go) ★127 — *Go* — _moeyy01_
-- [`yonggekkk/warp-yg`](https://github.com/yonggekkk/warp-yg) ★3935 — *Shell* — _yonggekkk_
+- [`yonggekkk/warp-yg`](https://github.com/yonggekkk/warp-yg) ★3936 — *Shell* — _yonggekkk_
   
   > warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
-- [`cmj2002/warp-docker`](https://github.com/cmj2002/warp-docker) ★500 — *Shell* — _cmj2002_
+- [`cmj2002/warp-docker`](https://github.com/cmj2002/warp-docker) ★501 — *Shell* — _cmj2002_
   
   > Run Cloudflare WARP in Docker.
-- [`MarSeventh/CloudFlare-ImgBed`](https://github.com/MarSeventh/CloudFlare-ImgBed) ★2174 — *JavaScript* — _MarSeventh_
+- [`MarSeventh/CloudFlare-ImgBed`](https://github.com/MarSeventh/CloudFlare-ImgBed) ★2177 — *JavaScript* — _MarSeventh_
   
   > 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
+- [`One-Studio/better-github-api`](https://github.com/One-Studio/better-github-api) ★14 — *JavaScript* — _One-Studio_
+  
+  > 基于 gh-proxy + Jsdelivr+ cnpmjs + cloudflare workers 的 GitHub Serverless API 工具。
+- [`oiov/wr.do`](https://github.com/oiov/wr.do) ★1187 — *TypeScript* — _oiov_
+  
+  > 📧🔗🌏 Shorten links with analytics, manage emails and control subdomains—all on one platform.
 
-## 📂 Windows工具 (14 Repos)
+## 📂 Windows工具 (20 Repos)
 
-- [`ShadowWhisperer/Remove-MS-Edge`](https://github.com/ShadowWhisperer/Remove-MS-Edge) ★3439 — *Python* — _ShadowWhisperer_
+- [`ShadowWhisperer/Remove-MS-Edge`](https://github.com/ShadowWhisperer/Remove-MS-Edge) ★3448 — *Python* — _ShadowWhisperer_
   
   > Uninstall Microsoft Edge silently, through an executable or batch script.
-- [`jark006/jarkViewer`](https://github.com/jark006/jarkViewer) ★355 — *C++* — _jark006_
+- [`jark006/jarkViewer`](https://github.com/jark006/jarkViewer) ★359 — *C++* — _jark006_
   
   > A simple image viewer. 一款简单的看图软件。
-- [`liriliri/aya`](https://github.com/liriliri/aya) ★2717 — *TypeScript* — _liriliri_
+- [`liriliri/aya`](https://github.com/liriliri/aya) ★2745 — *TypeScript* — _liriliri_
   
   > Android ADB desktop app
-- [`maotoumao/MusicFree`](https://github.com/maotoumao/MusicFree) ★16452 — *TypeScript* — _maotoumao_
+- [`maotoumao/MusicFree`](https://github.com/maotoumao/MusicFree) ★16481 — *TypeScript* — _maotoumao_
   
   > 插件化、定制化、无广告的免费音乐播放器
-- [`microsoft/WSL`](https://github.com/microsoft/WSL) ★28215 — *C++* — _microsoft_
+- [`microsoft/WSL`](https://github.com/microsoft/WSL) ★28239 — *C++* — _microsoft_
   
   > Windows Subsystem for Linux
-- [`LGUG2Z/komorebi`](https://github.com/LGUG2Z/komorebi) ★11652 — *Rust* — _LGUG2Z_
+- [`LGUG2Z/komorebi`](https://github.com/LGUG2Z/komorebi) ★11663 — *Rust* — _LGUG2Z_
   
   > A tiling window manager for Windows 🍉
-- [`saber-notes/saber`](https://github.com/saber-notes/saber) ★3290 — *Dart* — _saber-notes_
+- [`saber-notes/saber`](https://github.com/saber-notes/saber) ★3291 — *Dart* — _saber-notes_
   
   > The cross-platform open-source app built for handwriting
-- [`rcmaehl/MSEdgeRedirect`](https://github.com/rcmaehl/MSEdgeRedirect) ★4677 — *AutoIt* — _rcmaehl_
+- [`rcmaehl/MSEdgeRedirect`](https://github.com/rcmaehl/MSEdgeRedirect) ★4680 — *AutoIt* — _rcmaehl_
   
   > A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
-- [`MustardChef/WSABuilds`](https://github.com/MustardChef/WSABuilds) ★10181 — *Python* — _MustardChef_
+- [`MustardChef/WSABuilds`](https://github.com/MustardChef/WSABuilds) ★10199 — *Python* — _MustardChef_
   
   > Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
-- [`HuLaSpark/HuLa`](https://github.com/HuLaSpark/HuLa) ★2924 — *Vue* — _HuLaSpark_
+- [`HuLaSpark/HuLa`](https://github.com/HuLaSpark/HuLa) ★2955 — *Vue* — _HuLaSpark_
   
   > 🍀 HuLa是一款基于Tauri v2+Vue3的跨平台即时通讯桌面应用（不仅仅是即时通讯），兼容Windows、MacOS、Linux、Android、IOS
-- [`duplicati/duplicati`](https://github.com/duplicati/duplicati) ★12650 — *C#* — _duplicati_
+- [`duplicati/duplicati`](https://github.com/duplicati/duplicati) ★12655 — *C#* — _duplicati_
   
   > Store securely encrypted backups in the cloud!
-- [`ayangweb/BongoCat`](https://github.com/ayangweb/BongoCat) ★6079 — *TypeScript* — _ayangweb_
+- [`ayangweb/BongoCat`](https://github.com/ayangweb/BongoCat) ★6205 — *TypeScript* — _ayangweb_
   
   > 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
-- [`ruffle-rs/ruffle`](https://github.com/ruffle-rs/ruffle) ★16735 — *Rust* — _ruffle-rs_
+- [`ruffle-rs/ruffle`](https://github.com/ruffle-rs/ruffle) ★16742 — *Rust* — _ruffle-rs_
   
   > A Flash Player emulator written in Rust
 - [`SuGar0218/PreLaunchTaskr`](https://github.com/SuGar0218/PreLaunchTaskr) ★42 — *C#* — _SuGar0218_
   
   > 通过映像劫持，在应用程序启动前做一些事情，例如：更改启动参数、设置环境变量、执行程序或脚本。
+- [`bloznelis/kbt`](https://github.com/bloznelis/kbt) ★332 — *Rust* — _bloznelis_
+  
+  > Keyboard tester in terminal
+- [`keleus/BewlyCat`](https://github.com/keleus/BewlyCat) ★264 — *Vue* — _keleus_
+  
+  > BewlyCat——基于BewlyBewly开发
+- [`bukson/steampy`](https://github.com/bukson/steampy) ★632 — *Python* — _bukson_
+  
+  > A Steam trading library for python 3
+- [`mgth/LittleBigMouse`](https://github.com/mgth/LittleBigMouse) ★4674 — *C#* — _mgth_
+  
+  > DPI Aware mouse move across screens
+- [`tom-snow/wechat-windows-versions`](https://github.com/tom-snow/wechat-windows-versions) ★2198 — *Shell* — _tom-snow_
+  
+  > 保存微信历史版本
+- [`MeowCracker/MobaGenkey`](https://github.com/MeowCracker/MobaGenkey) ★3 — *HTML* — _MeowCracker_
+  
+  > 一个 MobaXterm 的许可证生成器
 
-## 📂 安卓app (11 Repos)
+## 📂 安卓app (13 Repos)
 
 - [`AChep/keyguard-app`](https://github.com/AChep/keyguard-app) ★1850 — *Kotlin* — _AChep_
   
@@ -109,33 +133,37 @@
 - [`rRemix/APlayer`](https://github.com/rRemix/APlayer) ★1477 — *Kotlin* — _rRemix_
   
   > Android Music Player
-- [`maotoumao/MusicFree`](https://github.com/maotoumao/MusicFree) ★16452 — *TypeScript* — _maotoumao_
+- [`maotoumao/MusicFree`](https://github.com/maotoumao/MusicFree) ★16481 — *TypeScript* — _maotoumao_
   
   > 插件化、定制化、无广告的免费音乐播放器
-- [`saber-notes/saber`](https://github.com/saber-notes/saber) ★3290 — *Dart* — _saber-notes_
+- [`saber-notes/saber`](https://github.com/saber-notes/saber) ★3291 — *Dart* — _saber-notes_
   
   > The cross-platform open-source app built for handwriting
-- [`lz233/Tarnhelm`](https://github.com/lz233/Tarnhelm) ★576 — *Kotlin* — _lz233_
+- [`lz233/Tarnhelm`](https://github.com/lz233/Tarnhelm) ★577 — *Kotlin* — _lz233_
   
   > The magic to clean sharing links up.
-- [`algerkong/AlgerMusicPlayer`](https://github.com/algerkong/AlgerMusicPlayer) ★6166 — *Vue* — _algerkong_
+- [`algerkong/AlgerMusicPlayer`](https://github.com/algerkong/AlgerMusicPlayer) ★6262 — *Vue* — _algerkong_
   
   > 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
 - [`WuDi-ZhanShen/ShizukuRunner`](https://github.com/WuDi-ZhanShen/ShizukuRunner) ★217 — *Java* — _WuDi-ZhanShen_
   
   > 以shizuku身份执行命令的安卓小工具。A 50KB android app to run any commands via Shizuku.
-- [`JunkFood02/Seal`](https://github.com/JunkFood02/Seal) ★19112 — *Kotlin* — _JunkFood02_
+- [`JunkFood02/Seal`](https://github.com/JunkFood02/Seal) ★19144 — *Kotlin* — _JunkFood02_
   
   > 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
-- [`guozhigq/pilipala`](https://github.com/guozhigq/pilipala) ★10865 — *Dart* — _guozhigq_
+- [`guozhigq/pilipala`](https://github.com/guozhigq/pilipala) ★10874 — *Dart* — _guozhigq_
   
   > PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
-- [`daybreak1929/ViaBrowserCollection`](https://github.com/daybreak1929/ViaBrowserCollection) ★103 — *None* — _daybreak1929_
+- [`daybreak1929/ViaBrowserCollection`](https://github.com/daybreak1929/ViaBrowserCollection) ★104 — *None* — _daybreak1929_
   
   > 个人为 via 浏览器自定义/功能保留的一份完整资料，仍在持续补全，来源于：https://gitee.com/daybreak166/ViaBrowserCollection/blob/master/README.md
 - [`azhon/AppUpdate`](https://github.com/azhon/AppUpdate) ★2398 — *Kotlin* — _azhon_
   
   > Android App update library.  Android版本更新库，简单、轻量、可随意定制
+- [`pzcn/Perfect-Icons-APP`](https://github.com/pzcn/Perfect-Icons-APP) ★127 — *Kotlin* — _pzcn_
+- [`pzcn/Perfect-Icons-Completion-Project`](https://github.com/pzcn/Perfect-Icons-Completion-Project) ★421 — *Shell* — _pzcn_
+  
+  > MIUI 完美图标补全计划
 
 ## 📂 fonts (1 Repos)
 
@@ -143,63 +171,69 @@
   
   > 一款仿 Unifont 风格的小型化像素字体
 
-## 📂 libs (17 Repos)
+## 📂 libs (19 Repos)
 
-- [`Textualize/textual`](https://github.com/Textualize/textual) ★28978 — *Python* — _Textualize_
+- [`Textualize/textual`](https://github.com/Textualize/textual) ★28993 — *Python* — _Textualize_
   
   > The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [`urwid/urwid`](https://github.com/urwid/urwid) ★2904 — *Python* — _urwid_
   
   > Console user interface library for Python (official repo)
-- [`ZhuoZhuoCrayon/throttled-py`](https://github.com/ZhuoZhuoCrayon/throttled-py) ★282 — *Python* — _ZhuoZhuoCrayon_
+- [`ZhuoZhuoCrayon/throttled-py`](https://github.com/ZhuoZhuoCrayon/throttled-py) ★288 — *Python* — _ZhuoZhuoCrayon_
   
   > 🔧 High-performance Python rate limiting library with multiple algorithms (Fixed Window, Sliding Window, Token Bucket, Leaky Bucket & GCRA) and storage backends (Redis, In-Memory).
-- [`juliangarnier/anime`](https://github.com/juliangarnier/anime) ★61093 — *JavaScript* — _juliangarnier_
+- [`juliangarnier/anime`](https://github.com/juliangarnier/anime) ★61126 — *JavaScript* — _juliangarnier_
   
   > JavaScript animation engine
-- [`ustbhuangyi/better-scroll`](https://github.com/ustbhuangyi/better-scroll) ★16521 — *TypeScript* — _ustbhuangyi_
+- [`ustbhuangyi/better-scroll`](https://github.com/ustbhuangyi/better-scroll) ★16520 — *TypeScript* — _ustbhuangyi_
   
   > :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
-- [`alovajs/alova`](https://github.com/alovajs/alova) ★3617 — *TypeScript* — _alovajs_
+- [`alovajs/alova`](https://github.com/alovajs/alova) ★3618 — *TypeScript* — _alovajs_
   
   > Workflow-Streamlined next-generation request tools. Extremely streamline API integration workflow, just one step
-- [`NervJS/taro`](https://github.com/NervJS/taro) ★36570 — *TypeScript* — _NervJS_
+- [`NervJS/taro`](https://github.com/NervJS/taro) ★36573 — *TypeScript* — _NervJS_
   
   > 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
-- [`tauri-apps/tauri`](https://github.com/tauri-apps/tauri) ★93222 — *Rust* — _tauri-apps_
+- [`tauri-apps/tauri`](https://github.com/tauri-apps/tauri) ★93257 — *Rust* — _tauri-apps_
   
   > Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-- [`mitesh77/Best-Flutter-UI-Templates`](https://github.com/mitesh77/Best-Flutter-UI-Templates) ★21599 — *Dart* — _mitesh77_
+- [`mitesh77/Best-Flutter-UI-Templates`](https://github.com/mitesh77/Best-Flutter-UI-Templates) ★21606 — *Dart* — _mitesh77_
   
   > completely free for everyone. Its build-in Flutter Dart.
-- [`fail2ban/fail2ban`](https://github.com/fail2ban/fail2ban) ★14426 — *Python* — _fail2ban_
+- [`fail2ban/fail2ban`](https://github.com/fail2ban/fail2ban) ★14436 — *Python* — _fail2ban_
   
   > Daemon to ban hosts that cause multiple authentication errors
-- [`fuma-nama/fumadocs`](https://github.com/fuma-nama/fumadocs) ★6671 — *TypeScript* — _fuma-nama_
+- [`fuma-nama/fumadocs`](https://github.com/fuma-nama/fumadocs) ★6678 — *TypeScript* — _fuma-nama_
   
   > The beautiful docs framework with Next.js.
-- [`vuetifyjs/vuetify`](https://github.com/vuetifyjs/vuetify) ★40538 — *TypeScript* — _vuetifyjs_
+- [`vuetifyjs/vuetify`](https://github.com/vuetifyjs/vuetify) ★40539 — *TypeScript* — _vuetifyjs_
   
   > 🐉 Vue Component Framework
-- [`tusen-ai/naive-ui`](https://github.com/tusen-ai/naive-ui) ★17180 — *TypeScript* — _tusen-ai_
+- [`tusen-ai/naive-ui`](https://github.com/tusen-ai/naive-ui) ★17183 — *TypeScript* — _tusen-ai_
   
   > A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
-- [`Nuitka/Nuitka`](https://github.com/Nuitka/Nuitka) ★13248 — *Python* — _Nuitka_
+- [`Nuitka/Nuitka`](https://github.com/Nuitka/Nuitka) ★13257 — *Python* — _Nuitka_
   
   > Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
-- [`zhiyiYo/PyQt-Fluent-Widgets`](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) ★6739 — *Python* — _zhiyiYo_
+- [`zhiyiYo/PyQt-Fluent-Widgets`](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) ★6742 — *Python* — _zhiyiYo_
   
   > A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
-- [`duckdb/duckdb`](https://github.com/duckdb/duckdb) ★29990 — *C++* — _duckdb_
+- [`duckdb/duckdb`](https://github.com/duckdb/duckdb) ★30048 — *C++* — _duckdb_
   
   > DuckDB is an analytical in-process SQL database management system
-- [`ruffle-rs/ruffle`](https://github.com/ruffle-rs/ruffle) ★16735 — *Rust* — _ruffle-rs_
+- [`ruffle-rs/ruffle`](https://github.com/ruffle-rs/ruffle) ★16742 — *Rust* — _ruffle-rs_
   
   > A Flash Player emulator written in Rust
+- [`bukson/steampy`](https://github.com/bukson/steampy) ★632 — *Python* — _bukson_
+  
+  > A Steam trading library for python 3
+- [`skiptools/skip`](https://github.com/skiptools/skip) ★1862 — *Swift* — _skiptools_
+  
+  > Skip enables the creation of native SwiftUI apps for iOS and Android
 
 ## 📂 Minecraft (7 Repos)
 
-- [`unmojang/drasl`](https://github.com/unmojang/drasl) ★213 — *Go* — _unmojang_
+- [`unmojang/drasl`](https://github.com/unmojang/drasl) ★215 — *Go* — _unmojang_
   
   > Yggdrasil-compatible API server for Minecraft
 - [`hotpad100c/yetanothercarpetaddition`](https://github.com/hotpad100c/yetanothercarpetaddition) ★17 — *Java* — _hotpad100c_
@@ -210,10 +244,10 @@
   
   > BakaXL 用户帮助文档
 - [`cao-awa/Medical-mc`](https://github.com/cao-awa/Medical-mc) ★5 — *Kotlin* — _cao-awa_
-- [`Hex-Dragon/PCL2`](https://github.com/Hex-Dragon/PCL2) ★4093 — *Visual Basic .NET* — _Hex-Dragon_
+- [`Hex-Dragon/PCL2`](https://github.com/Hex-Dragon/PCL2) ★4100 — *Visual Basic .NET* — _Hex-Dragon_
   
   > Minecraft 启动器 Plain Craft Launcher（PCL）。
-- [`BakaXL-Launcher/BakaXL`](https://github.com/BakaXL-Launcher/BakaXL) ★387 — *None* — _BakaXL-Launcher_
+- [`BakaXL-Launcher/BakaXL`](https://github.com/BakaXL-Launcher/BakaXL) ★388 — *None* — _BakaXL-Launcher_
   
   > BakaXL 项目门户 / BakaXL Project's Portal
 
@@ -222,25 +256,25 @@
 - [`TGwear/TGwear`](https://github.com/TGwear/TGwear) ★40 — *Java* — _TGwear_
   
   > ‎Telegram for Android watch & wearos
-- [`groupultra/telegram-search`](https://github.com/groupultra/telegram-search) ★2202 — *TypeScript* — _groupultra_
+- [`groupultra/telegram-search`](https://github.com/groupultra/telegram-search) ★2217 — *TypeScript* — _groupultra_
   
   > 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。A powerful Telegram chat search tool with vector search and semantic matching capabilities.
 
 ## 📂 qq (0 Repos)
 
 
-## 📂 magisk (6 Repos)
+## 📂 magisk (11 Repos)
 
 - [`akashaProxy/akashaProxy`](https://github.com/akashaProxy/akashaProxy) ★209 — *Shell* — _akashaProxy_
   
   > better transparent proxy module (based  clash)
-- [`chenzyadb/CuprumTurbo-Scheduler`](https://github.com/chenzyadb/CuprumTurbo-Scheduler) ★368 — *Shell* — _chenzyadb_
+- [`chenzyadb/CuprumTurbo-Scheduler`](https://github.com/chenzyadb/CuprumTurbo-Scheduler) ★369 — *Shell* — _chenzyadb_
   
   > A Simple and Reliable Performance Scheduler.
-- [`kdrag0n/safetynet-fix`](https://github.com/kdrag0n/safetynet-fix) ★6338 — *C++* — _kdrag0n_
+- [`kdrag0n/safetynet-fix`](https://github.com/kdrag0n/safetynet-fix) ★6342 — *C++* — _kdrag0n_
   
   > Google SafetyNet attestation workarounds for Magisk
-- [`KernelSU-Next/KernelSU-Next`](https://github.com/KernelSU-Next/KernelSU-Next) ★1625 — *Kotlin* — _KernelSU-Next_
+- [`KernelSU-Next/KernelSU-Next`](https://github.com/KernelSU-Next/KernelSU-Next) ★1639 — *Kotlin* — _KernelSU-Next_
   
   > An advanced Kernel based root solution for Android
 - [`azhon/AppUpdate`](https://github.com/azhon/AppUpdate) ★2398 — *Kotlin* — _azhon_
@@ -249,38 +283,62 @@
 - [`bkerler/oppo_decrypt`](https://github.com/bkerler/oppo_decrypt) ★595 — *Python* — _bkerler_
   
   > Oppo .ofp Firmware decrypter and oneplus .ops de-/encrypter
+- [`lxgw/advanced-cjk-font-magisk-module-template`](https://github.com/lxgw/advanced-cjk-font-magisk-module-template) ★239 — *Shell* — _lxgw_
+  
+  > A Magisk module template to systemlessly replace system fonts. Supports CJK Fonts. 用于制作字体模块的 Magisk 模块模板，支持中日韩字体的替换。
+- [`lxgw/simple-cjk-font-magisk-module-template`](https://github.com/lxgw/simple-cjk-font-magisk-module-template) ★223 — *Shell* — _lxgw_
+  
+  > A Magisk module template to systemlessly replace system fonts. Supports CJK Fonts. 用于制作字体模块的 Magisk 模块模板，支持中日韩字体的替换。
+- [`Unofficial-Life/Lawnchair-Launcher-Module`](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module) ★112 — *Shell* — _Unofficial-Life_
+  
+  > Replace your stock launcher with Lawnchair Launcher module (Q to U) for Magisk and KSU (Quickswitch included)
+- [`HChenX/AppRetention`](https://github.com/HChenX/AppRetention) ★599 — *Java* — _HChenX_
+  
+  > Hook 系统 kill 逻辑来实现后台保活 | Hook system kill logic to implement background keep alive
+- [`symbuzzer/livebootmodule`](https://github.com/symbuzzer/livebootmodule) ★269 — *Shell* — _symbuzzer_
+  
+  > A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices
 
-## 📂 lsposed (2 Repos)
+## 📂 lsposed (5 Repos)
 
-- [`Xposed-Modules-Repo/com.chrxw.purenga`](https://github.com/Xposed-Modules-Repo/com.chrxw.purenga) ★128 — *None* — _Xposed-Modules-Repo_
+- [`Xposed-Modules-Repo/com.chrxw.purenga`](https://github.com/Xposed-Modules-Repo/com.chrxw.purenga) ★129 — *None* — _Xposed-Modules-Repo_
   
   > NGA玩家论坛去广告模块
 - [`kazutoiris/infinite-illusion`](https://github.com/kazutoiris/infinite-illusion) ★60 — *Kotlin* — _kazutoiris_
   
   > Infinite Illusion （无限幻境）
+- [`HChenX/AppRetention`](https://github.com/HChenX/AppRetention) ★599 — *Java* — _HChenX_
+  
+  > Hook 系统 kill 逻辑来实现后台保活 | Hook system kill logic to implement background keep alive
+- [`Xposed-Modules-Repo/com.variable.apkhook`](https://github.com/Xposed-Modules-Repo/com.variable.apkhook) ★227 — *None* — _Xposed-Modules-Repo_
+  
+  > 应用伪装
+- [`kingsollyu/AppEnv`](https://github.com/kingsollyu/AppEnv) ★498 — *Java* — _kingsollyu_
+  
+  > 应用变量
 
 ## 📂 themes (2 Repos)
 
 - [`ozh/github-colors`](https://github.com/ozh/github-colors) ★735 — *Python* — _ozh_
   
   > 🌈 Github colors for all the languages
-- [`themepark-dev/theme.park`](https://github.com/themepark-dev/theme.park) ★2718 — *CSS* — _themepark-dev_
+- [`themepark-dev/theme.park`](https://github.com/themepark-dev/theme.park) ★2724 — *CSS* — _themepark-dev_
   
   > A collection of themes/skins for 50 selfhosted apps!
 
 ## 📂 VSCode (3 Repos)
 
-- [`voideditor/void`](https://github.com/voideditor/void) ★23008 — *TypeScript* — _voideditor_
-- [`yeongpin/cursor-free-vip`](https://github.com/yeongpin/cursor-free-vip) ★28945 — *Python* — _yeongpin_
+- [`voideditor/void`](https://github.com/voideditor/void) ★23130 — *TypeScript* — _voideditor_
+- [`yeongpin/cursor-free-vip`](https://github.com/yeongpin/cursor-free-vip) ★29114 — *Python* — _yeongpin_
   
   > [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-- [`artisticat1/obsidian-latex-suite`](https://github.com/artisticat1/obsidian-latex-suite) ★1822 — *TypeScript* — _artisticat1_
+- [`artisticat1/obsidian-latex-suite`](https://github.com/artisticat1/obsidian-latex-suite) ★1823 — *TypeScript* — _artisticat1_
   
   > Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements
 
-## 📂 rime (5 Repos)
+## 📂 rime (6 Repos)
 
-- [`KyleBing/rime-wubi86-jidian`](https://github.com/KyleBing/rime-wubi86-jidian) ★1293 — *Lua* — _KyleBing_
+- [`KyleBing/rime-wubi86-jidian`](https://github.com/KyleBing/rime-wubi86-jidian) ★1294 — *Lua* — _KyleBing_
   
   > 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wubi input method schema
 - [`tonyfettes/fcitx5-nord`](https://github.com/tonyfettes/fcitx5-nord) ★168 — *None* — _tonyfettes_
@@ -289,165 +347,216 @@
 - [`dongyuwei/hallelujahIM`](https://github.com/dongyuwei/hallelujahIM) ★2352 — *Objective-C++* — _dongyuwei_
   
   > hallelujahIM(哈利路亚 英文输入法) is  an intelligent English input method with auto-suggestions and spell check features.
-- [`goto456/stopwords`](https://github.com/goto456/stopwords) ★5146 — *None* — _goto456_
+- [`goto456/stopwords`](https://github.com/goto456/stopwords) ★5147 — *None* — _goto456_
   
   > 中文常用停用词表（哈工大停用词表、百度停用词表等）
 - [`brightmart/nlp_chinese_corpus`](https://github.com/brightmart/nlp_chinese_corpus) ★9727 — *None* — _brightmart_
   
   > 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
+- [`LEOYoon-Tsaw/Rime_collections`](https://github.com/LEOYoon-Tsaw/Rime_collections) ★660 — *Lua* — _LEOYoon-Tsaw_
+  
+  > All collections for Rime IME
 
-## 📂 ai (11 Repos)
+## 📂 ai (12 Repos)
 
-- [`krillinai/KlicStudio`](https://github.com/krillinai/KlicStudio) ★7664 — *Go* — _krillinai_
+- [`krillinai/KlicStudio`](https://github.com/krillinai/KlicStudio) ★7679 — *Go* — _krillinai_
   
   > A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
-- [`comfyanonymous/ComfyUI`](https://github.com/comfyanonymous/ComfyUI) ★78957 — *Python* — _comfyanonymous_
+- [`comfyanonymous/ComfyUI`](https://github.com/comfyanonymous/ComfyUI) ★79034 — *Python* — _comfyanonymous_
   
   > The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [`agentcodee/cursor-free-everyday`](https://github.com/agentcodee/cursor-free-everyday) ★3997 — *Rust* — _agentcodee_
+- [`agentcodee/cursor-free-everyday`](https://github.com/agentcodee/cursor-free-everyday) ★4057 — *Rust* — _agentcodee_
   
   > 完全免费, 自动获取新账号,一键重置新额度,  解决机器码问题, 自动满额度
-- [`browser-use/workflow-use`](https://github.com/browser-use/workflow-use) ★3161 — *TypeScript* — _browser-use_
+- [`browser-use/workflow-use`](https://github.com/browser-use/workflow-use) ★3171 — *TypeScript* — _browser-use_
   
   > ⚙️ Create and run workflows (RPA 2.0)
-- [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) ★53323 — *None* — _punkpeye_
+- [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) ★53513 — *None* — _punkpeye_
   
   > A collection of MCP servers.
-- [`xming521/WeClone`](https://github.com/xming521/WeClone) ★13047 — *Python* — _xming521_
+- [`xming521/WeClone`](https://github.com/xming521/WeClone) ★13149 — *Python* — _xming521_
   
   > 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案
-- [`simular-ai/Agent-S`](https://github.com/simular-ai/Agent-S) ★5361 — *Python* — _simular-ai_
+- [`simular-ai/Agent-S`](https://github.com/simular-ai/Agent-S) ★5367 — *Python* — _simular-ai_
   
   > Agent S: an open agentic framework that uses computers like a human
-- [`x1xhlol/system-prompts-and-models-of-ai-tools`](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ★55332 — *None* — _x1xhlol_
+- [`x1xhlol/system-prompts-and-models-of-ai-tools`](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ★55568 — *None* — _x1xhlol_
   
   > FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
-- [`hacksider/Deep-Live-Cam`](https://github.com/hacksider/Deep-Live-Cam) ★70602 — *Python* — _hacksider_
+- [`hacksider/Deep-Live-Cam`](https://github.com/hacksider/Deep-Live-Cam) ★70652 — *Python* — _hacksider_
   
   > real time face swap and one-click video deepfake with only a single image
-- [`yeongpin/cursor-free-vip`](https://github.com/yeongpin/cursor-free-vip) ★28945 — *Python* — _yeongpin_
+- [`yeongpin/cursor-free-vip`](https://github.com/yeongpin/cursor-free-vip) ★29114 — *Python* — _yeongpin_
   
   > [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-- [`chatanywhere/GPT_API_free`](https://github.com/chatanywhere/GPT_API_free) ★30142 — *Python* — _chatanywhere_
+- [`chatanywhere/GPT_API_free`](https://github.com/chatanywhere/GPT_API_free) ★30163 — *Python* — _chatanywhere_
   
   > Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
+- [`github/github-mcp-server`](https://github.com/github/github-mcp-server) ★15079 — *Go* — _github_
+  
+  > GitHub's official MCP Server
 
-## 📂 game (6 Repos)
+## 📂 game (8 Repos)
 
-- [`flutter/pinball`](https://github.com/flutter/pinball) ★2265 — *Dart* — _flutter_
+- [`flutter/pinball`](https://github.com/flutter/pinball) ★2264 — *Dart* — _flutter_
   
   > Google I/O 2022 Pinball game built with Flutter and Firebase
-- [`antfu/handle`](https://github.com/antfu/handle) ★1373 — *TypeScript* — _antfu_
+- [`antfu/handle`](https://github.com/antfu/handle) ★1374 — *TypeScript* — _antfu_
   
   > A Chinese Hanzi variation of Wordle - 汉字 Wordle
-- [`HunterPie/HunterPie`](https://github.com/HunterPie/HunterPie) ★996 — *C#* — _HunterPie_
+- [`HunterPie/HunterPie`](https://github.com/HunterPie/HunterPie) ★997 — *C#* — _HunterPie_
   
   > A clean, modern and robust overlay for Monster Hunter games.
-- [`pagefaultgames/pokerogue`](https://github.com/pagefaultgames/pokerogue) ★5161 — *TypeScript* — _pagefaultgames_
+- [`pagefaultgames/pokerogue`](https://github.com/pagefaultgames/pokerogue) ★5164 — *TypeScript* — _pagefaultgames_
   
   > A browser based Pokémon fangame heavily inspired by the roguelite genre.
-- [`libnoname/noname`](https://github.com/libnoname/noname) ★3525 — *JavaScript* — _libnoname_
+- [`libnoname/noname`](https://github.com/libnoname/noname) ★3529 — *JavaScript* — _libnoname_
 - [`popcap-games/Plants-vs-Zombies-GOTY`](https://github.com/popcap-games/Plants-vs-Zombies-GOTY) ★17 — *None* — _popcap-games_
   
   > Plants vs. Zombies GOTY (NO installation required)
+- [`Purple-CSGO/CSGO-Toolbox`](https://github.com/Purple-CSGO/CSGO-Toolbox) ★31 — *Vue* — _Purple-CSGO_
+  
+  > CSGO工具箱：一个为CSGO游戏的各个方面带来便利的工具集合
+- [`Purple-CSGO/CS2-Config-Presets`](https://github.com/Purple-CSGO/CS2-Config-Presets) ★228 — *HTML* — _Purple-CSGO_
+  
+  > 🎉​ CFG Presets for many scenarios in Counter-Strike 2
 
 ## 📂 proxy (5 Repos)
 
-- [`fscarmen/ArgoX`](https://github.com/fscarmen/ArgoX) ★1417 — *Shell* — _fscarmen_
+- [`fscarmen/ArgoX`](https://github.com/fscarmen/ArgoX) ★1419 — *Shell* — _fscarmen_
   
   > Argo Xray for VPS one-click script. 一键脚本
-- [`frankiejun/serv00-play`](https://github.com/frankiejun/serv00-play) ★2136 — *Shell* — _frankiejun_
+- [`frankiejun/serv00-play`](https://github.com/frankiejun/serv00-play) ★2135 — *Shell* — _frankiejun_
   
   > serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
-- [`eooce/Sing-box`](https://github.com/eooce/Sing-box) ★2952 — *Shell* — _eooce_
+- [`eooce/Sing-box`](https://github.com/eooce/Sing-box) ★2958 — *Shell* — _eooce_
   
   > 既然来了，就留下你的Star吧！Serv00 | CT8 | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞
-- [`yonggekkk/sing-box-yg`](https://github.com/yonggekkk/sing-box-yg) ★4403 — *Shell* — _yonggekkk_
+- [`yonggekkk/sing-box-yg`](https://github.com/yonggekkk/sing-box-yg) ★4412 — *Shell* — _yonggekkk_
   
   > Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Hostuno三合一代理脚本
-- [`ermaozi/get_subscribe`](https://github.com/ermaozi/get_subscribe) ★7706 — *Python* — _ermaozi_
+- [`ermaozi/get_subscribe`](https://github.com/ermaozi/get_subscribe) ★7713 — *Python* — _ermaozi_
   
   > ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
 
-## 📂 interesting (10 Repos)
+## 📂 interesting (17 Repos)
 
-- [`bee-san/Ciphey`](https://github.com/bee-san/Ciphey) ★19515 — *Python* — _bee-san_
+- [`bee-san/Ciphey`](https://github.com/bee-san/Ciphey) ★19517 — *Python* — _bee-san_
   
   > ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-- [`hmjz100/123panYouthMember`](https://github.com/hmjz100/123panYouthMember) ★399 — *JavaScript* — _hmjz100_
+- [`hmjz100/123panYouthMember`](https://github.com/hmjz100/123panYouthMember) ★400 — *JavaScript* — _hmjz100_
   
   > 123 云盘会员青春版 - 在 123 云盘超过 1GB 上限下载文件，显示身份信息为会员；123 云盘下载辅助增强脚本 - 123云盘 - 用户脚本 - 解锁123云盘下载
-- [`HuLaSpark/HuLa`](https://github.com/HuLaSpark/HuLa) ★2924 — *Vue* — _HuLaSpark_
+- [`HuLaSpark/HuLa`](https://github.com/HuLaSpark/HuLa) ★2955 — *Vue* — _HuLaSpark_
   
   > 🍀 HuLa是一款基于Tauri v2+Vue3的跨平台即时通讯桌面应用（不仅仅是即时通讯），兼容Windows、MacOS、Linux、Android、IOS
-- [`TapXWorld/ChinaTextbook`](https://github.com/TapXWorld/ChinaTextbook) ★36320 — *Roff* — _TapXWorld_
+- [`TapXWorld/ChinaTextbook`](https://github.com/TapXWorld/ChinaTextbook) ★36756 — *Roff* — _TapXWorld_
   
   > 所有小初高、大学PDF教材。
-- [`duplicati/duplicati`](https://github.com/duplicati/duplicati) ★12650 — *C#* — _duplicati_
+- [`duplicati/duplicati`](https://github.com/duplicati/duplicati) ★12655 — *C#* — _duplicati_
   
   > Store securely encrypted backups in the cloud!
-- [`cuixueshe/earthworm`](https://github.com/cuixueshe/earthworm) ★8570 — *TypeScript* — _cuixueshe_
+- [`cuixueshe/earthworm`](https://github.com/cuixueshe/earthworm) ★8574 — *TypeScript* — _cuixueshe_
   
   > Learning English through the method of constructing sentences with conjunctions
-- [`kawamataryo/sky-follower-bridge`](https://github.com/kawamataryo/sky-follower-bridge) ★821 — *TypeScript* — _kawamataryo_
+- [`kawamataryo/sky-follower-bridge`](https://github.com/kawamataryo/sky-follower-bridge) ★822 — *TypeScript* — _kawamataryo_
   
   > Instantly find and follow the same users from your X(Twitter) follower on Bluesky.
-- [`ayangweb/BongoCat`](https://github.com/ayangweb/BongoCat) ★6079 — *TypeScript* — _ayangweb_
+- [`ayangweb/BongoCat`](https://github.com/ayangweb/BongoCat) ★6205 — *TypeScript* — _ayangweb_
   
   > 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
-- [`Anduin2017/HowToCook`](https://github.com/Anduin2017/HowToCook) ★87944 — *Dockerfile* — _Anduin2017_
+- [`Anduin2017/HowToCook`](https://github.com/Anduin2017/HowToCook) ★88233 — *Dockerfile* — _Anduin2017_
   
   > 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-- [`Cute-Dress/Dress`](https://github.com/Cute-Dress/Dress) ★1488 — *Ruby* — _Cute-Dress_
+- [`Cute-Dress/Dress`](https://github.com/Cute-Dress/Dress) ★1490 — *Ruby* — _Cute-Dress_
   
   > 好耶 是女装 | 备份·接受PR
+- [`ph-design/PH60Slim-Choc`](https://github.com/ph-design/PH60Slim-Choc) ★74 — *None* — _ph-design_
+  
+  > A printable low-profile 60% mechanical keyboard kit with 7mm front height and foldable footstand.
+- [`GamerNoTitle/WorthIt`](https://github.com/GamerNoTitle/WorthIt) ★3 — *JavaScript* — _GamerNoTitle_
+  
+  > 我的东西买得有多值呢？基于 Notion 数据库的记物网站应用
+- [`community/community`](https://github.com/community/community) ★7253 — *Ruby* — _community_
+  
+  > Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
+- [`keleus/BewlyCat`](https://github.com/keleus/BewlyCat) ★264 — *Vue* — _keleus_
+  
+  > BewlyCat——基于BewlyBewly开发
+- [`MlgmXyysd/Xiaomi-BootLoader-Questionnaire`](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) ★4084 — *None* — _MlgmXyysd_
+  
+  > 小米 BootLoader《解锁资格答题测试》更新记录
+- [`ading2210/linuxpdf`](https://github.com/ading2210/linuxpdf) ★3873 — *C* — _ading2210_
+  
+  > Linux running inside a PDF file via a RISC-V emulator
+- [`nieheyong/starflare`](https://github.com/nieheyong/starflare) ★57 — *Vue* — _nieheyong_
+  
+  > A web app helps you manage your GitHub stars simply and efficiently
 
 ## 📂 frp (1 Repos)
 
-- [`tailscale/tailscale`](https://github.com/tailscale/tailscale) ★22942 — *Go* — _tailscale_
+- [`tailscale/tailscale`](https://github.com/tailscale/tailscale) ★22963 — *Go* — _tailscale_
   
   > The easiest, most secure way to use WireGuard and 2FA.
 
-## 📂 Linux (10 Repos)
+## 📂 Linux (16 Repos)
 
-- [`kholia/OSX-KVM`](https://github.com/kholia/OSX-KVM) ★21765 — *Python* — _kholia_
+- [`kholia/OSX-KVM`](https://github.com/kholia/OSX-KVM) ★21769 — *Python* — _kholia_
   
   > Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
-- [`Zouuup/landrun`](https://github.com/Zouuup/landrun) ★1793 — *Go* — _Zouuup_
+- [`Zouuup/landrun`](https://github.com/Zouuup/landrun) ★1795 — *Go* — _Zouuup_
   
   > Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
-- [`SuperManito/LinuxMirrors`](https://github.com/SuperManito/LinuxMirrors) ★4585 — *Shell* — _SuperManito_
+- [`SuperManito/LinuxMirrors`](https://github.com/SuperManito/LinuxMirrors) ★4597 — *Shell* — _SuperManito_
   
   > GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
-- [`duplicati/duplicati`](https://github.com/duplicati/duplicati) ★12650 — *C#* — _duplicati_
+- [`duplicati/duplicati`](https://github.com/duplicati/duplicati) ★12655 — *C#* — _duplicati_
   
   > Store securely encrypted backups in the cloud!
-- [`Lxtharia/minegrub-world-sel-theme`](https://github.com/Lxtharia/minegrub-world-sel-theme) ★376 — *Nix* — _Lxtharia_
+- [`Lxtharia/minegrub-world-sel-theme`](https://github.com/Lxtharia/minegrub-world-sel-theme) ★377 — *Nix* — _Lxtharia_
   
   > A grub theme in the style of the Minecraft singleplayer (sp) world selection screen!
-- [`LazyVim/starter`](https://github.com/LazyVim/starter) ★1335 — *Lua* — _LazyVim_
+- [`LazyVim/starter`](https://github.com/LazyVim/starter) ★1337 — *Lua* — _LazyVim_
   
   > Starter template for LazyVim
-- [`LazyVim/LazyVim`](https://github.com/LazyVim/LazyVim) ★21109 — *Lua* — _LazyVim_
+- [`LazyVim/LazyVim`](https://github.com/LazyVim/LazyVim) ★21124 — *Lua* — _LazyVim_
   
   > Neovim config for the lazy
-- [`PintaProject/Pinta`](https://github.com/PintaProject/Pinta) ★2583 — *C#* — _PintaProject_
+- [`PintaProject/Pinta`](https://github.com/PintaProject/Pinta) ★2584 — *C#* — _PintaProject_
   
   > Simple GTK# Paint Program
-- [`ayangweb/BongoCat`](https://github.com/ayangweb/BongoCat) ★6079 — *TypeScript* — _ayangweb_
+- [`ayangweb/BongoCat`](https://github.com/ayangweb/BongoCat) ★6205 — *TypeScript* — _ayangweb_
   
   > 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
-- [`ruffle-rs/ruffle`](https://github.com/ruffle-rs/ruffle) ★16735 — *Rust* — _ruffle-rs_
+- [`ruffle-rs/ruffle`](https://github.com/ruffle-rs/ruffle) ★16742 — *Rust* — _ruffle-rs_
   
   > A Flash Player emulator written in Rust
+- [`vim/vim`](https://github.com/vim/vim) ★38302 — *Vim Script* — _vim_
+  
+  > The official Vim repository
+- [`bloznelis/kbt`](https://github.com/bloznelis/kbt) ★332 — *Rust* — _bloznelis_
+  
+  > Keyboard tester in terminal
+- [`keleus/BewlyCat`](https://github.com/keleus/BewlyCat) ★264 — *Vue* — _keleus_
+  
+  > BewlyCat——基于BewlyBewly开发
+- [`bukson/steampy`](https://github.com/bukson/steampy) ★632 — *Python* — _bukson_
+  
+  > A Steam trading library for python 3
+- [`catppuccin/fcitx5`](https://github.com/catppuccin/fcitx5) ★148 — *Shell* — _catppuccin_
+  
+  > 🧃 Soothing pastel theme for Fcitx5
+- [`ading2210/linuxpdf`](https://github.com/ading2210/linuxpdf) ★3873 — *C* — _ading2210_
+  
+  > Linux running inside a PDF file via a RISC-V emulator
 
-## 📂 GitHub Actions (7 Repos)
+## 📂 GitHub Actions (9 Repos)
 
-- [`zizmorcore/zizmor`](https://github.com/zizmorcore/zizmor) ★2665 — *Rust* — _zizmorcore_
+- [`zizmorcore/zizmor`](https://github.com/zizmorcore/zizmor) ★2666 — *Rust* — _zizmorcore_
   
   > Static analysis for GitHub Actions
 - [`weepwood/Sync-Bangumi-to-Notion`](https://github.com/weepwood/Sync-Bangumi-to-Notion) ★1 — *Python* — _weepwood_
-- [`nektos/act`](https://github.com/nektos/act) ★63461 — *Go* — _nektos_
+- [`nektos/act`](https://github.com/nektos/act) ★63481 — *Go* — _nektos_
   
   > Run your GitHub Actions locally 🚀
 - [`actions/setup-python`](https://github.com/actions/setup-python) ★1901 — *TypeScript* — _actions_
@@ -462,10 +571,16 @@
 - [`aormsby/Fork-Sync-With-Upstream-action`](https://github.com/aormsby/Fork-Sync-With-Upstream-action) ★276 — *Shell* — _aormsby_
   
   > An action to automatically update your fork with new commits from the upstream repo
+- [`TG-Twilight/Starstruck`](https://github.com/TG-Twilight/Starstruck) ★31 — *Python* — _TG-Twilight_
+  
+  > Starstruck是一个能让你快速统计某个 GitHub 仓库被哪些“显赫人物” Star 过的工具，顺便也能看看大佬们各自的“影响力”。| Starstruck is a tool that quickly shows you which “influential developers” have starred a GitHub repo — and lets you check out their own impact, too.
+- [`GamerNoTitle/WorthIt`](https://github.com/GamerNoTitle/WorthIt) ★3 — *JavaScript* — _GamerNoTitle_
+  
+  > 我的东西买得有多值呢？基于 Notion 数据库的记物网站应用
 
-## 📂 GitHub profile (3 Repos)
+## 📂 GitHub profile (6 Repos)
 
-- [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) ★1290 — *TypeScript* — _yoshi389111_
+- [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) ★1292 — *TypeScript* — _yoshi389111_
   
   > This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 - [`dongyuanwai/readme-become-better`](https://github.com/dongyuanwai/readme-become-better) ★61 — *None* — _dongyuanwai_
@@ -474,37 +589,64 @@
 - [`BingyanStudio/github-analyzer`](https://github.com/BingyanStudio/github-analyzer) ★414 — *TypeScript* — _BingyanStudio_
   
   > 锐评一下你都在 GitHub 写了什么
+- [`TG-Twilight/Starstruck`](https://github.com/TG-Twilight/Starstruck) ★31 — *Python* — _TG-Twilight_
+  
+  > Starstruck是一个能让你快速统计某个 GitHub 仓库被哪些“显赫人物” Star 过的工具，顺便也能看看大佬们各自的“影响力”。| Starstruck is a tool that quickly shows you which “influential developers” have starred a GitHub repo — and lets you check out their own impact, too.
+- [`LordDashMe/github-contribution-stats`](https://github.com/LordDashMe/github-contribution-stats) ★625 — *JavaScript* — _LordDashMe_
+  
+  > Dynamically generated Github Contribution Stats. :chart_with_upwards_trend: :calendar:
+- [`anuraghazra/github-readme-stats`](https://github.com/anuraghazra/github-readme-stats) ★73647 — *JavaScript* — _anuraghazra_
+  
+  > :zap: Dynamically generated stats for your github readmes
 
-## 📂 bilibili (3 Repos)
+## 📂 bilibili (5 Repos)
 
 - [`GamerNoTitle/BiliLive-Utility`](https://github.com/GamerNoTitle/BiliLive-Utility) ★19 — *Python* — _GamerNoTitle_
   
   > 新一代 B 站小主播直播助手！开启 B 站直播并获得推流链接与推流密钥，一键修改标题、标签和直播分区（给不满足 B 站新规定 5k 粉丝要求的用户使用的）
-- [`guozhigq/pilipala`](https://github.com/guozhigq/pilipala) ★10865 — *Dart* — _guozhigq_
+- [`guozhigq/pilipala`](https://github.com/guozhigq/pilipala) ★10874 — *Dart* — _guozhigq_
   
   > PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
-- [`AHCorn/Bilibili-Auto-Quality`](https://github.com/AHCorn/Bilibili-Auto-Quality) ★293 — *JavaScript* — _AHCorn_
+- [`AHCorn/Bilibili-Auto-Quality`](https://github.com/AHCorn/Bilibili-Auto-Quality) ★294 — *JavaScript* — _AHCorn_
   
   > 自动解锁并更改哔哩哔哩视频的画质和音质及直播画质，实现自动选择最高画质、无损音频、杜比全景声。 / Automatically unlock and select highest quality,lossless audio,and Dolby Atmos for Bilibili videos.
+- [`Karben233/bili-hardcore`](https://github.com/Karben233/bili-hardcore) ★1010 — *Python* — _Karben233_
+  
+  > bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现
+- [`1250422131/bilibilias`](https://github.com/1250422131/bilibilias) ★1239 — *Kotlin* — _1250422131_
+  
+  > 哔哩哔哩解析工具，一个辅助缓存下载B站视频番剧的APP，帮助你快速便捷的缓存B站视频和番剧。
 
-## 📂 浏览器 (4 Repos)
+## 📂 浏览器 (8 Repos)
 
-- [`mozilla-firefox/firefox`](https://github.com/mozilla-firefox/firefox) ★7775 — *JavaScript* — _mozilla-firefox_
+- [`mozilla-firefox/firefox`](https://github.com/mozilla-firefox/firefox) ★7785 — *JavaScript* — _mozilla-firefox_
   
   > The official repository of Mozilla's Firefox web browser.
-- [`dudor/BookmarkHub`](https://github.com/dudor/BookmarkHub) ★1692 — *TypeScript* — _dudor_
+- [`dudor/BookmarkHub`](https://github.com/dudor/BookmarkHub) ★1699 — *TypeScript* — _dudor_
   
   > BookmarkHub , sync bookmarks across different browsers
-- [`floccusaddon/floccus`](https://github.com/floccusaddon/floccus) ★6664 — *JavaScript* — _floccusaddon_
+- [`floccusaddon/floccus`](https://github.com/floccusaddon/floccus) ★6666 — *JavaScript* — _floccusaddon_
   
   > :cloud: Sync your bookmarks privately across browsers and devices
 - [`Mr-xn/hackbar2.1.3`](https://github.com/Mr-xn/hackbar2.1.3) ★840 — *None* — _Mr-xn_
   
   > the free firefox extions of  hackbar v2.1.3 v2.2.9 v2.3.1,hackbar 插件未收费的免费版本。适用于chrome浏览器的HackBar-v2.2.6.zip,HackBar-v2.3.1.zip
+- [`lingeringsound/adblock_auto`](https://github.com/lingeringsound/adblock_auto) ★186 — *Shell* — _lingeringsound_
+  
+  > 自动合并 Adblock 规则，用于网页广告拦截
+- [`hoothin/UserScripts`](https://github.com/hoothin/UserScripts) ★3576 — *JavaScript* — _hoothin_
+  
+  > Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集
+- [`zen-browser/desktop`](https://github.com/zen-browser/desktop) ★32566 — *C++* — _zen-browser_
+  
+  > Welcome to a calmer internet
+- [`Alanrk/TabMark-Bookmark-New-Tab`](https://github.com/Alanrk/TabMark-Bookmark-New-Tab) ★172 — *JavaScript* — _Alanrk_
+  
+  > TabMark是一款基于书签的新标签页插件，将你的收藏夹变成新标签页，让你收藏的书签一目了然、整洁高效，快速直达你最需要的网站和资源。搭配智能 AI 搜索，更快找到你想要的答案。支持 Chrome 和 Edge。
 
 ## 📂 blog (7 Repos)
 
-- [`giscus/giscus`](https://github.com/giscus/giscus) ★9833 — *TypeScript* — _giscus_
+- [`giscus/giscus`](https://github.com/giscus/giscus) ★9841 — *TypeScript* — _giscus_
   
   > A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [`xiazeyu/live2d-widget-models`](https://github.com/xiazeyu/live2d-widget-models) ★1422 — *None* — _xiazeyu_
@@ -514,18 +656,39 @@
 - [`utterance/utterances`](https://github.com/utterance/utterances) ★9346 — *TypeScript* — _utterance_
   
   > :crystal_ball: A lightweight comments widget built on GitHub issues
-- [`craigary/nobelium`](https://github.com/craigary/nobelium) ★3085 — *JavaScript* — _craigary_
+- [`craigary/nobelium`](https://github.com/craigary/nobelium) ★3086 — *JavaScript* — _craigary_
   
   > A static blog build on top of Notion and NextJS, deployed on Vercel.
-- [`tangly1024/NotionNext`](https://github.com/tangly1024/NotionNext) ★9501 — *JavaScript* — _tangly1024_
+- [`tangly1024/NotionNext`](https://github.com/tangly1024/NotionNext) ★9502 — *JavaScript* — _tangly1024_
   
   > 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 - [`LetTTGACO/elog`](https://github.com/LetTTGACO/elog) ★1679 — *TypeScript* — _LetTTGACO_
   
   > Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 
-## 📂 macOS (1 Repos)
+## 📂 macOS (2 Repos)
 
-- [`runjuu/InputSourcePro`](https://github.com/runjuu/InputSourcePro) ★1537 — *Swift* — _runjuu_
+- [`runjuu/InputSourcePro`](https://github.com/runjuu/InputSourcePro) ★1540 — *Swift* — _runjuu_
   
   > Switch and track your input sources with ease ✨
+- [`noah-nuebling/mac-mouse-fix`](https://github.com/noah-nuebling/mac-mouse-fix) ★7155 — *Objective-C* — _noah-nuebling_
+  
+  > Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
+
+## 📂 java (1 Repos)
+
+- [`openjdk/mobile`](https://github.com/openjdk/mobile) ★165 — *Java* — _openjdk_
+  
+  > https://openjdk.org/projects/mobile
+
+## 📂 tv (3 Repos)
+
+- [`YanG-1989/m3u`](https://github.com/YanG-1989/m3u) ★9143 — *Shell* — _YanG-1989_
+  
+  > 直播源
+- [`Archmage83/Android_apk`](https://github.com/Archmage83/Android_apk) ★310 — *None* — _Archmage83_
+  
+  > 手机安卓手机端电影软件，希望大家一起维护
+- [`liu673cn/bug`](https://github.com/liu673cn/bug) ★10593 — *HTML* — _liu673cn_
+  
+  > TVbox开源版（空壳-自行配置）
