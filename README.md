@@ -294,8 +294,6 @@
 
 *   [tonquer/ehentai-qt](https://github.com/tonquer/ehentai-qt) - e-hentai, exhentai，看图，搜索，下载器
 
-*   [tonquer/JMComic-qt](https://github.com/tonquer/JMComic-qt) - 禁漫天堂，18comic，使用qt实现的PC客户端，支持Windows，Linux，MacOS
-
 ## miscellaneous
 
 *   [cjh0613/strict-sensitive-word](https://github.com/cjh0613/strict-sensitive-word) - 轻量超严格敏感词库
@@ -843,6 +841,8 @@
 ## C++
 
 *   [fastogt/fastonosql](https://github.com/fastogt/fastonosql) - FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika, Dynomite, KeyDB GUI management tool.
+
+*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 
 *   [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 
@@ -1648,7 +1648,7 @@
 
 *   [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) - Rime / Easy English 英文输入法
 
-*   [amzxyz/rime\_wanxiang\_pro](https://github.com/amzxyz/rime_wanxiang_pro) - Rime万象拼音输入方案：双拼辅助码增强版,词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。支持8种双拼，8种辅助码，并且可以扩展更多，支持中英混输，内置超级注释lua，带调全拼输入码显示lua，快符与重复上屏lua，手动排序，tips等功能扩展，大大增强使用体验。　　Q群：11033572
+*   [amzxyz/rime\_wanxiang](https://github.com/amzxyz/rime_wanxiang) - Rime万象拼音输入方案：标准版与增强版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。支持8种双拼，7种辅助码，并且可以扩展更多，支持中英混输，内置超级注释、带调全拼输入码显示、快符与重复上屏、手动排序、tips等功能扩展，大大增强使用体验。　　Q群：11033572
 
 *   [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) - 墨奇音形，打造最强双拼辅助码rime输入方案，让天下双拼用户人人用得上辅助码。基于雾凇-白霜词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，辅助码支持墨奇码（原创拆分开源支持4万字）、自然码部首辅、小鹤音形（鹤形辅）等，支持双拼和辅助码之间排列组合，支持整句/字词输入。不认识的字可以笔画、部件拆字、仓颉码反查。支持aw、aj模式输入英文、日文，支持双拼并击输入、emoji、快符、日期、大写数字、计算器等高级功能。雾凇鹤|雾凇自然|墨奇码|墨奇音形
 
