@@ -266,7 +266,7 @@
 
 *   [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 
-*   [Class-Widgets/Class-Widgets](https://github.com/Class-Widgets/Class-Widgets) - Class Widgets One，但是维护者是 IsHPDuwu & baiyao105  | CW2 is coming soon
+*   [Class-Widgets/Class-Widgets](https://github.com/Class-Widgets/Class-Widgets) - Class Widgets 1
 
 *   [mc-meme/mc-meme](https://github.com/mc-meme/mc-meme) - some meme about Minecraft
 
@@ -1312,7 +1312,7 @@
 
 *   [ZhuRuoLing/AcceleratedRendering-reFabricated](https://github.com/ZhuRuoLing/AcceleratedRendering-reFabricated) - Entity ModelPart Transform Accelerator
 
-*   [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载器 | 小说下载工具 | 小说下载神器 | 免费小说 | 网络小说 | 免费下载 | 网文下载
+*   [freeok/so-novel](https://github.com/freeok/so-novel) - 网页内容导出工具，支持多格式生成与自定义规则配置（EPUB/TXT）
 
 *   [loks666/get\_jobs](https://github.com/loks666/get_jobs) - 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
 
@@ -1646,7 +1646,7 @@
 
 *   [suiyuanlixin/fas-rs-usage-clamping](https://github.com/suiyuanlixin/fas-rs-usage-clamping) - Frame aware scheduling for android, work with cpufreq clamping. Requires 5.10 or 5.15 kernel and kernel ebpf support
 
-*   [TimeBreeze/Tritium](https://github.com/TimeBreeze/Tritium) - 最大化CPU的潜力 Maximize the potential of CPU
+*   [YumeYuka/Tritium](https://github.com/YumeYuka/Tritium) - 最大化CPU的潜力 Maximize the potential of CPU
 
 *   [Magisk-Modules-Repo/adb-ndk](https://github.com/Magisk-Modules-Repo/adb-ndk) - adb-ndk
 
