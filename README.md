@@ -362,6 +362,8 @@
 
 *   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 
+*   [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
+
 ## Vue
 
 *   [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
@@ -1068,7 +1070,7 @@
 
 *   [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 
-*   [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换、测速、测活、流媒体检测、重命名、导出为clash.meta/clash/base64/qx等等所有格式的工具
+*   [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式的工具
 
 *   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
@@ -2207,8 +2209,6 @@
 *   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
 
 *   [angel333/infinimouse](https://github.com/angel333/infinimouse) - If you move mouse to one border, it'll come from the other.
-
-*   [cw2k/Adobe-GenP](https://github.com/cw2k/Adobe-GenP) - Adobe CC 2019/2020/2021/2022/2023 GenP Universal Patch 3.0
 
 ## Roff
 
