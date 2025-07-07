@@ -1,0 +1,22 @@
+name: Update-stars-list
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    permissions:  # 提升权限
+      contents: write  # 需要推送时
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Awesome generator
+        uses: simonecorsi/mawesome@v2
+        with:
+          api-token: ${{ secrets.ACCESS_TOKEN }}
+          template-path: "template/README.ejs"

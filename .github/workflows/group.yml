@@ -1,0 +1,29 @@
+name: group
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 4 * * *'
+
+jobs:
+  build:
+    permissions:  # 提升权限
+      contents: write  # 需要推送时
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Python script
+        run: python3 group-tool.py
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add grouped.md
+          git commit -m "Auto: Update $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
