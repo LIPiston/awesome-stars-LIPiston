@@ -10,14 +10,14 @@
 
 ## Table of Contents
 
-*   [C#](#c)
+*   [C++](#c)
 *   [Python](#python)
+*   [C#](#c-1)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [Kotlin](#kotlin)
-*   [C++](#c-1)
 *   [JavaScript](#javascript)
 *   [Dart](#dart)
 *   [Shell](#shell)
@@ -64,95 +64,109 @@
 *   [Scala](#scala)
 *   [Thanks](#thanks)
 
-## C\#
+## C++
 
-*   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+*   [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) - A simple note app with good performance and PDF import support
 
-*   [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
+*   [TypesettingTools/Aegisub](https://github.com/TypesettingTools/Aegisub) - Cross-platform advanced subtitle editor
 
-*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+*   [brookhong/KeyCastOW](https://github.com/brookhong/KeyCastOW) - keystroke visualizer for Windows, lets you easily display your keystrokes while recording screencasts.
 
-*   [cmliu/SubsCheck-Win-GUI](https://github.com/cmliu/SubsCheck-Win-GUI) - SubsCheck 为 Windows 用户设计的 GUI 程序界面。
+*   [allrobot/KeyCastOW\_chinese](https://github.com/allrobot/KeyCastOW_chinese) - 按键击键可视化，感谢Brook Hong的贡献 Keystroke visualization, thanks to Brook Hong
 
-*   [HunterPie/HunterPie](https://github.com/HunterPie/HunterPie) - A clean, modern and robust overlay for Monster Hunter games.
+*   [fastogt/fastonosql](https://github.com/fastogt/fastonosql) - FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika, Dynomite, KeyDB GUI management tool.
 
-*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
+*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 
-*   [PintaProject/Pinta](https://github.com/PintaProject/Pinta) - Simple GTK Paint Program
+*   [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 
-*   [SuGar0218/PreLaunchTaskr](https://github.com/SuGar0218/PreLaunchTaskr) - 通过映像劫持，在应用程序启动前做一些事情，例如：更改启动参数、设置环境变量、执行程序或脚本。
+*   [jark006/jarkViewer](https://github.com/jark006/jarkViewer) - A simple image viewer   一款简单的看图软件
 
-*   [mgth/LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Aware mouse move across screens
+*   [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 
-*   [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
+*   [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
 
-*   [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
+*   [notxx/MiPushZygisk](https://github.com/notxx/MiPushZygisk) - 一个 Zygisk 模块，为应用伪装小米设备，以便使用 MiPush
 
-*   [weiyourumeng/RM-Toolbox](https://github.com/weiyourumeng/RM-Toolbox) - 入梦工具箱
+*   [fei-ke/HmsPushZygisk](https://github.com/fei-ke/HmsPushZygisk) - 一个 Zygisk 模块，为应用伪装华为设备，以便使用 HMSPush
 
-*   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
+*   [hchunhui/librime-lua](https://github.com/hchunhui/librime-lua) - Extending RIME with Lua scripts
 
-*   [libxzr/FastbootEnhance](https://github.com/libxzr/FastbootEnhance) - A user-friendly Fastboot ToolBox & Payload Dumper for Windows
+*   [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
 
-*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
+*   [xuwd1/wemeet-wayland-screenshare](https://github.com/xuwd1/wemeet-wayland-screenshare) - 实现Linux Wayland下腾讯会议屏幕共享（非虚拟相机）. Hook library that enables screenshare with Tencent Wemeet on Linux Wayland, without the need of using virtual cameras.
 
-*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+*   [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 
-*   [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
+*   [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 
-*   [SlimeNull/AzureTTS](https://github.com/SlimeNull/AzureTTS) - Azure TTS Tool. Azure 文本转语音工具.
+*   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
 
-*   [SlimeNull/EasyConv](https://github.com/SlimeNull/EasyConv) - 将基于 ffmpeg 的多媒体格式转换功能集成到右键菜单
+*   [fcitx/fcitx5-rime](https://github.com/fcitx/fcitx5-rime) -
 
-*   [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
+*   [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
 
-*   [InkCanvas/InkCanvasForClass](https://github.com/InkCanvas/InkCanvasForClass) - InkCanvasForClass 是一款开源易用的电子教鞭软件
+*   [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
 
-*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
-*   [Sticky-attention/Sticky-attention](https://github.com/Sticky-attention/Sticky-attention) - 一款新作业贴软件 新增了原版没有的新功能
+*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 
-*   [InkCanvas/Ink-Canvas-Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry) - A fantastic Ink Canvas in WPF/C#, based on WXRIW/Ink-Canvas.
+*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
-*   [ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) - 一款适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
+*   [eternalfuture-e38299/TEFModLoader](https://github.com/eternalfuture-e38299/TEFModLoader) - 下一代高性能跨平台Terraria模组加载器
 
-*   [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC-based media player for the Universal Windows Platform
+*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 
-*   [jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) - 一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐
+*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 
-*   [Richasy/Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用
+*   [lmintlcx/pvztoolkit](https://github.com/lmintlcx/pvztoolkit) - 植物大战僵尸 PC 版综合修改器
 
-*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
+*   [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 
-*   [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
+*   [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, Anime4kcpp, nearest, bilinear, bicubic, AVIR...
 
-*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+*   [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 
-*   [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
+*   [SivanLaai/rime-pure](https://github.com/SivanLaai/rime-pure) - 【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼音\小鹤双拼\极品五笔\QQ五笔\徐码\郑码】
 
-*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
+*   [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 
-*   [Alex4SSB/ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer) - A fluent UI for ADB on Windows
+*   [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
 
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+*   [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン
 
-*   [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game.
+*   [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
 
-*   [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
+*   [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 
-*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+*   [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) - 新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
 
-*   [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
+*   [std-microblock/chromatic](https://github.com/std-microblock/chromatic) - Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器
 
-*   [zsh2401/AutumnBox](https://github.com/zsh2401/AutumnBox) - 图形化ADB工具箱
+*   [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 
-*   [Legacy-Edge/Legacy-Edge-Launcher](https://github.com/Legacy-Edge/Legacy-Edge-Launcher) - Used to allow to run Legacy Edge again
+*   [Cubitect/cubiomes-viewer](https://github.com/Cubitect/cubiomes-viewer) - An efficient graphical Minecraft seed finder and map viewer.
 
-*   [CFPAOrg/Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) - A language package for Minecraft Mods.
+*   [taganaka/SpeedTest](https://github.com/taganaka/SpeedTest) - Yet another unofficial speedtest.net client cli interface
 
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+*   [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+
+*   [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
+
+*   [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
+
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+*   [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.
+
+*   [kaniol-lck/modmanager](https://github.com/kaniol-lck/modmanager) - A Qt-based mod manager for minecraft.
+
+*   [MoeMod/CSMoE](https://github.com/MoeMod/CSMoE) - ONLINE UPDATES ONLY
 
 ## Python
+
+*   [Pairman/Where2go](https://github.com/Pairman/Where2go) - 一个功能强大的位置插件，包含共享坐标点、查询玩家位置等功能
 
 *   [XiaoMiku01/fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper) - 新版B站粉丝牌助手 全自动升级粉丝牌
 
@@ -415,6 +429,94 @@
 *   [MCDReforged/PluginCatalogue](https://github.com/MCDReforged/PluginCatalogue) - The official MCDReforged plugin catalogue
 
 *   [Fabulously-Optimized/fabulously-optimized](https://github.com/Fabulously-Optimized/fabulously-optimized) - A simple Minecraft modpack focusing on performance and graphics enhancements.
+
+## C\#
+
+*   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+
+*   [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
+
+*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+
+*   [cmliu/SubsCheck-Win-GUI](https://github.com/cmliu/SubsCheck-Win-GUI) - SubsCheck 为 Windows 用户设计的 GUI 程序界面。
+
+*   [HunterPie/HunterPie](https://github.com/HunterPie/HunterPie) - A clean, modern and robust overlay for Monster Hunter games.
+
+*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
+
+*   [PintaProject/Pinta](https://github.com/PintaProject/Pinta) - Simple GTK Paint Program
+
+*   [SuGar0218/PreLaunchTaskr](https://github.com/SuGar0218/PreLaunchTaskr) - 通过映像劫持，在应用程序启动前做一些事情，例如：更改启动参数、设置环境变量、执行程序或脚本。
+
+*   [mgth/LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Aware mouse move across screens
+
+*   [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
+
+*   [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
+
+*   [weiyourumeng/RM-Toolbox](https://github.com/weiyourumeng/RM-Toolbox) - 入梦工具箱
+
+*   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
+
+*   [libxzr/FastbootEnhance](https://github.com/libxzr/FastbootEnhance) - A user-friendly Fastboot ToolBox & Payload Dumper for Windows
+
+*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
+
+*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+
+*   [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
+
+*   [SlimeNull/AzureTTS](https://github.com/SlimeNull/AzureTTS) - Azure TTS Tool. Azure 文本转语音工具.
+
+*   [SlimeNull/EasyConv](https://github.com/SlimeNull/EasyConv) - 将基于 ffmpeg 的多媒体格式转换功能集成到右键菜单
+
+*   [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
+
+*   [InkCanvas/InkCanvasForClass](https://github.com/InkCanvas/InkCanvasForClass) - InkCanvasForClass 是一款开源易用的电子教鞭软件
+
+*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
+
+*   [Sticky-attention/Sticky-attention](https://github.com/Sticky-attention/Sticky-attention) - 一款新作业贴软件 新增了原版没有的新功能
+
+*   [InkCanvas/Ink-Canvas-Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry) - A fantastic Ink Canvas in WPF/C#, based on WXRIW/Ink-Canvas.
+
+*   [ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) - 一款适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
+
+*   [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC-based media player for the Universal Windows Platform
+
+*   [jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) - 一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐
+
+*   [Richasy/Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用
+
+*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
+
+*   [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
+
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+
+*   [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
+
+*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
+
+*   [Alex4SSB/ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer) - A fluent UI for ADB on Windows
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+*   [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game.
+
+*   [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
+
+*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+*   [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
+
+*   [zsh2401/AutumnBox](https://github.com/zsh2401/AutumnBox) - 图形化ADB工具箱
+
+*   [Legacy-Edge/Legacy-Edge-Launcher](https://github.com/Legacy-Edge/Legacy-Edge-Launcher) - Used to allow to run Legacy Edge again
+
+*   [CFPAOrg/Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) - A language package for Minecraft Mods.
+
+*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## TypeScript
 
@@ -1278,104 +1380,6 @@
 
 *   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-## C++
-
-*   [TypesettingTools/Aegisub](https://github.com/TypesettingTools/Aegisub) - Cross-platform advanced subtitle editor
-
-*   [brookhong/KeyCastOW](https://github.com/brookhong/KeyCastOW) - keystroke visualizer for Windows, lets you easily display your keystrokes while recording screencasts.
-
-*   [allrobot/KeyCastOW\_chinese](https://github.com/allrobot/KeyCastOW_chinese) - 按键击键可视化，感谢Brook Hong的贡献 Keystroke visualization, thanks to Brook Hong
-
-*   [fastogt/fastonosql](https://github.com/fastogt/fastonosql) - FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika, Dynomite, KeyDB GUI management tool.
-
-*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-
-*   [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
-
-*   [jark006/jarkViewer](https://github.com/jark006/jarkViewer) - A simple image viewer   一款简单的看图软件
-
-*   [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
-
-*   [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
-
-*   [notxx/MiPushZygisk](https://github.com/notxx/MiPushZygisk) - 一个 Zygisk 模块，为应用伪装小米设备，以便使用 MiPush
-
-*   [fei-ke/HmsPushZygisk](https://github.com/fei-ke/HmsPushZygisk) - 一个 Zygisk 模块，为应用伪装华为设备，以便使用 HMSPush
-
-*   [hchunhui/librime-lua](https://github.com/hchunhui/librime-lua) - Extending RIME with Lua scripts
-
-*   [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
-
-*   [xuwd1/wemeet-wayland-screenshare](https://github.com/xuwd1/wemeet-wayland-screenshare) - 实现Linux Wayland下腾讯会议屏幕共享（非虚拟相机）. Hook library that enables screenshare with Tencent Wemeet on Linux Wayland, without the need of using virtual cameras.
-
-*   [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
-
-*   [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
-
-*   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
-
-*   [fcitx/fcitx5-rime](https://github.com/fcitx/fcitx5-rime) -
-
-*   [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
-
-*   [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
-
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-
-*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-
-*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-
-*   [eternalfuture-e38299/TEFModLoader](https://github.com/eternalfuture-e38299/TEFModLoader) - 下一代高性能跨平台Terraria模组加载器
-
-*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
-
-*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
-
-*   [lmintlcx/pvztoolkit](https://github.com/lmintlcx/pvztoolkit) - 植物大战僵尸 PC 版综合修改器
-
-*   [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
-
-*   [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, Anime4kcpp, nearest, bilinear, bicubic, AVIR...
-
-*   [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
-
-*   [SivanLaai/rime-pure](https://github.com/SivanLaai/rime-pure) - 【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼音\小鹤双拼\极品五笔\QQ五笔\徐码\郑码】
-
-*   [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
-
-*   [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
-
-*   [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン
-
-*   [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
-
-*   [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
-
-*   [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) - 新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
-
-*   [std-microblock/chromatic](https://github.com/std-microblock/chromatic) - Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器
-
-*   [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-
-*   [Cubitect/cubiomes-viewer](https://github.com/Cubitect/cubiomes-viewer) - An efficient graphical Minecraft seed finder and map viewer.
-
-*   [taganaka/SpeedTest](https://github.com/taganaka/SpeedTest) - Yet another unofficial speedtest.net client cli interface
-
-*   [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-
-*   [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
-
-*   [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
-
-*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-
-*   [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.
-
-*   [kaniol-lck/modmanager](https://github.com/kaniol-lck/modmanager) - A Qt-based mod manager for minecraft.
-
-*   [MoeMod/CSMoE](https://github.com/MoeMod/CSMoE) - ONLINE UPDATES ONLY
-
 ## JavaScript
 
 *   [aui/font-spider](https://github.com/aui/font-spider) - Smart webfont compression and format conversion tool
@@ -1692,7 +1696,7 @@
 
 *   [suiyuanlixin/fas-rs-usage-clamping](https://github.com/suiyuanlixin/fas-rs-usage-clamping) - Frame aware scheduling for android, work with cpufreq clamping. Requires 5.10 or 5.15 kernel and kernel ebpf support
 
-*   [YumeYuka/Tritium](https://github.com/YumeYuka/Tritium) - 最大化CPU的潜力 Maximize the potential of CPU
+*   [YumeYuka/Tritium](https://github.com/YumeYuka/Tritium) - 最大化Soc的潜力 Maximize the potential of Soc
 
 *   [Magisk-Modules-Repo/adb-ndk](https://github.com/Magisk-Modules-Repo/adb-ndk) - adb-ndk
 
@@ -1897,8 +1901,6 @@
 *   [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 
 *   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 
 ## Vue
 
@@ -2251,8 +2253,6 @@
 *   [maruohon/minihud](https://github.com/maruohon/minihud) - A client-side Minecraft mod with configurable "info lines" ("mini-F3") and various overlays, such as light level and structure bounding boxes
 
 *   [maruohon/malilib](https://github.com/maruohon/malilib) - Library mod for masa's client-side Minecraft mods
-
-*   [jpenilla/TabTPS](https://github.com/jpenilla/TabTPS) - Minecraft server mod/plugin to monitor TPS, MSPT, and other information in the tab menu, boss bar, and action bar.
 
 ## CSS
 
