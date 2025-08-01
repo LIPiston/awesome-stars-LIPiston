@@ -10,13 +10,13 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
+*   [TypeScript](#typescript)
+*   [Rust](#rust)
 *   [C#](#c)
 *   [HTML](#html)
-*   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
-*   [Rust](#rust)
 *   [Python](#python)
-*   [miscellaneous](#miscellaneous)
 *   [C++](#c-1)
 *   [Shell](#shell)
 *   [Java](#java)
@@ -64,897 +64,9 @@
 *   [TeX](#tex)
 *   [Thanks](#thanks)
 
-## C\#
-
-*   [bezzad/Downloader](https://github.com/bezzad/Downloader) - Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications.
-
-*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
-
-*   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-
-*   [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
-
-*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
-
-*   [cmliu/SubsCheck-Win-GUI](https://github.com/cmliu/SubsCheck-Win-GUI) - SubsCheck 为 Windows 用户设计的 GUI 程序界面。
-
-*   [HunterPie/HunterPie](https://github.com/HunterPie/HunterPie) - A clean, modern and robust overlay for Monster Hunter games.
-
-*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
-
-*   [PintaProject/Pinta](https://github.com/PintaProject/Pinta) - Simple GTK Paint Program
-
-*   [SuGar0218/PreLaunchTaskr](https://github.com/SuGar0218/PreLaunchTaskr) - 通过映像劫持，在应用程序启动前做一些事情，例如：更改启动参数、设置环境变量、执行程序或脚本。
-
-*   [mgth/LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Aware mouse move across screens
-
-*   [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
-
-*   [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
-
-*   [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
-
-*   [weiyourumeng/RM-Toolbox](https://github.com/weiyourumeng/RM-Toolbox) - 入梦工具箱
-
-*   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
-
-*   [libxzr/FastbootEnhance](https://github.com/libxzr/FastbootEnhance) - A user-friendly Fastboot ToolBox & Payload Dumper for Windows
-
-*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
-
-*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-
-*   [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
-
-*   [SlimeNull/AzureTTS](https://github.com/SlimeNull/AzureTTS) - Azure TTS Tool. Azure 文本转语音工具.
-
-*   [SlimeNull/EasyConv](https://github.com/SlimeNull/EasyConv) - 将基于 ffmpeg 的多媒体格式转换功能集成到右键菜单
-
-*   [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
-
-*   [InkCanvas/InkCanvasForClass](https://github.com/InkCanvas/InkCanvasForClass) - InkCanvasForClass 是一款开源易用的电子教鞭软件
-
-*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
-
-*   [Sticky-attention/Sticky-attention](https://github.com/Sticky-attention/Sticky-attention) - 一款新作业贴软件 新增了原版没有的新功能
-
-*   [InkCanvas/Ink-Canvas-Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry) - A fantastic Ink Canvas in WPF/C#, based on WXRIW/Ink-Canvas.
-
-*   [ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) - 一款适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
-
-*   [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC-based media player for the Universal Windows Platform
-
-*   [jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) - 一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐
-
-*   [Richasy/Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用
-
-*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
-
-*   [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
-
-*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-
-*   [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
-
-*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
-
-*   [Alex4SSB/ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer) - A fluent UI for ADB on Windows
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-*   [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game.
-
-*   [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
-
-*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-*   [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
-
-*   [zsh2401/AutumnBox](https://github.com/zsh2401/AutumnBox) - 图形化ADB工具箱
-
-*   [Legacy-Edge/Legacy-Edge-Launcher](https://github.com/Legacy-Edge/Legacy-Edge-Launcher) - Used to allow to run Legacy Edge again
-
-## HTML
-
-*   [merakiuilabs/merakiui](https://github.com/merakiuilabs/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
-
-*   [Purple-CSGO/CS2-Config-Presets](https://github.com/Purple-CSGO/CS2-Config-Presets) - 🎉​ CFG Presets for many scenarios in Counter-Strike 2
-
-*   [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
-
-*   [MeowCracker/MobaGenkey](https://github.com/MeowCracker/MobaGenkey) - 一个 MobaXterm 的许可证生成器
-
-*   [Carole007/midm-release](https://github.com/Carole007/midm-release) - mi动漫发布页
-
-*   [DesktopGooseUnofficial/ResourceHub](https://github.com/DesktopGooseUnofficial/ResourceHub) - ResourceHub, for everything Desktop Goose
-
-*   [LoosePrince/PF-MCDR-WebUI](https://github.com/LoosePrince/PF-MCDR-WebUI) - PF MCDR的WebUI
-
-*   [lingeringsound/10007](https://github.com/lingeringsound/10007) - hosts of block ads
-
-*   [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - Block the keyboard input while you were eating instant noodles on your laptop keyboard.
-
-*   [jenskutilek/sudo-font](https://github.com/jenskutilek/sudo-font) - Sudo, a font for programmers and command line users.
-
-*   [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
-
-*   [grbnb/xp\_module](https://github.com/grbnb/xp_module) - 备份午夜神大佬分享的应用集 【下面是Gitee仓库链接】https://gitee.com/grbnb/xp\_module.git
-
-*   [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io) -
-
-*   [Terminus2049/Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) - 豆瓣不存在的书影音
-
-*   [Xmader/aria-ng-gui-android](https://github.com/Xmader/aria-ng-gui-android) - 一个 Aria2 图形界面安卓客户端 | An Aria2 GUI Android App
-
-*   [wacko1805/MagiskGapps](https://github.com/wacko1805/MagiskGapps) - Convert a regular GApps package into a Magisk flashable package using a simple website
-
-*   [aoaostar/legado](https://github.com/aoaostar/legado) - 阅读APP书源
-
-*   [booksources/booksources.github.io](https://github.com/booksources/booksources.github.io) - 阅读在线书源分享库
-
-*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
-
-*   [acl4ssr-sub/acl4ssr-sub.github.io](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) -
-
-*   [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
-
-*   [TheresaQWQ/BroadcastOnAirDanmaku](https://github.com/TheresaQWQ/BroadcastOnAirDanmaku) - 一个直播间弹幕姬
-
-*   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护4年多，每天都会检测可用性，全网质量最高的公益订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨clash丨karing丨hiddify丨mihomo丨clashmi丨ClashMeta丨FIClash丨Surfboard
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-## TypeScript
-
-*   [loweisz/generate-avatar](https://github.com/loweisz/generate-avatar) - Generate your 100% fingerprinted example avatar from id, email, username etc.
-
-*   [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) - Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion.
-
-*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-
-*   [zeruniverse/boardgame\_helper](https://github.com/zeruniverse/boardgame_helper) - Forked from https://github.com/zeruniverse/texas\_game
-
-*   [xiong35/werewolf](https://github.com/xiong35/werewolf) - 一款线下狼人杀网页, 除了没有语音功能, 其余功能均具备. 用于取代卡牌和取消上帝
-
-*   [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
-
-*   [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
-
-*   [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
-
-*   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-
-*   [Lintha437/conium-beapis-samples](https://github.com/Lintha437/conium-beapis-samples) - Some samples of the Minecraft Bedrock APIs part of the Conium framework.
-
-*   [TG-Twilight/Gamer-Skill-Icons](https://github.com/TG-Twilight/Gamer-Skill-Icons) - Hey Gamer, show everyone your favorite skills!🎮
-
-*   [GtxFury/FlyClash](https://github.com/GtxFury/FlyClash) - 简洁美观的代理工具
-
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-
-*   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock
-
-*   [rbetree/MarksVault](https://github.com/rbetree/MarksVault) - 一个强大的浏览器扩展，用于智能管理、整理和安全备份您的书签数据
-
-*   [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
-
-*   [voideditor/void](https://github.com/voideditor/void) -
-
-*   [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
-
-*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。A powerful Telegram chat search tool with vector search and semantic matching capabilities.
-
-*   [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) -  一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
-
-*   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
-
-*   [antfu/handle](https://github.com/antfu/handle) - A Chinese Hanzi variation of Wordle - 汉字 Wordle
-
-*   [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
-
-*   [alovajs/alova](https://github.com/alovajs/alova) - The Request Toolkit For Ultimate Efficiency
-
-*   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
-
-*   [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
-
-*   [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
-
-*   [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) - A browser based Pokémon fangame heavily inspired by the roguelite genre.
-
-*   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
-
-*   [utterance/utterances](https://github.com/utterance/utterances) - :crystal\_ball: A lightweight comments widget built on GitHub issues
-
-*   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
-
-*   [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
-
-*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
-
-*   [BakaXL-Support/BakaXL-Document](https://github.com/BakaXL-Support/BakaXL-Document) - BakaXL 用户帮助文档
-
-*   [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
-
-*   [kawamataryo/sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Instantly find and follow the same users from your X(Twitter) follower on Bluesky.
-
-*   [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
-
-*   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
-
-*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
-
-*   [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync) - 🔄 Github action to sync your forks
-
-*   [BingyanStudio/github-analyzer](https://github.com/BingyanStudio/github-analyzer) - 锐评一下你都在 GitHub 写了什么
-
-*   [bojue/lemon-form](https://github.com/bojue/lemon-form) - lemon form 柠檬轻表单（Vue3）
-
-*   [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) - Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements
-
-*   [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
-
-*   [longern/FlareDrive](https://github.com/longern/FlareDrive) - Free file hosting service (WebUI & WebDAV) using CloudFlare R2
-
-*   [RedJue/git-commit-plugin](https://github.com/RedJue/git-commit-plugin) - Automatically generate git commit
-
-*   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
-
-*   [LibreService/my\_rime](https://github.com/LibreService/my_rime) - Free and Open Source online Chinese IME powered by RIME. 自由开源在线中文输入法 拼音 双拼 粤语 注音 五笔 仓颉 速成
-
-*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
-
-*   [browser-actions/setup-chrome](https://github.com/browser-actions/setup-chrome) - Set up your GitHub Actions workflow with a specific version of chromium
-
-*   [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) - Color libraries for Material You
-
-*   [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
-
-*   [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
-
-*   [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
-
-*   [LLOneBot/LLOneBot](https://github.com/LLOneBot/LLOneBot) - 支持 OneBot 11 和 Satori 协议
-
-*   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
-
-*   [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
-
-*   [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
-
-*   [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
-
-*   [Lordly-Tech/LordlyRead](https://github.com/Lordly-Tech/LordlyRead) -
-
-*   [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
-
-*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-
-*   [marcomaroni-github/twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account.
-
-*   [vsme/chinese-days](https://github.com/vsme/chinese-days) - 中国法定节假日、调休和工作日、24节气查询，农历阳历互转，支持 TS、CommonJS、UMD 模块化使用，对非开发者，提供 iCal 日历订阅，可供 Google Calendar、Apple Calendar、Microsoft Outlook 等客户端使用。
-
-*   [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
-
-*   [bangbang93/openbmclapi](https://github.com/bangbang93/openbmclapi) - BMCLAPI@Home
-
-*   [keldaanCommunity/pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess) - Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.
-
-*   [AIsouler/GKD\_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
-
-*   [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
-
-*   [Musish/Musish](https://github.com/Musish/Musish) - Apple Music...ish
-
-*   [BetterMinecraftHelpDocs/docs](https://github.com/BetterMinecraftHelpDocs/docs) -
-
-*   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
-
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-
-*   [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme、移动端网页。
-
-*   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
-
-*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
-
-*   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
-
-*   [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
-
-*   [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
-
-*   [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-
-*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
-
-*   [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
-
-*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-
-*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-
-*   [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
-
-*   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
-
-*   [openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
-
-*   [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - Tencent QQ Bot Library for Node.js
-
-*   [clansty/Q2TG](https://github.com/clansty/Q2TG) - QQ 与 Telegram 群相互转发的 bot
-
-*   [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
-
-*   [Java-S12138/frank](https://github.com/Java-S12138/frank) - A bran-new League of Legends assistant software, a replacement for WeGame.
-
-*   [Icalingua-plus-plus/Icalingua3](https://github.com/Icalingua-plus-plus/Icalingua3) - :new:A brand-new version of Icalingua.
-
-*   [premieroctet/photoshot](https://github.com/premieroctet/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
-
-*   [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
-
-*   [ResetPower/rcs](https://github.com/ResetPower/rcs) - ResetPower's Component Set using TailwindCSS.
-
-*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-
-*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-
-*   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
-
-*   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-
-*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-
-*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-
-*   [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Free, Secure, Distributed, Modern Control Panel for Minecraft and Steam Game Servers.
-
-*   [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) - A Browser Extension for faster reading on ANY website!
-
-*   [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词
-
-*   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-
-*   [lint-md/lint-md](https://github.com/lint-md/lint-md) - :books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 CI，写博客 / 文档必备。支持 API 调用！
-
-*   [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
-
-*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-
-*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
-
-*   [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more. :electron:
-
-## Kotlin
-
-*   [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - More Expressive InstallerX !
-
-*   [vvb2060/PackageInstaller](https://github.com/vvb2060/PackageInstaller) - A lightweight yet powerful package installer for Android.
-
-*   [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) - Kernel-based Android Root Solution & KPM
-
-*   [horsemail/yourtv](https://github.com/horsemail/yourtv) - 安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live APK: IPTV/web video supports X5, customizable sources (support webview:// format), IPTV supports picture-in-picture and off-screen playback.
-
-*   [NihilityT/MiPush](https://github.com/NihilityT/MiPush) - 让 MiPushFramework 支持分应用
-
-*   [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) - A Minecraft: Java Edition Launcher for Android
-
-*   [kyujin-cho/pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch) - Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch
-
-*   [XingC123/BackgroundOpt](https://github.com/XingC123/BackgroundOpt) - 这是一个通过调整进程oom\_score\_adj来骗过lmk从而实现保后台的模块。
-
-*   [iamr0s/InstallerX](https://github.com/iamr0s/InstallerX) - A modern and functional Android app installer. (You know some birds are not meant to be caged, their feathers are just too bright.)
-
-*   [jaredcat/WiFiList](https://github.com/jaredcat/WiFiList) -
-
-*   [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
-
-*   [taamarin/box.manager](https://github.com/taamarin/box.manager) - Optional
-
-*   [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
-
-*   [rRemix/APlayer](https://github.com/rRemix/APlayer) - Android Music Player
-
-*   [lz233/Tarnhelm](https://github.com/lz233/Tarnhelm) - The magic to clean sharing links up.
-
-*   [cao-awa/Medical-mc](https://github.com/cao-awa/Medical-mc) -
-
-*   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
-
-*   [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
-
-*   [kazutoiris/infinite-illusion](https://github.com/kazutoiris/infinite-illusion) - Infinite Illusion （无限幻境）
-
-*   [azhon/AppUpdate](https://github.com/azhon/AppUpdate) - Android App update library.  Android版本更新库，简单、轻量、可随意定制
-
-*   [1250422131/bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩解析工具，一个辅助缓存下载B站视频番剧的APP，帮助你快速便捷的缓存B站视频和番剧。
-
-*   [pzcn/Perfect-Icons-APP](https://github.com/pzcn/Perfect-Icons-APP) -
-
-*   [aaa1115910/bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
-
-*   [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
-
-*   [byxiaorun/Ruru](https://github.com/byxiaorun/Ruru) - An android sample app of detecting suspicious apps like magisk manager
-
-*   [BaltiApps/Pixelify-Google-Photos](https://github.com/BaltiApps/Pixelify-Google-Photos) - Pixelify GPhotos
-
-*   [Simplicity-Team/WooBoxForColorOS](https://github.com/Simplicity-Team/WooBoxForColorOS) - 一个基于 ColorOS12(Android 12) 适配的自定义工具 // A system extension Xposed module based on ColorOS12 (Android12)
-
-*   [suqi8/OShin](https://github.com/suqi8/OShin) - 一个专为ColorOS系统设计的辅助模块
-
-*   [LMODroid/platform\_packages\_apps\_LMOFreeform](https://github.com/LMODroid/platform_packages_apps_LMOFreeform) -
-
-*   [gurecn/yuyansdk](https://github.com/gurecn/yuyansdk) - 语燕输入法引擎-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等模式的中文输入法引擎
-
-*   [aivanovski/keepassvault](https://github.com/aivanovski/keepassvault) - KeePass client app for Android
-
-*   [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
-
-*   [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
-
-*   [lizongying/my-tv-0](https://github.com/lizongying/my-tv-0) - 我的電視·〇 電視視頻播放軟件，可以自定義視頻源
-
-*   [cao-awa/Conium](https://github.com/cao-awa/Conium) - Conium is a datapack and script framework for modern Minecraft, it provides very diverse features without Java coding, Conium lets you complete your mods only using datapacks.
-
-*   [DroidWorksStudio/EasyLauncher](https://github.com/DroidWorksStudio/EasyLauncher) - EasyLauncher - Minimal and Clutter Free Android launcher
-
-*   [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
-
-*   [xiaowine/Lyric-Getter](https://github.com/xiaowine/Lyric-Getter) - Lyric Getter | 酒域-歌词获取
-
-*   [Block-Network/StatusBarLyric](https://github.com/Block-Network/StatusBarLyric) - \[Xposed] Status Bar Lyric / 状态栏歌词
-
-*   [Yubyf/QuoteLockX](https://github.com/Yubyf/QuoteLockX) - Displays quotes on your lockscreen, because why not.
-
-*   [kaajjo/LibreSudoku](https://github.com/kaajjo/LibreSudoku) - LibreSudoku - Sudoku app for android built with Kotlin + Jetpack Compose + Material3
-
-*   [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF) - An Android Storage Access Framework document provider for rclone
-
-*   [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - Check updates for Android apps, Magisk modules and more!
-
-*   [TouchController/TouchController](https://github.com/TouchController/TouchController) - Touchscreen control mod for Minecraft Java version / Minecraft Java 版触屏控制 mod
-
-*   [15dd/wenku8reader](https://github.com/15dd/wenku8reader) - 第三方轻小说文库app
-
-*   [chr233/PureNGA](https://github.com/chr233/PureNGA) - NGA 去广告Xposed模块 支持 Lspatch
-
-*   [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
-
-*   [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
-
-*   [andstatus/game2048](https://github.com/andstatus/game2048) - 2048 Open Fun Game - multiplatform implementation in Kotlin and KorGe game engine
-
-*   [KieronQuinn/PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - A root app that enables you to add a number of features to the stock Pixel Launcher, without needing Xposed
-
-*   [fankes/MIUINativeNotifyIcon](https://github.com/fankes/MIUINativeNotifyIcon) - Fix the native notification bar icon function abandoned by the MIUI development team.
-
-*   [GSWXXN/RestoreSplashScreen](https://github.com/GSWXXN/RestoreSplashScreen) - 启动遮罩进化 / RestoreSplashScreen
-
-*   [imknown/AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) - Detect Treble, GSI, Mainline, APEX, system-as-root(SAR), A/B, etc.
-
-*   [fcitx5-android/fcitx5-android-updater](https://github.com/fcitx5-android/fcitx5-android-updater) -
-
-*   [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
-
-*   [ElishaAz/Sayboard](https://github.com/ElishaAz/Sayboard) - An open-source on-device voice IME (keyboard) for Android using the Vosk library.
-
-*   [eswd04/freeform\_update](https://github.com/eswd04/freeform_update) - eswd custom Mi-freeform update
-
-*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
-
-*   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
-
-*   [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) - Adds themed icons to Lawnchair.
-
-*   [yin-ol/MiPushFaker](https://github.com/yin-ol/MiPushFaker) - Xposed模块，伪装机型让普通应用能够正确识别到MiPush，搭配MiPushFramework使用
-
-*   [fei-ke/HMSPush](https://github.com/fei-ke/HMSPush) - 让非华为设备支持 HMS 推送，同时避免唤醒目标应用
-
-*   [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
-
-*   [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) - Iconify lets you customize your Android 12+ device easily. Change icons, colors, shapes, and even the notification panel for a personalized look that suits your style.
-
-*   [ruffle-rs/ruffle-android](https://github.com/ruffle-rs/ruffle-android) - An Android application for ruffle.rs
-
-*   [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) - 语燕拼音输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法
-
-*   [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
-
-*   [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
-
-*   [Live-Block/Flyme-FreeForm](https://github.com/Live-Block/Flyme-FreeForm) - A FlymeOS style freeform
-
-*   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
-
-*   [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
-
-*   [QuiltServerTools/Ledger](https://github.com/QuiltServerTools/Ledger) -  A server-side logging mod for fabric 1.17+
-
-*   [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
-
-*   [IacobIonut01/Gallery](https://github.com/IacobIonut01/Gallery) - Media Gallery app for Android made with Jetpack Compose
-
-*   [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
-
-*   [zhaobozhen/Anywhere-](https://github.com/zhaobozhen/Anywhere-) -
-
-*   [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
-
-*   [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
-
-*   [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的 Android 看番软件，支持多番剧源
-
-*   [fankes/ColorOSNotifyIcon](https://github.com/fankes/ColorOSNotifyIcon) - Optimize notification icons for ColorOS and adapt to native notification icon specifications.
-
-*   [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
-
-*   [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
-
-*   [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
-
-*   [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
-
-*   [Angel-Studio/MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) - Free Android version of Dynamic Island feature stylized with Material You.
-
-*   [Iru21/Authy](https://github.com/Iru21/Authy) - A simple authentication plugin for Minecraft 1.17+!
-
-*   [ztc1997/FakeDCBacklight](https://github.com/ztc1997/FakeDCBacklight) - Enable Extra dim when the brightness is lower than the minimum screen brightness.  在亮度低于最低屏幕亮度时启用极暗。
-
-*   [liquidbounceplusreborn/LiquidbouncePlus-Reborn](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
-
-*   [KitsunePie/QQCleaner](https://github.com/KitsunePie/QQCleaner) - 瘦身模块
-
-*   [fankes/TSBattery](https://github.com/fankes/TSBattery) - A new way to save your battery avoid cancer apps hacker it.
-
-*   [sunshine0523/Mi-Freeform](https://github.com/sunshine0523/Mi-Freeform) - Mi-Freeform 3 is an Android third-party freeform software that supports Android 8.1-Android 14
-
-*   [xjunz/AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
-
-*   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
-
-*   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-
-*   [osfans/trime](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
-
-*   [tytydraco/LADB](https://github.com/tytydraco/LADB) - A local ADB shell for Android!
-
-*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-
-*   [MatsuriDayo/Matsuri](https://github.com/MatsuriDayo/Matsuri) - Matsuri (茉莉) / V2Ray / universal proxy toolchain for Android / Fork of SagerNet
-
-*   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
-
-*   [CCBlueX/LiquidBounce](https://github.com/CCBlueX/LiquidBounce) - A free Minecraft hacked client (utility mod) for Fabric
-
-*   [Super-Santa/EssentialAddons](https://github.com/Super-Santa/EssentialAddons) - Fabric Carpet extension that adds things from the Spigot plugin Essentials, or other features I think are needed for Minecraft
-
-*   [LuckyPray/XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
-
-*   [senseiwells/EssentialClient](https://github.com/senseiwells/EssentialClient) - EssentialClient is a client-side mod that adds many client utilities as well as providing a gui to modify carpet rules!
-
-*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-
-*   [lucasnlm/antimine-android](https://github.com/lucasnlm/antimine-android) - Antimine is an open source minesweeper-like puzzle game.
-
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-## Rust
-
-*   [burningtnt/Terracotta](https://github.com/burningtnt/Terracotta) - Terracotta | 陶瓦联机
-
-*   [Acfboy/twt-werewolf-master-ng](https://github.com/Acfboy/twt-werewolf-master-ng) - Modern generation of twt-werewolf-master
-
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
-*   [JohanChane/clashtui](https://github.com/JohanChane/clashtui) - Mihomo (Clash.Meta) TUI Client
-
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-
-*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-
-*   [bloznelis/kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal
-
-*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
-
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-*   [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-
-*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-
-*   [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
-
-*   [wlh320/rime-ls](https://github.com/wlh320/rime-ls) - A language server that provides input method functionality using librime 通过 LSP 代码补全使用 Rime 输入法
-
-*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
-
-*   [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-
-*   [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
-
-*   [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.
-
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
-
-*   [shadow3aaa/fas-rs](https://github.com/shadow3aaa/fas-rs) - Frame aware scheduling for android.
-
-*   [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
-
-*   [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-
-*   [iamcco/ds-pinyin-lsp](https://github.com/iamcco/ds-pinyin-lsp) - Dead Simple Pinyin Language Server
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) - A proxy to expose real tls handshake to the firewall
-
-## Python
-
-*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
-
-*   [Pzqqt/Magisk\_Manager\_Recovery\_Tool](https://github.com/Pzqqt/Magisk_Manager_Recovery_Tool) - A Magisk Manager tool that can be used in Recovery mode base Aroma Installer.
-
-*   [XiaoMiku01/fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper) - 新版B站粉丝牌助手 全自动升级粉丝牌
-
-*   [stvlynn/edgeone-dify-plugin](https://github.com/stvlynn/edgeone-dify-plugin) - Deploy your site in seconds
-
-*   [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
-
-*   [LmeSzinc/StarRailCopilot](https://github.com/LmeSzinc/StarRailCopilot) - 崩坏：星穹铁道脚本 | Honkai: Star Rail auto bot (简体中文/繁體中文/English/Español)
-
-*   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-
-*   [darkmatter2048/WindowsCleaner](https://github.com/darkmatter2048/WindowsCleaner) - Windows Cleaner——专治C盘爆红及各种不服！
-
-*   [markmckinnon/Leveldb-py](https://github.com/markmckinnon/Leveldb-py) - Leveldb Dumper/Viewer
-
-*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源iptv4/iptv6。直播电视系统，这里有折腾好了的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）
-
-*   [TG-Twilight/Starstruck](https://github.com/TG-Twilight/Starstruck) - Starstruck是一个能让你快速统计某个 GitHub 仓库被哪些“显赫人物” Star 过的工具，顺便也能看看大佬们各自的“影响力”。| Starstruck is a tool that quickly shows you which “influential developers” have starred a GitHub repo — and lets you check out their own impact, too.
-
-*   [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable or batch script.
-
-*   [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-
-*   [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
-
-*   [urwid/urwid](https://github.com/urwid/urwid) - Console user interface library for Python (official repo)
-
-*   [Astro-2539/ZLabs-Bitmap](https://github.com/Astro-2539/ZLabs-Bitmap) - 一款开源的小型化像素字体
-
-*   [ZhuoZhuoCrayon/throttled-py](https://github.com/ZhuoZhuoCrayon/throttled-py) - 🔧 High-performance Python rate limiting library with multiple algorithms (Fixed Window, Sliding Window, Token Bucket, Leaky Bucket & GCRA) and storage backends (Redis, In-Memory).
-
-*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-
-*   [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-
-*   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
-
-*   [GamerNoTitle/BiliLive-Utility](https://github.com/GamerNoTitle/BiliLive-Utility) - 新一代 B 站小主播直播助手！开启 B 站直播并获得推流链接与推流密钥（推流码），一键修改标题、标签和直播分区，是给不满足 B 站新规定 5k 粉丝要求的用户使用的实用工具 (ˊ•͈ꇴ•͈ˋ)
-
-*   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
-
-*   [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-
-*   [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案
-
-*   [weepwood/Sync-Bangumi-to-Notion](https://github.com/weepwood/Sync-Bangumi-to-Notion) -
-
-*   [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
-
-*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-
-*   [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
-
-*   [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
-
-*   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
-
-*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-
-*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
-
-*   [bkerler/oppo\_decrypt](https://github.com/bkerler/oppo_decrypt) - Oppo .ofp Firmware decrypter and oneplus .ops de-/encrypter
-
-*   [bukson/steampy](https://github.com/bukson/steampy) - A Steam trading library for python 3
-
-*   [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) - bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现
-
-*   [jonz94/Sarasa-Gothic-Nerd-Fonts](https://github.com/jonz94/Sarasa-Gothic-Nerd-Fonts) - Nerd fonts patched Sarasa Gothic font.
-
-*   [laishulu/Sarasa-Term-SC-Nerd](https://github.com/laishulu/Sarasa-Term-SC-Nerd) - 简体中文终端更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
-
-*   [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-
-*   [yutto-dev/yutto](https://github.com/yutto-dev/yutto) - :ice\_cube: 一个可爱且任性的 B 站视频下载器
-
-*   [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
-
-*   [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
-
-*   [Fitzgerald-Porthmouth-Koenigsegg/Plangothic\_Project](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project) - 基于思源黑体，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目。
-
-*   [NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee) - 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本。
-
-*   [oldherl/fcitx5-pinyin-minecraft](https://github.com/oldherl/fcitx5-pinyin-minecraft) - 从 minecraft 中文 wiki 生成供 fcitx5 使用的拼音词库
-
-*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
-
-*   [boomker/rime-fast-xhup](https://github.com/boomker/rime-fast-xhup) - 基于小鹤双拼加鹤形辅助码的 Rime 配置方案，内附多种特色功能：词条置顶，强制删词，隐藏词条，词条降频，手动造词(中英)，全码唯一自动顶词上屏(单字和部分词)， 长词优先(成语短语简拼)，英文大小写多格式输入，中英自动加空格，上屏历史回溯，快捷启动与切换App应用，多格式日期星期时间输入，长期更新 800W 词库
-
-*   [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-
-*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
-
-*   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
-
-*   [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
-
-*   [lewangdev/scel2txt](https://github.com/lewangdev/scel2txt) - 搜狗细胞词库转鼠须管（Rime）词库
-
-*   [crimera/twitter-apk](https://github.com/crimera/twitter-apk) - Apk builds of piko patches
-
-*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
-
-*   [grayddq/GScan](https://github.com/grayddq/GScan) - 本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。
-
-*   [syntaxticsugr/ViPER4Android-Presets](https://github.com/syntaxticsugr/ViPER4Android-Presets) - Largest collection of DDC, Kernel & Preset for ViPER4Android
-
-*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-
-*   [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - Rime输入法语法模型全流程构建教程，全局带声调词库，最全声调标注工具链：LMDG - Language, Model, Dictionary, Grammar。Q群：11033572
-
-*   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
-
-*   [XiaoMi/ha\_xiaomi\_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
-
-*   [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
-
-*   [jianchang512/stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式
-
-*   [OneDragon-Anything/StarRailOneDragon](https://github.com/OneDragon-Anything/StarRailOneDragon) - 崩坏：星穹铁道 - 一条龙 Honkai Star Rail - One Dragon | 全日常自动 |
-
-*   [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
-
-*   [Mzdyl/LiteLoaderQQNT\_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
-
-*   [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
-
-*   [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
-
-*   [InputShare/InputShare](https://github.com/InputShare/InputShare) - InputShare enables you to share the keyboard and mouse of your computer with an Android device via ADB in wired / wireless way.
-
-*   [felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki) - Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
-
-*   [DWNfonts/XiaoyaPixel-Classic](https://github.com/DWNfonts/XiaoyaPixel-Classic) - XiaoyaPixel - 12px rounded pixel SC font.
-
-*   [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
-
-*   [rsms/inter](https://github.com/rsms/inter) - The Inter font family
-
-*   [Class-Widgets/Class-Widgets](https://github.com/Class-Widgets/Class-Widgets) - Class Widgets 1
-
-*   [mc-meme/mc-meme](https://github.com/mc-meme/mc-meme) - some meme about Minecraft
-
-*   [AZ-Studio-2023/AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader) - AZ音乐下载器 - 优雅地下载音乐 - 多API集成客户端 | Download music gracefully
-
-*   [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland
-
-*   [ChinaIceF/PyQt-SiliconUI](https://github.com/ChinaIceF/PyQt-SiliconUI) - A powerful and artistic UI library based on PyQt5，基于 PyQt5 的UI框架，灵动、优雅而轻便
-
-*   [DreamingLri/masa-mods-chinese](https://github.com/DreamingLri/masa-mods-chinese) - 一个masa mods的汉化资源包
-
-*   [TISUnion/PrimeBackup](https://github.com/TISUnion/PrimeBackup) - A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world
-
-*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
-
-*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
-
-*   [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
-
-*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
-
-*   [fkxxyz/rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
-
-*   [infinet/lunar-calendar](https://github.com/infinet/lunar-calendar) - iCal农历, 节气, 传统节日
-
-*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新
-
-*   [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
-
-*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
-
-*   [TISUnion/joinMOTD](https://github.com/TISUnion/joinMOTD) - send player a MOTD when he joins
-
-*   [TISUnion/StatsHelper](https://github.com/TISUnion/StatsHelper) - A Minecraft statistic helper
-
-*   [BlueSkyXN/AdGuardHomeRules](https://github.com/BlueSkyXN/AdGuardHomeRules) - 高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集
-
-*   [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
-
-*   [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
-
-*   [RikkaApps/StorageRedirect-assets](https://github.com/RikkaApps/StorageRedirect-assets) - Assets (rules, apks etc) for Storage Redirect app.
-
-*   [ohlunaaa/Riot-auth](https://github.com/ohlunaaa/Riot-auth) -
-
-*   [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
-
-*   [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
-
-*   [linxuan8233/Kalmiagram](https://github.com/linxuan8233/Kalmiagram) -
-
-*   [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-
-*   [bpozdena/OneDriveGUI](https://github.com/bpozdena/OneDriveGUI) - A simple GUI for OneDrive Linux client with multi-account support.
-
-*   [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
-
-*   [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
-
-*   [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
-
-*   [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
-
-*   [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
-
-*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-
-*   [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👾💙
-
-*   [SunsetMkt/anti-ip-attribution](https://github.com/SunsetMkt/anti-ip-attribution) - 针对部分网站显示IP归属地的流量分流规则
-
-*   [Zikinn/BingAPI](https://github.com/Zikinn/BingAPI) - 利用GithubAction爬取Bing每日一图，本仓库内所有文件禁止用于商业用途
-
-*   [MaruTama/Mengshen-pinyin-font](https://github.com/MaruTama/Mengshen-pinyin-font) - OpenSource Pinyin Font and that is created tools.
-
-*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
-
-*   [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体无衬线风格，支持 8、10 和 12 像素
-
-*   [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
-
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
-
-*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
-
-*   [codehz/YaHei-Build](https://github.com/codehz/YaHei-Build) - 使用更纱黑体取代微软雅黑
-
-*   [GamerNoTitle/Netease-Comment-Spider](https://github.com/GamerNoTitle/Netease-Comment-Spider) - 获取网易云音乐热评的爬虫，使用方法请看→
-
-*   [GamerNoTitle/Hitokoto-Spider](https://github.com/GamerNoTitle/Hitokoto-Spider) - 还在用八爪鱼抓一言吗？这样的时代要结束啦！开发日记链接→
-
-*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
-
-*   [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
-
-*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - Open source Pan-CJK pixel font / 开源的泛中日韩像素字体
-
-*   [tonquer/ehentai-qt](https://github.com/tonquer/ehentai-qt) - e-hentai, exhentai，看图，搜索，下载器
-
-*   [tonquer/JMComic-qt](https://github.com/tonquer/JMComic-qt) - 禁漫天堂，18comic，使用qt实现的PC客户端，支持Windows，Linux，MacOS
-
-*   [tonquer/picacg-qt](https://github.com/tonquer/picacg-qt) - 哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS)
-
-*   [chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) -
-
-*   [archlinuxcn/mirrorlist-repo](https://github.com/archlinuxcn/mirrorlist-repo) - Arch Linux CN Community repo mirrors list
-
-*   [TISUnion/ChatBridge](https://github.com/TISUnion/ChatBridge) - boardcast chat between mc servers or even discord server
-
 ## miscellaneous
+
+*   [hongchacha/cartoon](https://github.com/hongchacha/cartoon) - 全是漫画，免费漫画app
 
 *   [coracoo/awesome\_docker\_cn](https://github.com/coracoo/awesome_docker_cn) - 上百款可docker部署的项目，包含项目地址、项目部署教程等。
 
@@ -1232,6 +344,896 @@
 
 *   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 
+## TypeScript
+
+*   [youniaogu/MangaReader](https://github.com/youniaogu/MangaReader) - 一个漫画 APP📱，基于 react-native 构建，兼容 Android、Ios 平台
+
+*   [loweisz/generate-avatar](https://github.com/loweisz/generate-avatar) - Generate your 100% fingerprinted example avatar from id, email, username etc.
+
+*   [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) - Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion.
+
+*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+
+*   [zeruniverse/boardgame\_helper](https://github.com/zeruniverse/boardgame_helper) - Forked from https://github.com/zeruniverse/texas\_game
+
+*   [xiong35/werewolf](https://github.com/xiong35/werewolf) - 一款线下狼人杀网页, 除了没有语音功能, 其余功能均具备. 用于取代卡牌和取消上帝
+
+*   [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站。交流群：https://t.me/+K8GaaVx-xrc0YmVk
+
+*   [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
+
+*   [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
+
+*   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
+
+*   [Lintha437/conium-beapis-samples](https://github.com/Lintha437/conium-beapis-samples) - Some samples of the Minecraft Bedrock APIs part of the Conium framework.
+
+*   [TG-Twilight/Gamer-Skill-Icons](https://github.com/TG-Twilight/Gamer-Skill-Icons) - Hey Gamer, show everyone your favorite skills!🎮
+
+*   [GtxFury/FlyClash](https://github.com/GtxFury/FlyClash) - 简洁美观的代理工具
+
+*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+
+*   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock
+
+*   [rbetree/MarksVault](https://github.com/rbetree/MarksVault) - 一个强大的浏览器扩展，用于智能管理、整理和安全备份您的书签数据
+
+*   [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
+
+*   [voideditor/void](https://github.com/voideditor/void) -
+
+*   [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
+
+*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。A powerful Telegram chat search tool with vector search and semantic matching capabilities.
+
+*   [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) -  一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
+
+*   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
+
+*   [antfu/handle](https://github.com/antfu/handle) - A Chinese Hanzi variation of Wordle - 汉字 Wordle
+
+*   [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
+
+*   [alovajs/alova](https://github.com/alovajs/alova) - The Request Toolkit For Ultimate Efficiency
+
+*   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+
+*   [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
+
+*   [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
+
+*   [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) - A browser based Pokémon fangame heavily inspired by the roguelite genre.
+
+*   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
+
+*   [utterance/utterances](https://github.com/utterance/utterances) - :crystal\_ball: A lightweight comments widget built on GitHub issues
+
+*   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
+
+*   [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
+
+*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
+
+*   [BakaXL-Support/BakaXL-Document](https://github.com/BakaXL-Support/BakaXL-Document) - BakaXL 用户帮助文档
+
+*   [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
+
+*   [kawamataryo/sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Instantly find and follow the same users from your X(Twitter) follower on Bluesky.
+
+*   [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
+
+*   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
+
+*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
+
+*   [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync) - 🔄 Github action to sync your forks
+
+*   [BingyanStudio/github-analyzer](https://github.com/BingyanStudio/github-analyzer) - 锐评一下你都在 GitHub 写了什么
+
+*   [bojue/lemon-form](https://github.com/bojue/lemon-form) - lemon form 柠檬轻表单（Vue3）
+
+*   [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) - Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements
+
+*   [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
+
+*   [longern/FlareDrive](https://github.com/longern/FlareDrive) - Free file hosting service (WebUI & WebDAV) using CloudFlare R2
+
+*   [RedJue/git-commit-plugin](https://github.com/RedJue/git-commit-plugin) - Automatically generate git commit
+
+*   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
+
+*   [LibreService/my\_rime](https://github.com/LibreService/my_rime) - Free and Open Source online Chinese IME powered by RIME. 自由开源在线中文输入法 拼音 双拼 粤语 注音 五笔 仓颉 速成
+
+*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
+
+*   [browser-actions/setup-chrome](https://github.com/browser-actions/setup-chrome) - Set up your GitHub Actions workflow with a specific version of chromium
+
+*   [material-foundation/material-color-utilities](https://github.com/material-foundation/material-color-utilities) - Color libraries for Material You
+
+*   [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
+
+*   [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
+
+*   [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
+
+*   [LLOneBot/LLOneBot](https://github.com/LLOneBot/LLOneBot) - 支持 OneBot 11 和 Satori 协议
+
+*   [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
+
+*   [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
+
+*   [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
+
+*   [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
+
+*   [Lordly-Tech/LordlyRead](https://github.com/Lordly-Tech/LordlyRead) -
+
+*   [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
+
+*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
+*   [marcomaroni-github/twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account.
+
+*   [vsme/chinese-days](https://github.com/vsme/chinese-days) - 中国法定节假日、调休和工作日、24节气查询，农历阳历互转，支持 TS、CommonJS、UMD 模块化使用，对非开发者，提供 iCal 日历订阅，可供 Google Calendar、Apple Calendar、Microsoft Outlook 等客户端使用。
+
+*   [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
+
+*   [bangbang93/openbmclapi](https://github.com/bangbang93/openbmclapi) - BMCLAPI@Home
+
+*   [keldaanCommunity/pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess) - Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.
+
+*   [AIsouler/GKD\_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
+
+*   [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
+
+*   [Musish/Musish](https://github.com/Musish/Musish) - Apple Music...ish
+
+*   [BetterMinecraftHelpDocs/docs](https://github.com/BetterMinecraftHelpDocs/docs) -
+
+*   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
+
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+
+*   [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme、移动端网页。
+
+*   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
+
+*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
+
+*   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
+
+*   [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
+
+*   [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
+
+*   [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+
+*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+
+*   [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
+
+*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+
+*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+
+*   [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
+
+*   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+
+*   [openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
+
+*   [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - Tencent QQ Bot Library for Node.js
+
+*   [clansty/Q2TG](https://github.com/clansty/Q2TG) - QQ 与 Telegram 群相互转发的 bot
+
+*   [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
+
+*   [Java-S12138/frank](https://github.com/Java-S12138/frank) - A bran-new League of Legends assistant software, a replacement for WeGame.
+
+*   [Icalingua-plus-plus/Icalingua3](https://github.com/Icalingua-plus-plus/Icalingua3) - :new:A brand-new version of Icalingua.
+
+*   [premieroctet/photoshot](https://github.com/premieroctet/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
+
+*   [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
+
+*   [ResetPower/rcs](https://github.com/ResetPower/rcs) - ResetPower's Component Set using TailwindCSS.
+
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
+*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+
+*   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
+
+*   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
+
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+
+*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+
+*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+
+*   [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Free, Secure, Distributed, Modern Control Panel for Minecraft and Steam Game Servers.
+
+*   [ansh/jiffyreader-public-archive](https://github.com/ansh/jiffyreader-public-archive) - A Browser Extension for faster reading on ANY website!
+
+*   [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词
+
+*   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+
+*   [lint-md/lint-md](https://github.com/lint-md/lint-md) - :books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 CI，写博客 / 文档必备。支持 API 调用！
+
+*   [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
+
+*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
+
+*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
+
+*   [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more. :electron:
+
+## Rust
+
+*   [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+
+*   [burningtnt/Terracotta](https://github.com/burningtnt/Terracotta) - Terracotta | 陶瓦联机
+
+*   [Acfboy/twt-werewolf-master-ng](https://github.com/Acfboy/twt-werewolf-master-ng) - Modern generation of twt-werewolf-master
+
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+
+*   [JohanChane/clashtui](https://github.com/JohanChane/clashtui) - Mihomo (Clash.Meta) TUI Client
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+
+*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+
+*   [bloznelis/kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal
+
+*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
+
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+*   [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
+
+*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+
+*   [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+
+*   [wlh320/rime-ls](https://github.com/wlh320/rime-ls) - A language server that provides input method functionality using librime 通过 LSP 代码补全使用 Rime 输入法
+
+*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
+
+*   [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+
+*   [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
+
+*   [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.
+
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
+
+*   [shadow3aaa/fas-rs](https://github.com/shadow3aaa/fas-rs) - Frame aware scheduling for android.
+
+*   [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
+
+*   [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+
+*   [iamcco/ds-pinyin-lsp](https://github.com/iamcco/ds-pinyin-lsp) - Dead Simple Pinyin Language Server
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) - A proxy to expose real tls handshake to the firewall
+
+## C\#
+
+*   [bezzad/Downloader](https://github.com/bezzad/Downloader) - Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications.
+
+*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
+
+*   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+
+*   [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
+
+*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+
+*   [cmliu/SubsCheck-Win-GUI](https://github.com/cmliu/SubsCheck-Win-GUI) - SubsCheck 为 Windows 用户设计的 GUI 程序界面。
+
+*   [HunterPie/HunterPie](https://github.com/HunterPie/HunterPie) - A clean, modern and robust overlay for Monster Hunter games.
+
+*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
+
+*   [PintaProject/Pinta](https://github.com/PintaProject/Pinta) - Simple GTK Paint Program
+
+*   [SuGar0218/PreLaunchTaskr](https://github.com/SuGar0218/PreLaunchTaskr) - 通过映像劫持，在应用程序启动前做一些事情，例如：更改启动参数、设置环境变量、执行程序或脚本。
+
+*   [mgth/LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Aware mouse move across screens
+
+*   [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
+
+*   [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
+
+*   [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
+
+*   [weiyourumeng/RM-Toolbox](https://github.com/weiyourumeng/RM-Toolbox) - 入梦工具箱
+
+*   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
+
+*   [libxzr/FastbootEnhance](https://github.com/libxzr/FastbootEnhance) - A user-friendly Fastboot ToolBox & Payload Dumper for Windows
+
+*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
+
+*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+
+*   [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
+
+*   [SlimeNull/AzureTTS](https://github.com/SlimeNull/AzureTTS) - Azure TTS Tool. Azure 文本转语音工具.
+
+*   [SlimeNull/EasyConv](https://github.com/SlimeNull/EasyConv) - 将基于 ffmpeg 的多媒体格式转换功能集成到右键菜单
+
+*   [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
+
+*   [InkCanvas/InkCanvasForClass](https://github.com/InkCanvas/InkCanvasForClass) - InkCanvasForClass 是一款开源易用的电子教鞭软件
+
+*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
+
+*   [Sticky-attention/Sticky-attention](https://github.com/Sticky-attention/Sticky-attention) - 一款新作业贴软件 新增了原版没有的新功能
+
+*   [InkCanvas/Ink-Canvas-Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry) - A fantastic Ink Canvas in WPF/C#, based on WXRIW/Ink-Canvas.
+
+*   [ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) - 一款适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
+
+*   [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC-based media player for the Universal Windows Platform
+
+*   [jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) - 一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐
+
+*   [Richasy/Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用
+
+*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
+
+*   [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
+
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+
+*   [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
+
+*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
+
+*   [Alex4SSB/ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer) - A fluent UI for ADB on Windows
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+*   [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game.
+
+*   [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
+
+*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+*   [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
+
+*   [zsh2401/AutumnBox](https://github.com/zsh2401/AutumnBox) - 图形化ADB工具箱
+
+*   [Legacy-Edge/Legacy-Edge-Launcher](https://github.com/Legacy-Edge/Legacy-Edge-Launcher) - Used to allow to run Legacy Edge again
+
+## HTML
+
+*   [merakiuilabs/merakiui](https://github.com/merakiuilabs/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
+
+*   [Purple-CSGO/CS2-Config-Presets](https://github.com/Purple-CSGO/CS2-Config-Presets) - 🎉​ CFG Presets for many scenarios in Counter-Strike 2
+
+*   [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
+
+*   [MeowCracker/MobaGenkey](https://github.com/MeowCracker/MobaGenkey) - 一个 MobaXterm 的许可证生成器
+
+*   [Carole007/midm-release](https://github.com/Carole007/midm-release) - mi动漫发布页
+
+*   [DesktopGooseUnofficial/ResourceHub](https://github.com/DesktopGooseUnofficial/ResourceHub) - ResourceHub, for everything Desktop Goose
+
+*   [LoosePrince/PF-MCDR-WebUI](https://github.com/LoosePrince/PF-MCDR-WebUI) - PF MCDR的WebUI
+
+*   [lingeringsound/10007](https://github.com/lingeringsound/10007) - hosts of block ads
+
+*   [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - Block the keyboard input while you were eating instant noodles on your laptop keyboard.
+
+*   [jenskutilek/sudo-font](https://github.com/jenskutilek/sudo-font) - Sudo, a font for programmers and command line users.
+
+*   [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
+
+*   [grbnb/xp\_module](https://github.com/grbnb/xp_module) - 备份午夜神大佬分享的应用集 【下面是Gitee仓库链接】https://gitee.com/grbnb/xp\_module.git
+
+*   [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io) -
+
+*   [Terminus2049/Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) - 豆瓣不存在的书影音
+
+*   [Xmader/aria-ng-gui-android](https://github.com/Xmader/aria-ng-gui-android) - 一个 Aria2 图形界面安卓客户端 | An Aria2 GUI Android App
+
+*   [wacko1805/MagiskGapps](https://github.com/wacko1805/MagiskGapps) - Convert a regular GApps package into a Magisk flashable package using a simple website
+
+*   [aoaostar/legado](https://github.com/aoaostar/legado) - 阅读APP书源
+
+*   [booksources/booksources.github.io](https://github.com/booksources/booksources.github.io) - 阅读在线书源分享库
+
+*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
+
+*   [acl4ssr-sub/acl4ssr-sub.github.io](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) -
+
+*   [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
+
+*   [TheresaQWQ/BroadcastOnAirDanmaku](https://github.com/TheresaQWQ/BroadcastOnAirDanmaku) - 一个直播间弹幕姬
+
+*   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护4年多，每天都会检测可用性，全网质量最高的公益订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨clash丨karing丨hiddify丨mihomo丨clashmi丨ClashMeta丨FIClash丨Surfboard
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+## Kotlin
+
+*   [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - More Expressive InstallerX !
+
+*   [vvb2060/PackageInstaller](https://github.com/vvb2060/PackageInstaller) - A lightweight yet powerful package installer for Android.
+
+*   [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) - Kernel-based Android Root Solution & KPM
+
+*   [horsemail/yourtv](https://github.com/horsemail/yourtv) - 安卓电视直播APK：IPTV/網頁視頻支持X5，可自定義源(支持webview://格式)，IPTV支持畫中畫和熄屏播放。 Android TV Live APK: IPTV/web video supports X5, customizable sources (support webview:// format), IPTV supports picture-in-picture and off-screen playback.
+
+*   [NihilityT/MiPush](https://github.com/NihilityT/MiPush) - 让 MiPushFramework 支持分应用
+
+*   [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) - A Minecraft: Java Edition Launcher for Android
+
+*   [kyujin-cho/pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch) - Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch
+
+*   [XingC123/BackgroundOpt](https://github.com/XingC123/BackgroundOpt) - 这是一个通过调整进程oom\_score\_adj来骗过lmk从而实现保后台的模块。
+
+*   [iamr0s/InstallerX](https://github.com/iamr0s/InstallerX) - A modern and functional Android app installer. (You know some birds are not meant to be caged, their feathers are just too bright.)
+
+*   [jaredcat/WiFiList](https://github.com/jaredcat/WiFiList) -
+
+*   [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
+
+*   [taamarin/box.manager](https://github.com/taamarin/box.manager) - Optional
+
+*   [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
+
+*   [rRemix/APlayer](https://github.com/rRemix/APlayer) - Android Music Player
+
+*   [lz233/Tarnhelm](https://github.com/lz233/Tarnhelm) - The magic to clean sharing links up.
+
+*   [cao-awa/Medical-mc](https://github.com/cao-awa/Medical-mc) -
+
+*   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+
+*   [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
+
+*   [kazutoiris/infinite-illusion](https://github.com/kazutoiris/infinite-illusion) - Infinite Illusion （无限幻境）
+
+*   [azhon/AppUpdate](https://github.com/azhon/AppUpdate) - Android App update library.  Android版本更新库，简单、轻量、可随意定制
+
+*   [1250422131/bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩解析工具，一个辅助缓存下载B站视频番剧的APP，帮助你快速便捷的缓存B站视频和番剧。
+
+*   [pzcn/Perfect-Icons-APP](https://github.com/pzcn/Perfect-Icons-APP) -
+
+*   [aaa1115910/bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
+
+*   [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
+
+*   [byxiaorun/Ruru](https://github.com/byxiaorun/Ruru) - An android sample app of detecting suspicious apps like magisk manager
+
+*   [BaltiApps/Pixelify-Google-Photos](https://github.com/BaltiApps/Pixelify-Google-Photos) - Pixelify GPhotos
+
+*   [Simplicity-Team/WooBoxForColorOS](https://github.com/Simplicity-Team/WooBoxForColorOS) - 一个基于 ColorOS12(Android 12) 适配的自定义工具 // A system extension Xposed module based on ColorOS12 (Android12)
+
+*   [suqi8/OShin](https://github.com/suqi8/OShin) - 一个专为ColorOS系统设计的辅助模块
+
+*   [LMODroid/platform\_packages\_apps\_LMOFreeform](https://github.com/LMODroid/platform_packages_apps_LMOFreeform) -
+
+*   [gurecn/yuyansdk](https://github.com/gurecn/yuyansdk) - 语燕输入法引擎-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等模式的中文输入法引擎
+
+*   [aivanovski/keepassvault](https://github.com/aivanovski/keepassvault) - KeePass client app for Android
+
+*   [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
+
+*   [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
+
+*   [lizongying/my-tv-0](https://github.com/lizongying/my-tv-0) - 我的電視·〇 電視視頻播放軟件，可以自定義視頻源
+
+*   [cao-awa/Conium](https://github.com/cao-awa/Conium) - Conium is a datapack and script framework for modern Minecraft, it provides very diverse features without Java coding, Conium lets you complete your mods only using datapacks.
+
+*   [DroidWorksStudio/EasyLauncher](https://github.com/DroidWorksStudio/EasyLauncher) - EasyLauncher - Minimal and Clutter Free Android launcher
+
+*   [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
+
+*   [xiaowine/Lyric-Getter](https://github.com/xiaowine/Lyric-Getter) - Lyric Getter | 酒域-歌词获取
+
+*   [Block-Network/StatusBarLyric](https://github.com/Block-Network/StatusBarLyric) - \[Xposed] Status Bar Lyric / 状态栏歌词
+
+*   [Yubyf/QuoteLockX](https://github.com/Yubyf/QuoteLockX) - Displays quotes on your lockscreen, because why not.
+
+*   [kaajjo/LibreSudoku](https://github.com/kaajjo/LibreSudoku) - LibreSudoku - Sudoku app for android built with Kotlin + Jetpack Compose + Material3
+
+*   [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF) - An Android Storage Access Framework document provider for rclone
+
+*   [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - Check updates for Android apps, Magisk modules and more!
+
+*   [TouchController/TouchController](https://github.com/TouchController/TouchController) - Touchscreen control mod for Minecraft Java version / Minecraft Java 版触屏控制 mod
+
+*   [15dd/wenku8reader](https://github.com/15dd/wenku8reader) - 第三方轻小说文库app
+
+*   [chr233/PureNGA](https://github.com/chr233/PureNGA) - NGA 去广告Xposed模块 支持 Lspatch
+
+*   [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
+
+*   [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
+
+*   [andstatus/game2048](https://github.com/andstatus/game2048) - 2048 Open Fun Game - multiplatform implementation in Kotlin and KorGe game engine
+
+*   [KieronQuinn/PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - A root app that enables you to add a number of features to the stock Pixel Launcher, without needing Xposed
+
+*   [fankes/MIUINativeNotifyIcon](https://github.com/fankes/MIUINativeNotifyIcon) - Fix the native notification bar icon function abandoned by the MIUI development team.
+
+*   [GSWXXN/RestoreSplashScreen](https://github.com/GSWXXN/RestoreSplashScreen) - 启动遮罩进化 / RestoreSplashScreen
+
+*   [imknown/AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) - Detect Treble, GSI, Mainline, APEX, system-as-root(SAR), A/B, etc.
+
+*   [fcitx5-android/fcitx5-android-updater](https://github.com/fcitx5-android/fcitx5-android-updater) -
+
+*   [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
+
+*   [ElishaAz/Sayboard](https://github.com/ElishaAz/Sayboard) - An open-source on-device voice IME (keyboard) for Android using the Vosk library.
+
+*   [eswd04/freeform\_update](https://github.com/eswd04/freeform_update) - eswd custom Mi-freeform update
+
+*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+
+*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
+
+*   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
+
+*   [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) - Adds themed icons to Lawnchair.
+
+*   [yin-ol/MiPushFaker](https://github.com/yin-ol/MiPushFaker) - Xposed模块，伪装机型让普通应用能够正确识别到MiPush，搭配MiPushFramework使用
+
+*   [fei-ke/HMSPush](https://github.com/fei-ke/HMSPush) - 让非华为设备支持 HMS 推送，同时避免唤醒目标应用
+
+*   [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
+
+*   [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) - Iconify lets you customize your Android 12+ device easily. Change icons, colors, shapes, and even the notification panel for a personalized look that suits your style.
+
+*   [ruffle-rs/ruffle-android](https://github.com/ruffle-rs/ruffle-android) - An Android application for ruffle.rs
+
+*   [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) - 语燕拼音输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法
+
+*   [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
+
+*   [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
+
+*   [Live-Block/Flyme-FreeForm](https://github.com/Live-Block/Flyme-FreeForm) - A FlymeOS style freeform
+
+*   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
+
+*   [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
+
+*   [QuiltServerTools/Ledger](https://github.com/QuiltServerTools/Ledger) -  A server-side logging mod for fabric 1.17+
+
+*   [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
+
+*   [IacobIonut01/Gallery](https://github.com/IacobIonut01/Gallery) - Media Gallery app for Android made with Jetpack Compose
+
+*   [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
+
+*   [zhaobozhen/Anywhere-](https://github.com/zhaobozhen/Anywhere-) -
+
+*   [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
+
+*   [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
+
+*   [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的 Android 看番软件，支持多番剧源
+
+*   [fankes/ColorOSNotifyIcon](https://github.com/fankes/ColorOSNotifyIcon) - Optimize notification icons for ColorOS and adapt to native notification icon specifications.
+
+*   [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
+
+*   [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
+
+*   [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
+
+*   [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
+
+*   [Angel-Studio/MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) - Free Android version of Dynamic Island feature stylized with Material You.
+
+*   [Iru21/Authy](https://github.com/Iru21/Authy) - A simple authentication plugin for Minecraft 1.17+!
+
+*   [ztc1997/FakeDCBacklight](https://github.com/ztc1997/FakeDCBacklight) - Enable Extra dim when the brightness is lower than the minimum screen brightness.  在亮度低于最低屏幕亮度时启用极暗。
+
+*   [liquidbounceplusreborn/LiquidbouncePlus-Reborn](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
+
+*   [KitsunePie/QQCleaner](https://github.com/KitsunePie/QQCleaner) - 瘦身模块
+
+*   [fankes/TSBattery](https://github.com/fankes/TSBattery) - A new way to save your battery avoid cancer apps hacker it.
+
+*   [sunshine0523/Mi-Freeform](https://github.com/sunshine0523/Mi-Freeform) - Mi-Freeform 3 is an Android third-party freeform software that supports Android 8.1-Android 14
+
+*   [xjunz/AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
+
+*   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
+
+*   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
+
+*   [osfans/trime](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
+
+*   [tytydraco/LADB](https://github.com/tytydraco/LADB) - A local ADB shell for Android!
+
+*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+
+*   [MatsuriDayo/Matsuri](https://github.com/MatsuriDayo/Matsuri) - Matsuri (茉莉) / V2Ray / universal proxy toolchain for Android / Fork of SagerNet
+
+*   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
+
+*   [CCBlueX/LiquidBounce](https://github.com/CCBlueX/LiquidBounce) - A free Minecraft hacked client (utility mod) for Fabric
+
+*   [Super-Santa/EssentialAddons](https://github.com/Super-Santa/EssentialAddons) - Fabric Carpet extension that adds things from the Spigot plugin Essentials, or other features I think are needed for Minecraft
+
+*   [LuckyPray/XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
+
+*   [senseiwells/EssentialClient](https://github.com/senseiwells/EssentialClient) - EssentialClient is a client-side mod that adds many client utilities as well as providing a gui to modify carpet rules!
+
+*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
+
+*   [lucasnlm/antimine-android](https://github.com/lucasnlm/antimine-android) - Antimine is an open source minesweeper-like puzzle game.
+
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+## Python
+
+*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
+
+*   [Pzqqt/Magisk\_Manager\_Recovery\_Tool](https://github.com/Pzqqt/Magisk_Manager_Recovery_Tool) - A Magisk Manager tool that can be used in Recovery mode base Aroma Installer.
+
+*   [XiaoMiku01/fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper) - 新版B站粉丝牌助手 全自动升级粉丝牌
+
+*   [stvlynn/edgeone-dify-plugin](https://github.com/stvlynn/edgeone-dify-plugin) - Deploy your site in seconds
+
+*   [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
+
+*   [LmeSzinc/StarRailCopilot](https://github.com/LmeSzinc/StarRailCopilot) - 崩坏：星穹铁道脚本 | Honkai: Star Rail auto bot (简体中文/繁體中文/English/Español)
+
+*   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+
+*   [darkmatter2048/WindowsCleaner](https://github.com/darkmatter2048/WindowsCleaner) - Windows Cleaner——专治C盘爆红及各种不服！
+
+*   [markmckinnon/Leveldb-py](https://github.com/markmckinnon/Leveldb-py) - Leveldb Dumper/Viewer
+
+*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源iptv4/iptv6。直播电视系统，这里有折腾好了的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）
+
+*   [TG-Twilight/Starstruck](https://github.com/TG-Twilight/Starstruck) - Starstruck是一个能让你快速统计某个 GitHub 仓库被哪些“显赫人物” Star 过的工具，顺便也能看看大佬们各自的“影响力”。| Starstruck is a tool that quickly shows you which “influential developers” have starred a GitHub repo — and lets you check out their own impact, too.
+
+*   [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+
+*   [ozh/github-colors](https://github.com/ozh/github-colors) - 🌈 Github colors for all the languages
+
+*   [urwid/urwid](https://github.com/urwid/urwid) - Console user interface library for Python (official repo)
+
+*   [Astro-2539/ZLabs-Bitmap](https://github.com/Astro-2539/ZLabs-Bitmap) - 一款开源的小型化像素字体
+
+*   [ZhuoZhuoCrayon/throttled-py](https://github.com/ZhuoZhuoCrayon/throttled-py) - 🔧 High-performance Python rate limiting library with multiple algorithms (Fixed Window, Sliding Window, Token Bucket, Leaky Bucket & GCRA) and storage backends (Redis, In-Memory).
+
+*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+
+*   [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+
+*   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+
+*   [GamerNoTitle/BiliLive-Utility](https://github.com/GamerNoTitle/BiliLive-Utility) - 新一代 B 站小主播直播助手！开启 B 站直播并获得推流链接与推流密钥（推流码），一键修改标题、标签和直播分区，是给不满足 B 站新规定 5k 粉丝要求的用户使用的实用工具 (ˊ•͈ꇴ•͈ˋ)
+
+*   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
+
+*   [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
+
+*   [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字分身的一站式解决方案
+
+*   [weepwood/Sync-Bangumi-to-Notion](https://github.com/weepwood/Sync-Bangumi-to-Notion) -
+
+*   [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+*   [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
+
+*   [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
+
+*   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
+
+*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - \[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+
+*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
+
+*   [bkerler/oppo\_decrypt](https://github.com/bkerler/oppo_decrypt) - Oppo .ofp Firmware decrypter and oneplus .ops de-/encrypter
+
+*   [bukson/steampy](https://github.com/bukson/steampy) - A Steam trading library for python 3
+
+*   [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) - bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现
+
+*   [jonz94/Sarasa-Gothic-Nerd-Fonts](https://github.com/jonz94/Sarasa-Gothic-Nerd-Fonts) - Nerd fonts patched Sarasa Gothic font.
+
+*   [laishulu/Sarasa-Term-SC-Nerd](https://github.com/laishulu/Sarasa-Term-SC-Nerd) - 简体中文终端更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
+
+*   [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+
+*   [yutto-dev/yutto](https://github.com/yutto-dev/yutto) - :ice\_cube: 一个可爱且任性的 B 站视频下载器
+
+*   [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
+
+*   [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
+
+*   [Fitzgerald-Porthmouth-Koenigsegg/Plangothic\_Project](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project) - 基于思源黑体，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目。
+
+*   [NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee) - 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本。
+
+*   [oldherl/fcitx5-pinyin-minecraft](https://github.com/oldherl/fcitx5-pinyin-minecraft) - 从 minecraft 中文 wiki 生成供 fcitx5 使用的拼音词库
+
+*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
+
+*   [boomker/rime-fast-xhup](https://github.com/boomker/rime-fast-xhup) - 基于小鹤双拼加鹤形辅助码的 Rime 配置方案，内附多种特色功能：词条置顶，强制删词，隐藏词条，词条降频，手动造词(中英)，全码唯一自动顶词上屏(单字和部分词)， 长词优先(成语短语简拼)，英文大小写多格式输入，中英自动加空格，上屏历史回溯，快捷启动与切换App应用，多格式日期星期时间输入，长期更新 800W 词库
+
+*   [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+
+*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+
+*   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+
+*   [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
+
+*   [lewangdev/scel2txt](https://github.com/lewangdev/scel2txt) - 搜狗细胞词库转鼠须管（Rime）词库
+
+*   [crimera/twitter-apk](https://github.com/crimera/twitter-apk) - Apk builds of piko patches
+
+*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+
+*   [grayddq/GScan](https://github.com/grayddq/GScan) - 本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。
+
+*   [syntaxticsugr/ViPER4Android-Presets](https://github.com/syntaxticsugr/ViPER4Android-Presets) - Largest collection of DDC, Kernel & Preset for ViPER4Android
+
+*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+
+*   [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - Rime输入法语法模型全流程构建教程，全局带声调词库，最全声调标注工具链：LMDG - Language, Model, Dictionary, Grammar。Q群：11033572
+
+*   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+
+*   [XiaoMi/ha\_xiaomi\_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
+
+*   [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
+
+*   [jianchang512/stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式
+
+*   [OneDragon-Anything/StarRailOneDragon](https://github.com/OneDragon-Anything/StarRailOneDragon) - 崩坏：星穹铁道 - 一条龙 Honkai Star Rail - One Dragon | 全日常自动 |
+
+*   [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
+
+*   [Mzdyl/LiteLoaderQQNT\_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
+
+*   [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
+
+*   [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
+
+*   [InputShare/InputShare](https://github.com/InputShare/InputShare) - InputShare enables you to share the keyboard and mouse of your computer with an Android device via ADB in wired / wireless way.
+
+*   [felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki) - Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
+
+*   [DWNfonts/XiaoyaPixel-Classic](https://github.com/DWNfonts/XiaoyaPixel-Classic) - XiaoyaPixel - 12px rounded pixel SC font.
+
+*   [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
+
+*   [rsms/inter](https://github.com/rsms/inter) - The Inter font family
+
+*   [Class-Widgets/Class-Widgets](https://github.com/Class-Widgets/Class-Widgets) - Class Widgets 1
+
+*   [mc-meme/mc-meme](https://github.com/mc-meme/mc-meme) - some meme about Minecraft
+
+*   [AZ-Studio-2023/AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader) - AZ音乐下载器 - 优雅地下载音乐 - 多API集成客户端 | Download music gracefully
+
+*   [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland
+
+*   [ChinaIceF/PyQt-SiliconUI](https://github.com/ChinaIceF/PyQt-SiliconUI) - A powerful and artistic UI library based on PyQt5，基于 PyQt5 的UI框架，灵动、优雅而轻便
+
+*   [DreamingLri/masa-mods-chinese](https://github.com/DreamingLri/masa-mods-chinese) - 一个masa mods的汉化资源包
+
+*   [TISUnion/PrimeBackup](https://github.com/TISUnion/PrimeBackup) - A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world
+
+*   [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
+
+*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
+
+*   [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
+
+*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
+
+*   [fkxxyz/rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
+
+*   [infinet/lunar-calendar](https://github.com/infinet/lunar-calendar) - iCal农历, 节气, 传统节日
+
+*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新
+
+*   [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+
+*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
+
+*   [TISUnion/joinMOTD](https://github.com/TISUnion/joinMOTD) - send player a MOTD when he joins
+
+*   [TISUnion/StatsHelper](https://github.com/TISUnion/StatsHelper) - A Minecraft statistic helper
+
+*   [BlueSkyXN/AdGuardHomeRules](https://github.com/BlueSkyXN/AdGuardHomeRules) - 高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集
+
+*   [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
+
+*   [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
+
+*   [RikkaApps/StorageRedirect-assets](https://github.com/RikkaApps/StorageRedirect-assets) - Assets (rules, apks etc) for Storage Redirect app.
+
+*   [ohlunaaa/Riot-auth](https://github.com/ohlunaaa/Riot-auth) -
+
+*   [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
+
+*   [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
+
+*   [linxuan8233/Kalmiagram](https://github.com/linxuan8233/Kalmiagram) -
+
+*   [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
+
+*   [bpozdena/OneDriveGUI](https://github.com/bpozdena/OneDriveGUI) - A simple GUI for OneDrive Linux client with multi-account support.
+
+*   [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
+
+*   [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
+
+*   [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
+
+*   [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
+
+*   [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
+
+*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+
+*   [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👾💙
+
+*   [SunsetMkt/anti-ip-attribution](https://github.com/SunsetMkt/anti-ip-attribution) - 针对部分网站显示IP归属地的流量分流规则
+
+*   [Zikinn/BingAPI](https://github.com/Zikinn/BingAPI) - 利用GithubAction爬取Bing每日一图，本仓库内所有文件禁止用于商业用途
+
+*   [MaruTama/Mengshen-pinyin-font](https://github.com/MaruTama/Mengshen-pinyin-font) - OpenSource Pinyin Font and that is created tools.
+
+*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
+
+*   [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体无衬线风格，支持 8、10 和 12 像素
+
+*   [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
+
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+
+*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
+
+*   [codehz/YaHei-Build](https://github.com/codehz/YaHei-Build) - 使用更纱黑体取代微软雅黑
+
+*   [GamerNoTitle/Netease-Comment-Spider](https://github.com/GamerNoTitle/Netease-Comment-Spider) - 获取网易云音乐热评的爬虫，使用方法请看→
+
+*   [GamerNoTitle/Hitokoto-Spider](https://github.com/GamerNoTitle/Hitokoto-Spider) - 还在用八爪鱼抓一言吗？这样的时代要结束啦！开发日记链接→
+
+*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
+
+*   [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
+
+*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - Open source Pan-CJK pixel font / 开源的泛中日韩像素字体
+
+*   [tonquer/ehentai-qt](https://github.com/tonquer/ehentai-qt) - e-hentai, exhentai，看图，搜索，下载器
+
+*   [tonquer/JMComic-qt](https://github.com/tonquer/JMComic-qt) - 禁漫天堂，18comic，使用qt实现的PC客户端，支持Windows，Linux，MacOS
+
+*   [tonquer/picacg-qt](https://github.com/tonquer/picacg-qt) - 哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS)
+
+*   [chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) -
+
+*   [archlinuxcn/mirrorlist-repo](https://github.com/archlinuxcn/mirrorlist-repo) - Arch Linux CN Community repo mirrors list
+
 ## C++
 
 *   [twt-tec/werewolf-master](https://github.com/twt-tec/werewolf-master) -
@@ -1327,8 +1329,6 @@
 *   [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 
 *   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-
-*   [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.
 
 ## Shell
 
@@ -1517,8 +1517,6 @@
 *   [zpj80231/znote](https://github.com/zpj80231/znote) - 🎈VuePress 静态布局 Blog，清新+ 简洁+。
 
 *   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
-
-*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 
 ## Java
 
@@ -2329,6 +2327,8 @@
 ## Batchfile
 
 *   [SchneeSchmitt/ADB-Android-Optimizer](https://github.com/SchneeSchmitt/ADB-Android-Optimizer) - Rootless (ADB) Android performance optimizer for every condition, from pure performance to power-saving
+
+*   [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable or batch script.
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
