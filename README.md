@@ -156,7 +156,7 @@
 
 *   [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 
-*   [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
+*   [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
 
 *   [Fitzgerald-Porthmouth-Koenigsegg/Plangothic\_Project](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project) - 基于思源黑体，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目。
 
@@ -2234,7 +2234,7 @@
 
 *   [ComicSparks/jasmine](https://github.com/ComicSparks/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 
-*   [niuhuan/daisy](https://github.com/niuhuan/daisy) - 美观易用且无广告的漫画和轻小说客户端, 同时支持MacOS，Windows，Android，iOS。类似动漫之家。
+*   [niuhuan/daisy](https://github.com/niuhuan/daisy) - 美观易用且无广告的漫画和轻小说客户端, 同时支持MacOS，Windows，Android，iOS。(动漫之家)
 
 *   [2697a/bujuan](https://github.com/2697a/bujuan) - Flutter移动端+桌面端三方网易云播放器
 
