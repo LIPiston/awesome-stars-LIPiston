@@ -24,9 +24,9 @@
 *   [C++](#c-1)
 *   [JavaScript](#javascript)
 *   [Go](#go)
-*   [Vue](#vue)
 *   [Svelte](#svelte)
 *   [C](#c-2)
+*   [Vue](#vue)
 *   [CSS](#css)
 *   [Batchfile](#batchfile)
 *   [Lua](#lua)
@@ -1162,6 +1162,8 @@
 
 *   [yoopta-editor/Yoopta-Editor](https://github.com/yoopta-editor/Yoopta-Editor) - Build Notion-like, Craft-like, Coda-like, Medium-like editors with Yoopta
 
+*   [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup) - a free desktop markdown editor
+
 *   [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 
 *   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -2192,52 +2194,6 @@
 
 *   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
-## Vue
-
-*   [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup) - a free desktop markdown editor
-
-*   [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
-
-*   [Purple-CSGO/CSGO-Toolbox](https://github.com/Purple-CSGO/CSGO-Toolbox) - CSGO工具箱：一个为CSGO游戏的各个方面带来便利的工具集合
-
-*   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
-
-*   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
-
-*   [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀HuLa is a cross-platform instant messaging desktop application based on Tauri v2+Vue3, compatible with Windows, MacOS, Linux, Android, IOS  （HuLa是一款基于Tauri v2+Vue3的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）
-
-*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
-
-*   [LIPiston/MinecraftTextureChecker](https://github.com/LIPiston/MinecraftTextureChecker) -
-
-*   [keleus/BewlyCat](https://github.com/keleus/BewlyCat) - BewlyCat——基于BewlyBewly开发的Bilibili拓展
-
-*   [nieheyong/starflare](https://github.com/nieheyong/starflare) - A web app helps you manage your GitHub stars simply and efficiently
-
-*   [jiangrui1994/CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。
-
-*   [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) - A Dashboard Using Clash API
-
-*   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
-
-*   [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
-
-*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
-
-*   [itchaox/annotree](https://github.com/itchaox/annotree) - Generate folder directory annotation tree | 生成文件夹目录注释树
-
-*   [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) - 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。
-
-*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-
-*   [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) - 一个兼容 OneBot 协议的非官方 QQ Web 客户端、全平台客户端实现！
-
-*   [GlobeMC/crashmc.com](https://github.com/GlobeMC/crashmc.com) - CrashMC.com Website
-
-*   [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
-
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-
 ## Svelte
 
 *   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -2315,6 +2271,50 @@
 *   [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 
 *   [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+
+## Vue
+
+*   [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
+
+*   [Purple-CSGO/CSGO-Toolbox](https://github.com/Purple-CSGO/CSGO-Toolbox) - CSGO工具箱：一个为CSGO游戏的各个方面带来便利的工具集合
+
+*   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
+
+*   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+
+*   [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀HuLa is a cross-platform instant messaging desktop application based on Tauri v2+Vue3, compatible with Windows, MacOS, Linux, Android, IOS  （HuLa是一款基于Tauri v2+Vue3的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）
+
+*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
+
+*   [LIPiston/MinecraftTextureChecker](https://github.com/LIPiston/MinecraftTextureChecker) -
+
+*   [keleus/BewlyCat](https://github.com/keleus/BewlyCat) - BewlyCat——基于BewlyBewly开发的Bilibili拓展
+
+*   [nieheyong/starflare](https://github.com/nieheyong/starflare) - A web app helps you manage your GitHub stars simply and efficiently
+
+*   [jiangrui1994/CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。
+
+*   [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) - A Dashboard Using Clash API
+
+*   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
+
+*   [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
+
+*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
+
+*   [itchaox/annotree](https://github.com/itchaox/annotree) - Generate folder directory annotation tree | 生成文件夹目录注释树
+
+*   [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) - 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。
+
+*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+
+*   [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) - 一个兼容 OneBot 协议的非官方 QQ Web 客户端、全平台客户端实现！
+
+*   [GlobeMC/crashmc.com](https://github.com/GlobeMC/crashmc.com) - CrashMC.com Website
+
+*   [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
+
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
 ## CSS
 
