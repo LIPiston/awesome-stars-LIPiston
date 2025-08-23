@@ -1390,7 +1390,7 @@
 
 *   [Acfboy/twt-werewolf-master-ng](https://github.com/Acfboy/twt-werewolf-master-ng) - Modern generation of twt-werewolf-master
 
-*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
+*   [Sjj1024/PacBao](https://github.com/Sjj1024/PacBao) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
 *   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 
@@ -2554,7 +2554,7 @@
 
 ## Standard ML
 
-*   [miaoermua/CatWrt](https://github.com/miaoermua/CatWrt) - 🌠 客制化 OpenWrt 智能网关
+*   [miaoermua/CatWrt](https://github.com/miaoermua/CatWrt) - 🌠 开源稳定的客制化 OpenWrt 智能网关
 
 ## Markdown
 
