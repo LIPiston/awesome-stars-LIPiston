@@ -858,8 +858,6 @@
 
 *   [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch) - Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
 
-*   [zpj80231/znote](https://github.com/zpj80231/znote) - 🎈VuePress 静态布局 Blog，清新+ 简洁+。
-
 *   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 
 ## miscellaneous
@@ -1190,7 +1188,7 @@
 
 *   [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
 
-*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。A powerful Telegram chat search tool with vector search and semantic matching capabilities.
+*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  A powerful Telegram chat search tool with vector search and semantic matching capabilities.
 
 *   [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) -  一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
 
@@ -2313,6 +2311,8 @@
 *   [GlobeMC/crashmc.com](https://github.com/GlobeMC/crashmc.com) - CrashMC.com Website
 
 *   [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
+
+*   [zpj80231/znote](https://github.com/zpj80231/znote) - 🎈VuePress 静态布局 Blog，清新+ 简洁+。
 
 *   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
