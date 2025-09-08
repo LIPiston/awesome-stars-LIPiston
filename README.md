@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [Python](#python)
 *   [Go](#go)
 *   [C++](#c)
@@ -27,7 +28,6 @@
 *   [Kotlin](#kotlin)
 *   [Svelte](#svelte)
 *   [C](#c-2)
-*   [CSS](#css)
 *   [Batchfile](#batchfile)
 *   [Lua](#lua)
 *   [Objective-C](#objective-c)
@@ -63,6 +63,28 @@
 *   [Squirrel](#squirrel)
 *   [TeX](#tex)
 *   [Thanks](#thanks)
+
+## CSS
+
+*   [dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) - 一个Halo博客主题，Butterfly 🦋
+
+*   [heapwolf/levelui](https://github.com/heapwolf/levelui) - A GUI for LevelDB management based on atom-shell.
+
+*   [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
+
+*   [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+
+*   [KoriIku/luxirty-search](https://github.com/KoriIku/luxirty-search) - 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
+
+*   [GamerNoTitle/CraftMon](https://github.com/GamerNoTitle/CraftMon) - A website that help you get Minecraft server status | 一个用于显示Minecraft服务器在线信息及其他内容的网站
+
+*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+
+*   [GamerNoTitle/Minecraft-Server-Status](https://github.com/GamerNoTitle/Minecraft-Server-Status) - 【已重构，请前往GamerNoTitle/CraftMon】一个用于显示服务器在线信息及其他内容的网站
+
+*   [owen0o0/dujitang](https://github.com/owen0o0/dujitang) - 一言毒鸡汤单页，喜欢就点小星星哦。
+
+*   [adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans) - Sans serif font family for user interface environments
 
 ## Python
 
@@ -1984,8 +2006,6 @@
 
 *   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
-*   [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
-
 ## HTML
 
 *   [merakiuilabs/merakiui](https://github.com/merakiuilabs/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
@@ -2319,26 +2339,6 @@
 *   [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 
 *   [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
-
-## CSS
-
-*   [heapwolf/levelui](https://github.com/heapwolf/levelui) - A GUI for LevelDB management based on atom-shell.
-
-*   [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
-
-*   [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
-
-*   [KoriIku/luxirty-search](https://github.com/KoriIku/luxirty-search) - 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
-
-*   [GamerNoTitle/CraftMon](https://github.com/GamerNoTitle/CraftMon) - A website that help you get Minecraft server status | 一个用于显示Minecraft服务器在线信息及其他内容的网站
-
-*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-
-*   [GamerNoTitle/Minecraft-Server-Status](https://github.com/GamerNoTitle/Minecraft-Server-Status) - 【已重构，请前往GamerNoTitle/CraftMon】一个用于显示服务器在线信息及其他内容的网站
-
-*   [owen0o0/dujitang](https://github.com/owen0o0/dujitang) - 一言毒鸡汤单页，喜欢就点小星星哦。
-
-*   [adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans) - Sans serif font family for user interface environments
 
 ## Batchfile
 
