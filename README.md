@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
 *   [C++](#c)
 *   [Shell](#shell)
@@ -51,7 +52,6 @@
 *   [Inno Setup](#inno-setup)
 *   [XML](#xml)
 *   [Makefile](#makefile)
-*   [CoffeeScript](#coffeescript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Vim script](#vim-script-1)
 *   [GLSL](#glsl)
@@ -64,6 +64,12 @@
 *   [TeX](#tex)
 *   [Scala](#scala)
 *   [Thanks](#thanks)
+
+## CoffeeScript
+
+*   [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
+
+*   [joyqi/sfz](https://github.com/joyqi/sfz) - 专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件）
 
 ## TypeScript
 
@@ -1565,8 +1571,6 @@
 
 *   [Pairman/PTP](https://github.com/Pairman/PTP) - Official Pear Textures Pack Project. Copyright Pairman and 2017 RainbowPixel.
 
-*   [windiest/Front-end-tutorial](https://github.com/windiest/Front-end-tutorial) - :smiley\_cat:猫的前端回忆录 Cat's front memory, these share data are from my usual work and learning, hoping to help you, and hoping slowly improve, if you like you can star
-
 ## C
 
 *   [tsoding/nob.h](https://github.com/tsoding/nob.h) - Header only library for writing build recipes in C.
@@ -2716,10 +2720,6 @@
 ## Makefile
 
 *   [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
-
-## CoffeeScript
-
-*   [joyqi/sfz](https://github.com/joyqi/sfz) - 专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件）
 
 ## Jupyter Notebook
 
