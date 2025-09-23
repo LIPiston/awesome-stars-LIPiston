@@ -119,7 +119,7 @@
 
 *   [markmckinnon/Leveldb-py](https://github.com/markmckinnon/Leveldb-py) - Leveldb Dumper/Viewer
 
-*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）
+*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
 
 *   [TG-Twilight/Starstruck](https://github.com/TG-Twilight/Starstruck) - Starstruck是一个能让你快速统计某个 GitHub 仓库被哪些“显赫人物” Star 过的工具，顺便也能看看大佬们各自的“影响力”。| Starstruck is a tool that quickly shows you which “influential developers” have starred a GitHub repo — and lets you check out their own impact, too.
 
@@ -136,8 +136,6 @@
 *   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
 *   [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-
-*   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 
 *   [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
 
@@ -1016,6 +1014,8 @@
 *   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
 
 *   [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) - serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
+
+*   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 
 *   [eooce/Sing-box](https://github.com/eooce/Sing-box) - 既然来了，就留下你的Star吧！Serv00 | CT8 | Hostuno | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞
 
