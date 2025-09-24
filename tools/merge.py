@@ -1,6 +1,10 @@
 import json
 import re
 from collections import defaultdict
+import pathlib
+
+# 获取项目根目录
+project_root = pathlib.Path(__file__).parent.parent.resolve()
 
 def merge_markdown_files(classified_file, data_file, output_file):
     """
@@ -29,7 +33,7 @@ def merge_markdown_files(classified_file, data_file, output_file):
                 if line.startswith('## '):
                     match = re.match(r'##\s*(.*?)\s*\(', line)
                     current_category = match.group(1).strip() if match else line.replace('##','').strip()
-                elif line.startswith('• '):
+                elif line.startswith(('• ', '* ', '- ')):
                     if current_category:
                         categories[current_category].add(line)
     except FileNotFoundError:
@@ -58,4 +62,7 @@ def merge_markdown_files(classified_file, data_file, output_file):
     print(f"合并完成！已将包含描述的结果写入 {output_file}")
 
 if __name__ == "__main__":
-    merge_markdown_files('classified_stars.md', 'data.json', 'classified_stars.md')
+    tmp_classified_path = project_root / 'classified_stars.md.tmp'
+    final_classified_path = project_root / 'classified_stars.md'
+    data_json_path = project_root / 'data.json'
+    merge_markdown_files(tmp_classified_path, data_json_path, final_classified_path)

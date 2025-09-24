@@ -1,6 +1,14 @@
 import json
 import subprocess
 import os
+import re
+import pathlib
+import time
+
+# 获取项目根目录和工具目录
+script_path = pathlib.Path(__file__).resolve()
+tools_dir = script_path.parent
+project_root = tools_dir.parent
 
 # 您的分类指南，作为提示词的一部分
 PROMPT_GUIDE = """
@@ -33,19 +41,11 @@ GitHub仓库分类指南
 
 分类规则
 
-1. 读取仓库信息: 获取每个仓库的名称、描述、主要语言、星标数、作者和链接。
-2. 关键词匹配: 根据描述中的关键词和仓库用途，匹配到最合适的现有类别。优先使用描述中的关键词，其次考虑语言和项目类型。
-3. 创建新类别: 如果仓库不匹配任何现有类别，基于仓库内容创建新类别。新类别名称应简洁明了，反映仓库的主要用途（如“硬件”、“AI”、“游戏”等）。
-4. 输出格式: 使用Markdown格式输出，每个类别以##开头，仓库列表使用无序列表（•），每个仓库包括名称（链接）、星标数、语言、作者和描述。
-
-输出格式要求
-
-对于每个类别，输出如下：
-## 📂 类别名称 (数量 Repos)
-
-• [`仓库名称`](仓库链接) ★星标数 — *主要语言* — _作者_
-
-> 描述
+1. **阅读README**: 在分类前，请访问每个仓库的 `html_url` 链接，并阅读其 `README.md` 文件的内容。这是分类的最重要参考。
+2. 读取仓库信息: 获取每个仓库的名称、描述、主要语言、星标数、作者和链接。
+3. 关键词匹配: 优先结合 `README.md` 内容和仓库描述中的关键词及用途，匹配到最合适的现有类别。
+4. 创建新类别: 如果仓库不匹配任何现有类别，基于 `README.md` 和描述内容创建新类别。新类别名称应简洁明了。
+5. 输出格式: 使用Markdown格式输出，每个类别以##开头，仓库列表使用无序列表（•），每个仓库包括名称（链接）、星标数、语言、作者和描述。
 
 """
 
@@ -54,10 +54,10 @@ def call_gemini_cli(prompt_text):
     通过 os.system 调用 Gemini CLI，并将输出重定向到临时文件，然后读取该文件。
     """
     gemini_cmd_path = r'C:\Users\LIPiston\AppData\Roaming\npm\gemini.cmd'
-    output_tmp_file = 'gemini_output.tmp'
+    # 在 tools 文件夹内创建临时文件
+    output_tmp_file = tools_dir / 'gemini_output.tmp'
+    prompt_tmp_file = tools_dir / 'prompt.tmp'
     
-    # 为了防止 prompt_text 中的特殊字符（如 "）破坏命令，我们先将其写入一个临时文件
-    prompt_tmp_file = 'prompt.tmp'
     try:
         with open(prompt_tmp_file, 'w', encoding='utf-8') as f:
             f.write(prompt_text)
@@ -71,8 +71,6 @@ def call_gemini_cli(prompt_text):
         
         if return_code != 0:
             print(f"调用 Gemini CLI 失败，返回码: {return_code}")
-            # 尝试读取错误输出（如果 gemini cli 将其输出到 stderr，os.system 无法直接捕获）
-            # 这里我们只能给一个通用提示
             if os.path.exists(output_tmp_file):
                 with open(output_tmp_file, 'r', encoding='utf-8') as f:
                     error_output = f.read()
@@ -95,51 +93,64 @@ def call_gemini_cli(prompt_text):
             os.remove(prompt_tmp_file)
 
 def main():
+    data_json_path = project_root / 'data.json'
+    classified_stars_path = project_root / 'classified_stars.md.tmp'
+    # 使用独立的状态文件
+    state_file_path = tools_dir / 'classification_state.json'
+
+    # 1. 加载状态文件，获取已处理的仓库
+    processed_repos = set()
+    if state_file_path.exists():
+        try:
+            with open(state_file_path, 'r', encoding='utf-8') as f:
+                processed_repos = set(json.load(f))
+            print(f"检测到状态文件，已加载 {len(processed_repos)} 个已处理的仓库。")
+        except json.JSONDecodeError:
+            print("警告: 状态文件为空或格式错误，将重新开始。")
+            processed_repos = set()
+    
+    # 2. 从 data.json 加载所有仓库，并过滤
     try:
-        with open('data.json', 'r', encoding='utf-8') as f:
+        with open(data_json_path, 'r', encoding='utf-8') as f:
             all_repos_by_lang = json.load(f)
     except FileNotFoundError:
-        print("错误：未找到 data.json 文件。请确保您的GitHub star数据已保存到该文件中。")
+        print(f"错误：未找到 {data_json_path} 文件。")
         return
 
-    # 将所有语言的仓库合并到一个列表中
-    all_repos = []
-    for lang, repos in all_repos_by_lang.items():
-        all_repos.extend(repos)
+    all_repos = [repo for lang_repos in all_repos_by_lang.values() for repo in lang_repos]
+    pending_repos = [repo for repo in all_repos if repo.get('full_name') not in processed_repos]
 
-    chunk_size = 50  # 每个分块处理50个仓库
-    all_chunks = [all_repos[i:i + chunk_size] for i in range(0, len(all_repos), chunk_size)]
-    
-    final_markdown = ""
+    if not pending_repos:
+        print("\n所有仓库均已分类，无需操作。")
+        print(f"如需重新分类，请删除 {state_file_path} 和 {classified_stars_path}")
+        return
+
+    print(f"总共有 {len(all_repos)} 个仓库，其中 {len(pending_repos)} 个待分类。")
+
+    # 3. 对待办仓库进行分块处理
+    chunk_size = 20
+    all_chunks = [pending_repos[i:i + chunk_size] for i in range(0, len(pending_repos), chunk_size)]
     total_chunks = len(all_chunks)
 
-    print(f"总共有 {len(all_repos)} 个仓库，将分 {total_chunks} 个批次进行处理...")
-
-    # 清空或创建最终的输出文件
-    with open('classified_stars.md', 'w', encoding='utf-8') as f:
-        f.write("") # 写入空字符串以清空文件
+    print(f"将分 {total_chunks} 个批次进行处理...")
 
     for i, chunk in enumerate(all_chunks):
         print(f"\n--- 正在处理批次 {i + 1}/{total_chunks} ---")
         
-        # 为当前分块构建提示语
-        # 注意：这里我们不再按语言分组，而是让AI对整个列表分类
         repo_list_json = json.dumps(chunk, indent=4)
         full_prompt = (
-            PROMPT_GUIDE +
+            PROMPT_GUIDE + 
             "\n\n请严格按照上述指南对以下GitHub仓库列表进行分类并输出 Markdown 文档。不要添加任何额外的介绍或总结，只需输出分类好的 Markdown 列表：\n" +
             "```json\n" + repo_list_json + "\n```"
         )
         
         print(f"正在调用 Gemini CLI 处理 {len(chunk)} 个仓库...")
         
-        # 调用 Gemini CLI
         markdown_output = call_gemini_cli(full_prompt)
         
         if markdown_output:
-            # 将结果追加到文件
-            with open('classified_stars.md', 'a', encoding='utf-8') as f:
-                # 移除可能存在的 ```markdown 包装
+            # 以追加模式写入文件
+            with open(classified_stars_path, 'a', encoding='utf-8') as f:
                 if markdown_output.startswith("```markdown"):
                     markdown_output = markdown_output[len("```markdown"):].strip()
                 if markdown_output.endswith("```"):
@@ -147,11 +158,15 @@ def main():
                 
                 f.write(markdown_output + "\n\n")
             print(f"批次 {i + 1} 处理完成。")
+            # 在两次请求之间加入延迟，以避免达到速率限制
+            print("等待 10 秒钟...")
+            time.sleep(10)
         else:
-            print(f"批次 {i + 1} 处理失败，跳过此批次。")
-            continue
+            print(f"批次 {i + 1} 处理失败，请检查错误并手动重新运行。")
+            # 由于不再有断点续传，遇到失败就直接退出
+            return
 
-    print("\n所有批次处理完成！结果已聚合到 classified_stars.md 文件中。")
+    print("\n所有批次处理完成！结果已写入 classified_stars.md.tmp 文件中。")
 
 if __name__ == "__main__":
     main()
