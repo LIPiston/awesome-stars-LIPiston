@@ -2,6 +2,7 @@ import os
 import re
 import pathlib
 import json
+from urllib.parse import quote
 
 def generate_stats():
     """
@@ -57,7 +58,7 @@ def generate_stats():
         f.write("## 目录\n\n")
 
         for category_name, stats in category_stats.items():
-            f.write(f"- [{category_name}]('{stats['path']}') - ({stats['count']} 个仓库)\n")
+            f.write(f"- [{category_name}]({quote(stats['path'])}) - ({stats['count']} 个仓库)\n")
         
         f.write("\n---\n\n")
         f.write("## 数据完整性报告\n\n")
