@@ -1,9 +1,10 @@
 # AI 分类索引
 
-> ✨ 目前总共分类了 **452 / 1300** 个仓库。
+> ✨ 目前总共分类了 **507 / 1300** 个仓库。
 
 ## 目录
 
+- [ADB 生态](ADB%20%E7%94%9F%E6%80%81.md) - (8 个仓库)
 - [AI 大模型](AI%20%E5%A4%A7%E6%A8%A1%E5%9E%8B.md) - (16 个仓库)
 - [AI 智能体](AI%20%E6%99%BA%E8%83%BD%E4%BD%93.md) - (7 个仓库)
 - [Comic Readers](Comic%20Readers.md) - (9 个仓库)
@@ -16,24 +17,29 @@
 - [Minecraft Community](Minecraft%20Community.md) - (57 个仓库)
 - [OpenWrt 生态](OpenWrt%20%E7%94%9F%E6%80%81.md) - (5 个仓库)
 - [QQ 第三方生态](QQ%20%E7%AC%AC%E4%B8%89%E6%96%B9%E7%94%9F%E6%80%81.md) - (14 个仓库)
-- [QQ](QQ.md) - (1 个仓库)
 - [Rime 生态](Rime%20%E7%94%9F%E6%80%81.md) - (31 个仓库)
 - [TVBox 生态](TVBox%20%E7%94%9F%E6%80%81.md) - (14 个仓库)
+- [Vim & Neovim 生态](Vim%20%26%20Neovim%20%E7%94%9F%E6%80%81.md) - (14 个仓库)
 - [Windows System Utilities](Windows%20System%20Utilities.md) - (39 个仓库)
 - [Xposed 生态](Xposed%20%E7%94%9F%E6%80%81.md) - (32 个仓库)
+- [qq](qq.md) - (1 个仓库)
 - [代理生态](%E4%BB%A3%E7%90%86%E7%94%9F%E6%80%81.md) - (33 个仓库)
 - [博客系统](%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F.md) - (5 个仓库)
 - [哔哩哔哩第三方生态](%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E7%AC%AC%E4%B8%89%E6%96%B9%E7%94%9F%E6%80%81.md) - (11 个仓库)
 - [字体生态](%E5%AD%97%E4%BD%93%E7%94%9F%E6%80%81.md) - (31 个仓库)
+- [广告拦截生态](%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E7%94%9F%E6%80%81.md) - (7 个仓库)
 - [油猴生态](%E6%B2%B9%E7%8C%B4%E7%94%9F%E6%80%81.md) - (3 个仓库)
+- [终端生态](%E7%BB%88%E7%AB%AF%E7%94%9F%E6%80%81.md) - (7 个仓库)
 - [编辑器生态](%E7%BC%96%E8%BE%91%E5%99%A8%E7%94%9F%E6%80%81.md) - (16 个仓库)
+- [网盘助手](%E7%BD%91%E7%9B%98%E5%8A%A9%E6%89%8B.md) - (4 个仓库)
 - [阅读书源](%E9%98%85%E8%AF%BB%E4%B9%A6%E6%BA%90.md) - (8 个仓库)
+- [音乐生态](%E9%9F%B3%E4%B9%90%E7%94%9F%E6%80%81.md) - (15 个仓库)
 
 ---
 
 ## 数据完整性报告
 
-⚠️ **发现 848 个丢失的仓库！**
+⚠️ **发现 794 个丢失的仓库！**
 
 以下仓库存在于 `data.json` 但未在任何分类文件中找到。请检查 `tools/classification_state.json` 并重新运行 `ai-classify.py` 来处理它们。
 
@@ -51,7 +57,6 @@
 - `670848654/SakuraAnime`
 - `AChep/keyguard-app`
 - `AIsouler/GKD_subscription`
-- `AZ-Studio-2023/AZMusicDownloader`
 - `AZeC4/TelegramGroup`
 - `Acfboy/twt-werewolf-master-ng`
 - `ActivityWatch/activitywatch`
@@ -80,11 +85,8 @@
 - `BeyondDimension/SteamTools`
 - `Bill-Stewart/SyncthingWindowsSetup`
 - `Bistutu/FluentRead`
-- `Bistutu/GoMusic`
-- `BlueSkyXN/AdGuardHomeRules`
 - `C4illin/ConvertX`
 - `CaaMoe/MultiLogin`
-- `Cabbagec/termux-ohmyzsh`
 - `Carole007/midm-release`
 - `Cateners/tiny_computer`
 - `Cats-Team/AdRules`
@@ -111,14 +113,12 @@
 - `DrewThomasson/ebook2audiobook`
 - `Droid-ify/client`
 - `DroidWorksStudio/EasyLauncher`
-- `Earthcomputer/clientcommands`
 - `EdgelessPE/Edgeless`
 - `ElishaAz/Sayboard`
 - `End-Tech/syncmatica`
 - `ErisPulse/ErisPulse`
 - `Eugeny/tabby`
 - `FBlackBox/BlackBox`
-- `FLHonker/vim-plus-plus`
 - `FaIryFlower/FairyFlower.github.io`
 - `Fallen-Breath/litematica-server-paster`
 - `Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project`
@@ -134,7 +134,6 @@
 - `Gar-b-age/CookLikeHOC`
 - `Generator/Grub2-themes`
 - `GlobeMC/crashmc.com`
-- `GuoXiCheng/SKIP`
 - `HChenX/AppRetention`
 - `Hackl0us/GeoIP2-CN`
 - `HandBrake/HandBrake`
@@ -153,7 +152,6 @@
 - `ImageMagick/ImageMagick`
 - `InkCanvas/Ink-Canvas-Artistry`
 - `InkCanvas/InkCanvasForClass`
-- `InputShare/InputShare`
 - `ItMarki/MisekiBitmap`
 - `J-11/Aseprite-Simplified-Chinese`
 - `Java-S12138/frank`
@@ -163,7 +161,6 @@
 - `JustArchiNET/ArchiSteamFarm`
 - `K11MCH1/AdrenoToolsDrivers`
 - `KHwang9883/MobileModels`
-- `KRTirtho/spotube`
 - `Kahzerx/kcp-mod`
 - `Katana-Official/SPatch-Update`
 - `Keldos-Li/typora-latex-theme`
@@ -173,19 +170,14 @@
 - `KernelSU-Next/KernelSU-Next`
 - `KitsunePie/QQCleaner`
 - `Klocman/Bulk-Crap-Uninstaller`
-- `KoriIku/luxirty-search`
-- `KurtBestor/Hitomi-Downloader`
 - `KusStar/rewind-apks`
 - `KusStar/rewind-docs`
 - `LIPiston/csgo-cfg`
-- `LIPiston/vimplus`
 - `LIlGG/plugin-live2d`
 - `LLOneBot/LLOneBot`
 - `LMODroid/platform_packages_apps_LMOFreeform`
 - `LawnchairLauncher/lawnchair`
 - `LawnchairLauncher/lawnicons`
-- `LazyVim/LazyVim`
-- `LazyVim/starter`
 - `LeanxModulostk/wifi-bonding-nolog`
 - `LeavesMC/Leaves`
 - `Legacy-Edge/Legacy-Edge-Launcher`
@@ -210,14 +202,13 @@
 - `MeowCracker/MobaGenkey`
 - `MetaCubeX/mihomo`
 - `Michael-A-Kuykendall/shimmy`
+- `MincraftEinstein/SubtleEffects`
 - `MkQtS/Carefree`
 - `MlgmXyysd/Xiaomi-BootLoader-Questionnaire`
 - `MobileGL-Dev/MobileGlues-release`
-- `Moriafly/SaltPlayerSource`
 - `Mr-xn/hackbar2.1.3`
 - `Mrs4s/go-cqhttp`
 - `MuntashirAkon/AppManager`
-- `Musish/Musish`
 - `Mzdyl/LiteLoaderQQNT_Install`
 - `NEKOparapa/AiNiee`
 - `Naruto-Senki/files`
@@ -231,7 +222,6 @@
 - `NihilityT/MiPushFramework`
 - `Notsfsssf/pixez-flutter`
 - `Nuitka/Nuitka`
-- `NvChad/NvChad`
 - `Nyan-Work/oh-my-minecraft-client`
 - `OOM-WG/ShiroSU-Utils`
 - `OdysseusYuan/LKY_OfficeTools`
@@ -259,22 +249,18 @@
 - `Purple-CSGO/CSGO-Config-Presets`
 - `Purple-CSGO/CSGO-Toolbox`
 - `Python3WebSpider/ProxyPool`
-- `QingJ01/123pan_unlock`
 - `ReadYouApp/ReadYou`
 - `RealKai42/qwerty-learner`
 - `Red-Killer/shit`
 - `RedJue/git-commit-plugin`
 - `ResetPower/rcs`
-- `RetroMusicPlayer/RetroMusicPlayer`
 - `Richasy/Bili.Copilot`
-- `RikkaApps/Shizuku`
 - `RikkaApps/StorageRedirect-assets`
 - `RikkaApps/Sui`
 - `RimoChan/sese-engine`
 - `RipplePiam/MobaXterm-Chinese-Simplified`
 - `RohitVerma882/termux-miunlock`
 - `RubyMetric/chsrc`
-- `SchneeSchmitt/ADB-Android-Optimizer`
 - `Semporia/TikTok-Unlock`
 - `ShadowWhisperer/Remove-MS-Edge`
 - `ShouChenICU/FastSend`
@@ -283,6 +269,7 @@
 - `SlimeNull/EasyConv`
 - `SoLegendary/reignofnether`
 - `Sticky-attention/Sticky-attention`
+- `Stremio/stremio-web`
 - `SuGar0218/PreLaunchTaskr`
 - `SukiSU-Ultra/SukiSU-Ultra`
 - `SunsetMkt/anti-ip-attribution`
@@ -300,7 +287,6 @@
 - `Terminus2049/Not-exist-in-douban`
 - `Textualize/textual`
 - `The-Run-Philosophy-Organization/run`
-- `TheNiteCoder/mountaineer.vim`
 - `TheresaQWQ/BroadcastOnAirDanmaku`
 - `Tornaco/Thanox`
 - `TrionesType/zhuque`
@@ -322,12 +308,12 @@
 - `XAMPPRocky/tokei`
 - `XIU2/CloudflareSpeedTest`
 - `XIU2/TrackersListCollection`
-- `XIU2/UserScript`
 - `XayahSuSuSu/Android-DataBackup`
 - `XiaoMi/ha_xiaomi_home`
 - `XiaoMiku01/fansMedalHelper`
 - `XingC123/BackgroundOpt`
 - `Xmader/aria-ng-gui-android`
+- `Xposed-Modules-Repo/com.bug.hookvip`
 - `YanG-1989/m3u`
 - `YerongAI/Office-Tool`
 - `Yidadaa/shuangpin`
@@ -354,7 +340,6 @@
 - `aivanovski/keepassvault`
 - `alex8088/electron-vite`
 - `alexhua/Aria2-Explorer`
-- `algerkong/AlgerMusicPlayer`
 - `allrobot/KeyCastOW_chinese`
 - `alovajs/alova`
 - `alpha-liu-01/SpeedyNote`
@@ -368,8 +353,6 @@
 - `anuraghazra/github-readme-stats`
 - `anyneko/OneTextLibrary_Netease_Unoffical`
 - `aormsby/Fork-Sync-With-Upstream-action`
-- `archlinuxcn/mirrorlist-repo`
-- `aria2/aria2`
 - `aristocratos/btop`
 - `atelier-anchor/smiley-sans`
 - `autoscrape-labs/pydoll`
@@ -401,6 +384,7 @@
 - `brightmart/nlp_chinese_corpus`
 - `browser-use/workflow-use`
 - `brunodev85/winlator`
+- `bszapp/android-wifi-pojie`
 - `bukson/steampy`
 - `burningtnt/Terracotta`
 - `ca110us/epeius`
@@ -415,12 +399,9 @@
 - `ccbikai/Sink`
 - `cellos51/balatro-gba`
 - `chase535/accurate_battery`
-- `chen310/NeteaseCloudMusicTasks`
 - `chenxiaolong/RSAF`
-- `chenzyadb/CuprumTurbo-Scheduler`
 - `chocolatey/choco`
 - `chubin/wttr.in`
-- `chxuan/vimplus`
 - `cinit/QAuxiliary`
 - `cjh0613/strict-sensitive-word`
 - `cjh0613/tencent-sensitive-words`
@@ -461,7 +442,6 @@
 - `dulnan/lazy-brush`
 - `duplicati/duplicati`
 - `easybangumiorg/EasyBangumi`
-- `eendroroy/alien`
 - `elk-zone/elk`
 - `endless-sky/endless-sky`
 - `eritpchy/FingerprintPay`
@@ -482,6 +462,7 @@
 - `fatedier/frp`
 - `fei-ke/HMSPush`
 - `fei-ke/HmsPushZygisk`
+- `festoney8/LiteLoaderQQNT-Telegram-Theme`
 - `fi3ework/hexo-theme-archer`
 - `fish-shell/fish-shell`
 - `floccusaddon/floccus`
@@ -504,7 +485,6 @@
 - `gloeyisk/universal-gms-doze`
 - `gnembon/carpet-extra`
 - `go-gitea/gitea`
-- `go-musicfox/go-musicfox`
 - `goto456/stopwords`
 - `grbnb/xp_module`
 - `greyCloudTeam/MCDrink`
@@ -521,18 +501,14 @@
 - `heapwolf/levelui`
 - `hectorqin/reader`
 - `hiroi-sora/Umi-OCR`
-- `hmjz100/123panYouthMember`
-- `hmjz100/LinkSwift`
 - `honmaple/maple-file`
 - `horsemail/yourtv`
 - `hotpad100c/yetanothercarpetaddition`
 - `iamcco/ds-pinyin-lsp`
-- `iamcco/markdown-preview.nvim`
 - `iamr0s/Dhizuku`
 - `iamr0s/InstallerX`
 - `icret/EasyImages2.0`
 - `idea4good/GuiLite`
-- `iggredible/Learn-Vim`
 - `ihciah/shadow-tls`
 - `imDazui/Tvlist-awesome-m3u-m3u8`
 - `imknown/AndroidLowLevelDetector`
@@ -544,7 +520,6 @@
 - `itorr/eva-title`
 - `izabera/bitwise-challenge-2048`
 - `jackfrued/Python-100-Days`
-- `jadepeng/XMusicDownloader`
 - `jaredcat/WiFiList`
 - `jark006/JarkViewer`
 - `jeessy2/ddns-go`
@@ -580,7 +555,6 @@
 - `kisslove/web-monitoring`
 - `koishijs/koishi`
 - `kovidgoyal/calibre`
-- `kovidgoyal/kitty`
 - `kubesphere/kubesphere`
 - `kyujin-cho/pixel-volte-patch`
 - `laishulu/Sarasa-Term-SC-Nerd`
@@ -593,12 +567,9 @@
 - `librespeed/speedtest`
 - `libvirt/libvirt`
 - `libxzr/KonaBess`
-- `limbopro/Adblock4limbo`
 - `lingeringsound/10007`
-- `lingeringsound/adblock_auto`
 - `lint-md/lint-md`
 - `linxuan8233/Kalmiagram`
-- `liriliri/aya`
 - `liseami/DeepRant`
 - `littleHiuman/Copyright-free-picture-website`
 - `lizongying/my-tv`
@@ -618,31 +589,27 @@
 - `lutris/lutris`
 - `lwch/natpass`
 - `lxgr-linux/pokete`
-- `lyswhut/lx-music-desktop`
-- `lyswhut/lx-music-mobile`
 - `lz233/OneText-Library`
 - `lz233/Tarnhelm`
 - `maebert/themostdangerouswritingapp`
 - `makipom/BlueArchive-Cursors`
-- `maotoumao/MusicFree`
 - `marcomaroni-github/twitter-to-bluesky`
 - `markmap/markmap`
 - `markmckinnon/Leveldb-py`
 - `mastodon/mastodon`
 - `material-foundation/material-color-utilities`
 - `maxgoedjen/secretive`
-- `mayswind/AriaNg`
 - `mayswind/ezbookkeeping`
 - `mcmilk/7-Zip-zstd`
 - `mediacms-io/mediacms`
 - `merakiuilabs/merakiui`
-- `metakirby5/codi.vim`
 - `mgth/LittleBigMouse`
 - `michelpereira/awesome-open-source-games`
 - `microg/GmsCore`
 - `microsoft/markitdown`
 - `mir1ce/Hawkeye`
 - `mitesh77/Best-Flutter-UI-Templates`
+- `mlocati/docker-php-extension-installer`
 - `mmulet/term.everything`
 - `modelcontextprotocol/registry`
 - `moesoha/debian-media-box`
@@ -655,21 +622,18 @@
 - `myflavor/NoActive-V2`
 - `natanfudge/Not-Enough-Crashes`
 - `neoblackxt/AnyWebView`
-- `neovim/neovim`
 - `newhinton/Round-Sync`
 - `newren/git-filter-repo`
 - `nextcloud/all-in-one`
 - `ngosang/trackerslist`
 - `nikitasius/Telegraher`
 - `noah-nuebling/mac-mouse-fix`
-- `nohajc/termux-adb`
 - `nordtheme/nord`
 - `nordtheme/terminal-app`
 - `nothings/stb`
 - `notracking/hosts-blocklists`
 - `notxx/MiPushZygisk`
 - `nufeng1999/WSL_GNOME`
-- `nvim-neo-tree/neo-tree.nvim`
 - `nxshell/nxshell`
 - `oasisfeng/island`
 - `objective-see/LuLu`
@@ -706,14 +670,12 @@
 - `pzcn/Perfect-Icons-Completion-Project`
 - `qd-today/qd`
 - `r0x0r/pywebview`
-- `rRemix/APlayer`
 - `rbetree/MarksVault`
 - `rclone/rclone`
 - `readest/readest`
 - `retspen/webvirtcloud`
 - `robot00f/Flyme-FreeForm`
 - `rogden/tailwind-config-viewer`
-- `romkatv/zsh4humans`
 - `ruanyf/document-style-guide`
 - `ruffle-rs/ruffle`
 - `ruffle-rs/ruffle-android`
@@ -753,7 +715,6 @@
 - `skywind3000/kcp`
 - `sorayuki/obs-multi-rtmp`
 - `spacedriveapp/spacedrive`
-- `sparanoid/chinese-copywriting-guidelines`
 - `ssut/payload-dumper-go`
 - `std-microblock/chromatic`
 - `studyzy/imewlconverter`
@@ -796,7 +757,6 @@
 - `twoone-3/AdGuardHomeForRoot`
 - `twoyi/twoyi`
 - `twt-tec/werewolf-master`
-- `tytydraco/LADB`
 - `uncle-novel/uncle-novel-android`
 - `ungoogled-software/ungoogled-chromium`
 - `univrsal/input-overlay`
@@ -809,12 +769,9 @@
 - `vacla/Watson`
 - `vbskycn/iptv`
 - `ventoy/Ventoy`
-- `vfsfitvnm/ViMusic`
 - `viarotel-org/escrcpy`
 - `vicinaehq/vicinae`
 - `vietnh1009/ASCII-generator`
-- `vim-scripts/VimIM`
-- `vim/vim`
 - `vinceliuice/grub2-themes`
 - `vosen/ZLUDA`
 - `vsme/chinese-days`
@@ -858,16 +815,13 @@
 - `ymyuuu/Cloudflare-Workers-Proxy`
 - `yonggekkk/warp-yg`
 - `yosebyte/nodepass`
-- `yudai/gotty`
 - `yutto-dev/yutto`
 - `yuzu233/anti-ocr`
-- `z44499783/NoADList`
 - `zauberzeug/nicegui`
 - `zen-browser/desktop`
 - `zer0k-z/cs2-movement-issues`
 - `zero-peak/ZeroOmega`
 - `zeruniverse/boardgame_helper`
-- `zfdang/Android-Touch-Helper`
 - `zfile-dev/zfile`
 - `zh-lx/pinyin-pro`
 - `zhaobozhen/Anywhere-`
@@ -877,10 +831,8 @@
 - `zhongyang219/TrafficMonitor`
 - `zhucaidan/mtr_trace`
 - `zijie0/HumanSystemOptimization`
+- `zjyzip/AdClose`
 - `zmister2016/MrDoc`
-- `zsh-users/zsh-autosuggestions`
-- `zsh-users/zsh-syntax-highlighting`
-- `zsh2401/AutumnBox`
 - `ztc1997/FakeDCBacklight`
 - `zu1k/nali`
 - `zyddnys/manga-image-translator`
