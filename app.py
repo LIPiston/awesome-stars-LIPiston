@@ -13,7 +13,7 @@ import asyncio
 # --- Core Logic & Setup ---
 app_path = pathlib.Path(__file__).parent.resolve()
 categories_dir = app_path / 'categories'
-data_json_path = app_path / 'data.json'
+data_json_path = app_path / 'stars.json'
 state_file_path = app_path / 'classification_state.json' 
 
 all_repos, pending_repos, processed_repos = {}, [], set()
@@ -100,13 +100,13 @@ def load_data():
     
     try:
         with open(data_json_path, 'r', encoding='utf-8') as f: all_repos_by_lang = json.load(f)
-        all_repos = {repo['full_name']: repo for lang_repos in all_repos_by_lang.values() for repo in lang_repos}
+        all_repos = {repo['full_name']: repo for repo in all_repos_by_lang}
         pending_repos = [repo for repo in all_repos.values() if repo.get('full_name') not in processed_repos]
         random.shuffle(pending_repos)
         print(f"Loaded {len(all_repos)} total repos.")
         print(f"Found {len(pending_repos)} pending repos.")
     except Exception as e:
-        print(f"[ERROR] Could not load data.json: {e}")
+        print(f"[ERROR] Could not load stars.json: {e}")
         all_repos, pending_repos = {}, []
     print("--- Data loading complete ---")
 

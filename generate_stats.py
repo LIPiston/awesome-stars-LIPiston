@@ -11,7 +11,7 @@ def generate_stats():
     project_root = pathlib.Path(__file__).parent.resolve()
     categories_dir = project_root / 'categories'
     readme_path = categories_dir / 'README.md'
-    data_json_path = project_root / 'data.json'
+    data_json_path = project_root / 'stars.json'
 
     if not categories_dir.exists():
         print(f"错误: 目录 '{categories_dir}' 不存在。")
@@ -40,11 +40,11 @@ def generate_stats():
                 for _, full_name in found_repos:
                     classified_repo_names.add(full_name)
 
-    # --- 2. 从 data.json 加载源数据进行比对 ---
+    # --- 2. 从 stars.json 加载源数据进行比对 ---
     try:
         with open(data_json_path, 'r', encoding='utf-8') as f:
             all_repos_by_lang = json.load(f)
-        source_repo_names = {repo['full_name'] for lang_repos in all_repos_by_lang.values() for repo in lang_repos}
+        source_repo_names = {repo['full_name'] for repo in all_repos_by_lang}
     except (FileNotFoundError, json.JSONDecodeError):
         source_repo_names = set()
         print(f"警告: 无法加载或解析 {data_json_path}，跳过完整性检查。")
@@ -64,10 +64,10 @@ def generate_stats():
         f.write("## 数据完整性报告\n\n")
 
         if not missing_repos:
-            f.write("✅ **数据完整**：所有在 `data.json` 中的仓库都已成功分类。\n")
+            f.write("✅ **数据完整**：所有在 `stars.json` 中的仓库都已成功分类。\n")
         else:
             f.write(f"⚠️ **发现 {len(missing_repos)} 个丢失的仓库！**\n\n")
-            f.write("以下仓库存在于 `data.json` 但未在任何分类文件中找到。请检查 `tools/classification_state.json` 并重新运行 `ai-classify.py` 来处理它们。\n\n")
+            f.write("以下仓库存在于 `stars.json` 但未在任何分类文件中找到。请检查 `tools/classification_state.json` 并重新运行 `ai-classify.py` 来处理它们。\n\n")
             for repo_name in sorted(list(missing_repos)):
                 f.write(f"- `{repo_name}`\n")
 

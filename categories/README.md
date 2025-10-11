@@ -1,6 +1,6 @@
 # AI 分类索引
 
-> ✨ 目前总共分类了 **575 / 1300** 个仓库。
+> ✨ 目前总共分类了 **575 / 1379** 个仓库。
 
 ## 目录
 
@@ -47,9 +47,9 @@
 
 ## 数据完整性报告
 
-⚠️ **发现 726 个丢失的仓库！**
+⚠️ **发现 804 个丢失的仓库！**
 
-以下仓库存在于 `data.json` 但未在任何分类文件中找到。请检查 `tools/classification_state.json` 并重新运行 `ai-classify.py` 来处理它们。
+以下仓库存在于 `stars.json` 但未在任何分类文件中找到。请检查 `tools/classification_state.json` 并重新运行 `ai-classify.py` 来处理它们。
 
 - `1357310795/MyComputerManager`
 - `15dd/wenku8reader`
@@ -61,6 +61,7 @@
 - `3proxy/3proxy`
 - `44670/SourceHanSans-Pixel`
 - `5ec1cff/TrickyStore`
+- `8Mi-Tech/LSPatch-ApkFactory`
 - `AChep/keyguard-app`
 - `AIsouler/GKD_subscription`
 - `AZeC4/TelegramGroup`
@@ -70,11 +71,15 @@
 - `Aira-Sakuranomiya/CleanFlashInstaller`
 - `Aizistral-Studios/No-Chat-Reports`
 - `AlistGo/alist`
+- `Almamu/linux-wallpaperengine`
+- `Andrews54757/tweakfork`
 - `Anduin2017/HowToCook`
 - `Angel-Studio/MaterialYou-Dynamic-Island`
 - `Angey40/BaiduPCS-Go`
 - `AnubisNekhet/AnuPpuccin`
+- `Anuken/Mindustry`
 - `Anxcye/anx-reader`
+- `AnzhiZhang/MCDReforgedPlugins`
 - `ApliNi/IpacLinker`
 - `Astro-2539/ZLabs-Bitmap`
 - `Authenticator-Extension/Authenticator`
@@ -85,9 +90,13 @@
 - `BandBBS-Vela-Dev/com.bandbbs.ebook`
 - `BetterDiscord/BetterDiscord`
 - `BeyondDimension/SteamTools`
+- `BililiveRecorder/BililiveRecorder`
 - `Bill-Stewart/SyncthingWindowsSetup`
 - `C4illin/ConvertX`
+- `CFPAOrg/Minecraft-Mod-Language-Package`
 - `CaaMoe/MultiLogin`
+- `CaffeineMC/sodium`
+- `CardboardPowered/cardboard`
 - `Carole007/midm-release`
 - `Cats-Team/AdRules`
 - `ChinaIceF/PyQt-SiliconUI`
@@ -111,27 +120,40 @@
 - `DrewThomasson/ebook2audiobook`
 - `Droid-ify/client`
 - `DroidWorksStudio/EasyLauncher`
+- `Earthcomputer/clientcommands`
+- `EasyTier/EasyTier`
 - `EdgelessPE/Edgeless`
 - `ElishaAz/Sayboard`
 - `End-Tech/syncmatica`
+- `ErLinErYi/PlantsVsZombies`
 - `ErisPulse/ErisPulse`
 - `Eugeny/tabby`
 - `FBlackBox/BlackBox`
 - `FaIryFlower/FairyFlower.github.io`
+- `FabricMC/fabric`
+- `Fabulously-Optimized/fabulously-optimized`
 - `Fallen-Breath/litematica-server-paster`
+- `Fallen-Breath/tweakermore`
 - `Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project`
 - `FongMi/TV`
 - `Freezer-Team/Freezer`
 - `GSWXXN/RestoreSplashScreen`
 - `GamerNoTitle/BiliLive-Utility`
 - `GamerNoTitle/Hitokoto-Spider`
+- `GamerNoTitle/MCDR-Mirror-Server`
 - `GamerNoTitle/Netease-Comment-Spider`
 - `GamerNoTitle/WorthIt`
 - `Gaoyifei1011/GetStoreApp`
 - `Gar-b-age/CookLikeHOC`
+- `GeForceLegend/Minecraft-3D-Default`
 - `Generator/Grub2-themes`
+- `Genymobile/scrcpy`
 - `GlobeMC/crashmc.com`
+- `GrowingGit/GitHub-Chinese-Top-Charts`
 - `HChenX/AppRetention`
+- `HMCL-dev/HMCL`
+- `HMCL-dev/HMCL-Update`
+- `HMCL-dev/HMCL-docs`
 - `Hackl0us/GeoIP2-CN`
 - `HandBrake/HandBrake`
 - `Heavrnl/nexus-terminal`
@@ -149,6 +171,7 @@
 - `ImageMagick/ImageMagick`
 - `InkCanvas/Ink-Canvas-Artistry`
 - `InkCanvas/InkCanvasForClass`
+- `IrisShaders/Iris`
 - `ItMarki/MisekiBitmap`
 - `J-11/Aseprite-Simplified-Chinese`
 - `Java-S12138/frank`
@@ -170,6 +193,7 @@
 - `LIlGG/plugin-live2d`
 - `LLOneBot/LLOneBot`
 - `LMODroid/platform_packages_apps_LMOFreeform`
+- `LXYan2333/Fabric-Bedrock-Miner`
 - `LawnchairLauncher/lawnchair`
 - `LawnchairLauncher/lawnicons`
 - `LeanxModulostk/wifi-bonding-nolog`
@@ -187,6 +211,9 @@
 - `LuckyPray/XAutoDaily`
 - `LukeGus/Termix`
 - `M2Team/NanaZip`
+- `MCDReforged/MCDReforged`
+- `MCDReforged/PluginCatalogue`
+- `MCHPR/MCHPRS`
 - `MIUI-Monet-Project/Module`
 - `MMPI-CHN/MMPI-CHN.github.io`
 - `Maciek-roboblog/Claude-Code-Usage-Monitor`
@@ -200,7 +227,10 @@
 - `MkQtS/Carefree`
 - `MlgmXyysd/Xiaomi-BootLoader-Questionnaire`
 - `MobileGL-Dev/MobileGlues-release`
+- `MoeMod/CSMoE`
+- `MotooriKashin/Bilibili-Old`
 - `Mrs4s/go-cqhttp`
+- `MultiCoreNetwork/carpet-redcraft-addons`
 - `MuntashirAkon/AppManager`
 - `Mzdyl/LiteLoaderQQNT_Install`
 - `NEKOparapa/AiNiee`
@@ -214,6 +244,7 @@
 - `NihilityT/MiPushFramework`
 - `Notsfsssf/pixez-flutter`
 - `Nuitka/Nuitka`
+- `Nuytemans-Dieter/BetterSleeping`
 - `Nyan-Work/oh-my-minecraft-client`
 - `OOM-WG/ShiroSU-Utils`
 - `OdysseusYuan/LKY_OfficeTools`
@@ -228,9 +259,12 @@
 - `OreosLab/bili`
 - `PBH-BTN/PeerBanHelper`
 - `PCSX2/pcsx2`
+- `PRO-2684/Scriptio`
 - `Pairman/Lithonate`
+- `Pairman/PTP`
 - `PintaProject/Pinta`
 - `PlasmoHQ/plasmo`
+- `PojavLauncherTeam/PojavLauncher`
 - `Predidit/Kazumi`
 - `PrelinaMontelli/Edge-Monitor`
 - `ProtocolScience/AstralGocq`
@@ -240,9 +274,14 @@
 - `Purple-CSGO/CSGO-Config-Presets`
 - `Purple-CSGO/CSGO-Toolbox`
 - `Python3WebSpider/ProxyPool`
+- `Quaver/Quaver`
+- `Querz/mcaselector`
+- `R1ckyH/ChatBridgeReforged`
 - `ReadYouApp/ReadYou`
+- `Reamd7/notion-zh_CN`
 - `Red-Killer/shit`
 - `RedJue/git-commit-plugin`
+- `ResetPower/Epherome`
 - `ResetPower/rcs`
 - `Richasy/Bili.Copilot`
 - `RikkaApps/StorageRedirect-assets`
@@ -265,8 +304,11 @@
 - `Swordfish90/Lemuroid`
 - `TG-Twilight/Gamer-Skill-Icons`
 - `TGwear/TGwear`
+- `TISUnion/ChatBridge`
+- `TISUnion/daycount`
 - `TISUnion/joinMOTD`
 - `TankNee/LOL_Game_Subscription`
+- `Teahouse-Studios/mcwzh-meme-resourcepack`
 - `Team-Jackdaw/Essential-PlayerInfo`
 - `TecoStudio/Frozen_Pear_Pack`
 - `Templarian/MaterialDesign`
@@ -300,6 +342,7 @@
 - `Xmader/aria-ng-gui-android`
 - `Xposed-Modules-Repo/com.bug.hookvip`
 - `YanG-1989/m3u`
+- `YatFanLan/Simplify-chat-boxes`
 - `YerongAI/Office-Tool`
 - `Yidadaa/shuangpin`
 - `Yubyf/QuoteLockX`
@@ -333,6 +376,8 @@
 - `anuraghazra/github-readme-stats`
 - `anyneko/OneTextLibrary_Netease_Unoffical`
 - `aormsby/Fork-Sync-With-Upstream-action`
+- `archlinuxcn/mirrorlist-repo`
+- `aria2/aria2`
 - `aristocratos/btop`
 - `atelier-anchor/smiley-sans`
 - `autoscrape-labs/pydoll`
@@ -359,6 +404,7 @@
 - `bohanwood/debi`
 - `bojue/lemon-form`
 - `bostrot/wsl2-distro-manager`
+- `bozbez/win-capture-audio`
 - `brcontainer/prevent-duplicate-tabs`
 - `breezy-weather/breezy-weather`
 - `brightmart/nlp_chinese_corpus`
@@ -377,6 +423,7 @@
 - `ccbikai/Sink`
 - `cellos51/balatro-gba`
 - `chase535/accurate_battery`
+- `chen310/NeteaseCloudMusicTasks`
 - `chenxiaolong/RSAF`
 - `chocolatey/choco`
 - `chubin/wttr.in`
@@ -386,6 +433,7 @@
 - `cloudreve/cloudreve`
 - `cmliu/CF-Workers-SpeedTestURL`
 - `codehz/YaHei-Build`
+- `codehz/minecraft-unicode-font-texture-generator-online`
 - `coder/code-server`
 - `comfyanonymous/ComfyUI`
 - `commaai/openpilot`
@@ -433,6 +481,7 @@
 - `fei-ke/HMSPush`
 - `festoney8/LiteLoaderQQNT-Telegram-Theme`
 - `fi3ework/hexo-theme-archer`
+- `files-community/Files`
 - `fish-shell/fish-shell`
 - `floccusaddon/floccus`
 - `flutter/pinball`
@@ -446,6 +495,7 @@
 - `gedoor/legado`
 - `getify/You-Dont-Know-JS`
 - `getsurfboard/surfboard`
+- `git/git`
 - `github/spec-kit`
 - `gitui-org/gitui`
 - `glanceapp/glance`
@@ -466,6 +516,7 @@
 - `hashcat/hashcat`
 - `hax/heshijun_v_360`
 - `heapwolf/levelui`
+- `helloqingfeng/Awsome-Front-End-learning-resource`
 - `honmaple/maple-file`
 - `horsemail/yourtv`
 - `hotpad100c/yetanothercarpetaddition`
@@ -496,6 +547,7 @@
 - `jing332/tts-server-android`
 - `johnfactotum/foliate`
 - `journey-ad/Moe-Counter`
+- `jpenilla/TabTPS`
 - `jsorrell/CarpetSkyAdditions`
 - `juliangarnier/anime`
 - `jumpserver/jumpserver`
@@ -503,6 +555,7 @@
 - `jynew/jynew`
 - `kaajjo/LibreSudoku`
 - `kando-menu/kando`
+- `kaniol-lck/modmanager`
 - `kawamataryo/sky-follower-bridge`
 - `kazutoiris/infinite-illusion`
 - `kc0ed/SearchEVO`
@@ -543,20 +596,25 @@
 - `loweisz/generate-avatar`
 - `lucinhu/bili_you`
 - `luckjiawei/frpc-desktop`
+- `lucko/BungeeGuard`
 - `lucko/spark`
 - `lutris/lutris`
 - `lwch/natpass`
 - `lxgr-linux/pokete`
 - `lz233/OneText-Library`
+- `lz233/OneText_For_Android`
 - `lz233/Tarnhelm`
 - `maebert/themostdangerouswritingapp`
 - `makipom/BlueArchive-Cursors`
 - `marcomaroni-github/twitter-to-bluesky`
 - `markmap/markmap`
 - `markmckinnon/Leveldb-py`
+- `maruohon/malilib`
+- `maruohon/minihud`
 - `mastodon/mastodon`
 - `material-foundation/material-color-utilities`
 - `maxgoedjen/secretive`
+- `mayswind/AriaNg`
 - `mayswind/ezbookkeeping`
 - `mcmilk/7-Zip-zstd`
 - `mediacms-io/mediacms`
@@ -565,7 +623,11 @@
 - `michelpereira/awesome-open-source-games`
 - `microg/GmsCore`
 - `microsoft/markitdown`
+- `microsoft/vscode`
+- `microsoft/winget-cli`
+- `mihomo-party-org/clash-party`
 - `mir1ce/Hawkeye`
+- `mircokroon/minecraft-world-downloader`
 - `mitesh77/Best-Flutter-UI-Templates`
 - `mlocati/docker-php-extension-installer`
 - `mmulet/term.everything`
@@ -575,6 +637,7 @@
 - `mon5termatt/medicat_installer`
 - `mono/SkiaSharp`
 - `mozilla-firefox/firefox`
+- `mrjesen/ImBlockerFabric`
 - `mulaRahul/keyviz`
 - `muxinc/media-chrome`
 - `myflavor/NoActive-V2`
@@ -583,6 +646,8 @@
 - `newhinton/Round-Sync`
 - `newren/git-filter-repo`
 - `nextcloud/all-in-one`
+- `ngosang/trackerslist`
+- `nightmare-space/code_lfa`
 - `nikitasius/Telegraher`
 - `noah-nuebling/mac-mouse-fix`
 - `nordtheme/nord`
@@ -595,6 +660,7 @@
 - `objective-see/LuLu`
 - `obsproject/obs-studio`
 - `ohlunaaa/Riot-auth`
+- `ohmyzsh/ohmyzsh`
 - `oiov/wr.do`
 - `oldj/SwitchHosts`
 - `olegos2/mobox`
@@ -613,6 +679,7 @@
 - `pickle-com/glass`
 - `ping11700/LOLkit`
 - `plait-board/drawnix`
+- `plusls/MasaGadget`
 - `plusls/plusls-carpet-addition`
 - `popcap-games/Plants-vs-Zombies-GOTY`
 - `ppy/osu`
@@ -630,6 +697,7 @@
 - `retspen/webvirtcloud`
 - `robot00f/Flyme-FreeForm`
 - `rogden/tailwind-config-viewer`
+- `romkatv/powerlevel10k`
 - `ruanyf/document-style-guide`
 - `ruffle-rs/ruffle`
 - `runjuu/InputSourcePro`
@@ -637,9 +705,11 @@
 - `rushiranpise/xmlpak-RE`
 - `rustdesk/rustdesk`
 - `rv2036/riscv-board-wandering`
+- `ryanhanwu/How-To-Ask-Questions-The-Smart-Way`
 - `saadeghi/daisyui`
 - `saber-notes/saber`
 - `saicaca/hexo-theme-vivia`
+- `sairson/Yasso`
 - `sandboxie-plus/Sandboxie`
 - `schollz/croc`
 - `screego/server`
@@ -664,9 +734,11 @@
 - `siyuan-note/siyuan`
 - `skiptools/skip`
 - `skittles9823/QuickSwitch`
+- `skyrising/skyblock`
 - `skywind3000/kcp`
 - `sorayuki/obs-multi-rtmp`
 - `spacedriveapp/spacedrive`
+- `sparanoid/chinese-copywriting-guidelines`
 - `ssut/payload-dumper-go`
 - `std-microblock/chromatic`
 - `studyzy/imewlconverter`
@@ -683,10 +755,12 @@
 - `taganaka/SpeedTest`
 - `tailscale/tailscale`
 - `taisei-project/taisei`
+- `takayama-lily/vscode-qq`
 - `tauri-apps/tauri`
 - `teddysun/across`
 - `termux/termux-boot`
 - `tgbot-collection/YYeTsBot`
+- `the1812/Bilibili-Evolved`
 - `theme-next/hexo-theme-next`
 - `themepark-dev/theme.park`
 - `thunlp/THUOCL`
@@ -703,6 +777,7 @@
 - `tusen-ai/naive-ui`
 - `tuyafeng/Via`
 - `twt-tec/werewolf-master`
+- `uncle-novel/jfx-launcher`
 - `ungoogled-software/ungoogled-chromium`
 - `univrsal/input-overlay`
 - `upx/upx`
@@ -720,6 +795,7 @@
 - `vsme/chinese-days`
 - `vuetifyjs/vuetify`
 - `vvb2060/PackageInstaller`
+- `walter201230/Python`
 - `wandb/openui`
 - `wangweianger/zanePerfor`
 - `wavetermdev/waveterm`
@@ -729,12 +805,14 @@
 - `weixiansen574/HybridFileXfer`
 - `weiyourumeng/RM-Toolbox`
 - `wekan/wekan`
+- `windiest/Front-end-tutorial`
 - `woaigitee/123pan-`
 - `wu-mx/URLignore`
 - `wu-mx/subinfobot`
 - `wxxsfxyzm/InstallerX-Revived`
 - `wyf7685/nonebot-plugin-werewolf`
 - `wzdnzd/aggregator`
+- `xiaojieonly/Ehviewer_CN_SXJ`
 - `xiaowine/Lyric-Getter`
 - `xiaoyaDev/xiaoya-alist`
 - `xiaoyaocz/dart_simple_live`
