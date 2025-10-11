@@ -110,6 +110,31 @@ def load_data():
         all_repos, pending_repos = {}, []
     print("--- Data loading complete ---")
 
+def get_categories_snapshot(max_chars_per_file: int = 800):
+    """读取 `categories` 目录中每个 md 文件的前若干字符，并返回一个结构化的字符串快照。
+
+    目的：在构造 AI prompt 时附带现有分类文件的摘要，帮助 AI 避免重复或生成不一致的类别名。
+    """
+    try:
+        if not categories_dir.exists():
+            return "(categories 目录为空)"
+        parts = []
+        for md in sorted(categories_dir.glob('*.md')):
+            try:
+                text = md.read_text(encoding='utf-8')
+            except Exception:
+                continue
+            # 取文件名（不含扩展）和前若干字符作为摘要
+            name = md.stem
+            snippet = text.replace('\n', ' ')[:max_chars_per_file].strip()
+            parts.append(f"文件: {name}.md\n摘要: {snippet}\n---\n")
+        if not parts:
+            return "(categories 目录为空)"
+        return "\n".join(parts)
+    except Exception as e:
+        print(f"[WARNING] 无法读取 categories 快照: {e}")
+        return "(无法读取 categories)"
+
 # --- UI ---
 @ui.page('/')
 async def main_page():
@@ -194,8 +219,16 @@ async def main_page():
         print(f"Direction: '{direction}'")
         print(f"Selected repos: {[r['full_name'] for r in app.state.selected_list]}")
 
-        prompt = f"这几个仓库是同一类别，分类方向是'{direction}'。请结合你对这些仓库README的理解，给出一个最精准的最终类别名称。只返回类别名称。\n\n"
-        for repo in app.state.selected_list: prompt += f"- {repo['full_name']}: {repo.get('description')}\n  URL: {repo.get('html_url')}\n"
+        # 获取 categories 文件夹快照，限制为较短摘要以避免过长 prompt
+        categories_snapshot = get_categories_snapshot(500)
+
+        prompt = (
+            f"下面是当前项目中 'categories' 目录下各分类文件的摘要（文件名与前若干字符），用于帮助避免生成重复或不一致的分类名称：\n\n"
+            f"{categories_snapshot}\n\n"
+            f"这几个仓库是同一类别，分类方向是 '{direction}'。请结合你对这些仓库 README 的理解，以及上面已存在的分类文件内容，给出一个最精准且不与现有分类冲突的最终类别名称。只返回类别名称，不要包含标点或代码格式。\n\n"
+        )
+        for repo in app.state.selected_list:
+            prompt += f"- {repo['full_name']}: {repo.get('description')}\n  URL: {repo.get('html_url')}\n"
         
         ui.notify("已提交给 AI，正在后台处理...")
         print("Submitting to AI...")
@@ -230,18 +263,18 @@ async def main_page():
         print("--- Processing complete ---")
 
     # --- Page Layout ---
-    with ui.splitter(value=70).classes('w-full h-screen') as splitter:
+    with ui.splitter(value=70).classes('w-full h-[98vh]') as splitter:
         with splitter.before:
-            with ui.column().classes('w-full p-4'):
+            with ui.column().classes('w-full h-full p-4 gap-2'):
                 with ui.row().classes('w-full justify-between items-center'):
                     ui.label('待选列表').classes('text-h4')
                     search_input = ui.input(placeholder='搜索...', on_change=update_ui).props('dense clearable').classes('flex-grow')
                     ui.button('刷新', on_click=refresh_candidates).props('icon=refresh')
                 stats_label = ui.label()
-                with ui.scroll_area().classes('w-full h-[85vh]'):
+                with ui.scroll_area().classes('w-full grow'):
                     candidate_view = ui.column().classes('w-full gap-2')
         with splitter.after:
-            with ui.column().classes('w-full p-4 gap-4'):
+            with ui.column().classes('w-full h-full p-4 gap-4'):
                 selected_view = ui.column()
                 direction_input = ui.input(label="分类方向/提示", placeholder="例如：Minecraft 模组")
                 name_button = ui.button('让 AI 命名此分组', on_click=process_selection).props('color=primary')
