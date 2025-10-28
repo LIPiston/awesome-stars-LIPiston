@@ -644,7 +644,7 @@
 
 *   [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
-*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『✨全自动化采集、筛选、测速流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；丰富的个性化配置；频道自定义；订阅源/组播源/酒店源/本地源；RTMP推流；IPv4/IPv6；接口测速验效；工作流、Docker、命令行、GUI多种部署方式 | IPTV live streaming source automatic update platform
+*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『✨全自动化采集、筛选、测速流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；丰富的个性化配置；频道自定义；订阅源/组播源/酒店源/本地源；推流；IPv4/IPv6；接口测速验效；工作流、Docker、命令行、GUI多种部署方式 | IPTV live streaming source automatic update platform
 
 *   [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 
@@ -1716,7 +1716,7 @@
 
 *   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 
 *   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
