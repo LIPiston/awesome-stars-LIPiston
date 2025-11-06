@@ -51,7 +51,7 @@
 *   [Stylus](#stylus)
 *   [AutoHotkey](#autohotkey)
 *   [Inno Setup](#inno-setup)
-*   [XML](#xml)
+*   [Markdown](#markdown)
 *   [Makefile](#makefile)
 *   [GLSL](#glsl)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -60,7 +60,6 @@
 *   [Adblock Filter List](#adblock-filter-list)
 *   [VimL](#viml)
 *   [Standard ML](#standard-ml)
-*   [Markdown](#markdown)
 *   [Squirrel](#squirrel)
 *   [TeX](#tex)
 *   [Scala](#scala)
@@ -2130,7 +2129,7 @@
 
 *   [docsifyjs/docs-zh](https://github.com/docsifyjs/docs-zh) - docsify 中文文档
 
-*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
+*   [RezShakeri/beautify-github-profile](https://github.com/RezShakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
 
 *   [baidusama/EroPassword](https://github.com/baidusama/EroPassword) - 一些常用的解压密码（包括但不限于本子、里番、galgame）
 
@@ -2912,9 +2911,11 @@
 
 *   [Bill-Stewart/SyncthingWindowsSetup](https://github.com/Bill-Stewart/SyncthingWindowsSetup) - Syncthing Windows Setup
 
-## XML
+## Markdown
 
 *   [Light-Beacon/PCL2-NewsHomepage](https://github.com/Light-Beacon/PCL2-NewsHomepage) - Provides latest Minecraft news on Plain Craft Launcher 2
+
+*   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
 ## Makefile
 
@@ -2955,10 +2956,6 @@
 ## Standard ML
 
 *   [miaoermua/CatWrt](https://github.com/miaoermua/CatWrt) - 🌠 开源稳定的客制化 OpenWrt 智能网关
-
-## Markdown
-
-*   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
 ## Squirrel
 
