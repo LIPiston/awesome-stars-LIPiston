@@ -1543,7 +1543,7 @@
 
 ## TypeScript
 
-*   [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
+*   [google-admin/blockly](https://github.com/google-admin/blockly) - The web-based visual programming editor.
 
 *   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 
