@@ -1501,8 +1501,6 @@
 
 *   [AnzhiZhang/MCDReforgedPlugins](https://github.com/AnzhiZhang/MCDReforgedPlugins) - MCDReforged Plugins
 
-*   [MCDReforged/MCDReforged](https://github.com/MCDReforged/MCDReforged) - A rewritten version of MCDaemon, a python tool to control your Minecraft server
-
 ## Dart
 
 *   [venera-app/venera](https://github.com/venera-app/venera) - A comic app
@@ -1776,6 +1774,8 @@
 *   [Pairman/OneClickCrafting-1.16.5](https://github.com/Pairman/OneClickCrafting-1.16.5) - A Minecraft Fabric mod to make crafting with the recipe book faster
 
 *   [Pairman/Lithonate](https://github.com/Pairman/Lithonate) - Tweaks to update your suppression.
+
+*   [xoureldeen/Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 
 *   [mywalkb/LSPosed\_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
 
