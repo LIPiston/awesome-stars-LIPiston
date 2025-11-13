@@ -477,7 +477,7 @@
 
 *   [Simplicity-Team/WooBoxForColorOS](https://github.com/Simplicity-Team/WooBoxForColorOS) - 一个基于 ColorOS12(Android 12) 适配的自定义工具 // A system extension Xposed module based on ColorOS12 (Android12)
 
-*   [suqi8/OShin](https://github.com/suqi8/OShin) - 一个专为ColorOS系统设计的辅助模块
+*   [suqi8/OShinPubilc](https://github.com/suqi8/OShinPubilc) - 一个专为ColorOS系统设计的辅助模块
 
 *   [LMODroid/platform\_packages\_apps\_LMOFreeform](https://github.com/LMODroid/platform_packages_apps_LMOFreeform) -
 
@@ -1507,7 +1507,7 @@
 
 *   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 
-*   [aa2013/ClipShare](https://github.com/aa2013/ClipShare) - 一个支持跨平台（目前为Android和Windows）的剪贴板历史记录与同步软件，支持Android10以上版本后台同步，支持文本、图片、文件、短信的复制和同步
+*   [aa2013/ClipShare](https://github.com/aa2013/ClipShare) - 一个支持跨平台（目前为Android和Windows）的剪贴板历史记录与同步软件，支持Android10以上版本后台同步，支持文本、图片、文件、短信的复制和同步。A cross-platform (currently Android and Windows) clipboard history and synchronization software that supports background sync on Android 10 and above, and can copy and sync text, images, files, and text messages.
 
 *   [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 
@@ -2489,7 +2489,7 @@
 
 *   [ymyuuu/Cloudflare-Workers-Proxy](https://github.com/ymyuuu/Cloudflare-Workers-Proxy) - 简单而功能强大的反代服务，允许你将一个网址映射到另一个网址，并处理跨域请求
 
-*   [DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource) - 为Pixiv网站制作的适配在阅读3.0App上的书源
+*   [DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource) - 阅读 3.0 的 Pixiv 书源
 
 *   [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 
