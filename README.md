@@ -450,7 +450,7 @@
 
 *   [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 
-*   [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) - 新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
+*   [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) - 新一代SKRoot，完美隐藏root功能，挑战全网root检测手段，实现真正的SELinux 0%触碰、无挂载，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定不闪退。
 
 *   [std-microblock/chromatic](https://github.com/std-microblock/chromatic) - Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器
 
