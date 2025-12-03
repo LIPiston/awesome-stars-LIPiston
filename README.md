@@ -40,7 +40,6 @@
 *   [Vim Script](#vim-script)
 *   [AutoIt](#autoit)
 *   [Roff](#roff)
-*   [Nix](#nix)
 *   [Objective-C++](#objective-c-1)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Dockerfile](#dockerfile)
@@ -1758,6 +1757,8 @@
 
 *   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
 
+*   [Lxtharia/minegrub-world-sel-theme](https://github.com/Lxtharia/minegrub-world-sel-theme) - A grub theme in the style of the Minecraft singleplayer (sp) world selection screen!
+
 *   [chenzyadb/CuprumTurbo-Scheduler](https://github.com/chenzyadb/CuprumTurbo-Scheduler) - A Simple and Reliable Performance Scheduler.
 
 *   [aormsby/Fork-Sync-With-Upstream-action](https://github.com/aormsby/Fork-Sync-With-Upstream-action) - An action to automatically update your fork with new commits from the upstream repo
@@ -2855,10 +2856,6 @@
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-
-## Nix
-
-*   [Lxtharia/minegrub-world-sel-theme](https://github.com/Lxtharia/minegrub-world-sel-theme) - A grub theme in the style of the Minecraft singleplayer (sp) world selection screen!
 
 ## Objective-C++
 
