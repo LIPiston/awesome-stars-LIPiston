@@ -11,6 +11,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [Shell](#shell)
 *   [C++](#c)
 *   [Python](#python)
@@ -22,7 +23,6 @@
 *   [C](#c-2)
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
-*   [HTML](#html)
 *   [PHP](#php)
 *   [Dart](#dart)
 *   [Rust](#rust)
@@ -62,6 +62,66 @@
 *   [Squirrel](#squirrel)
 *   [TeX](#tex)
 *   [Thanks](#thanks)
+
+## HTML
+
+*   [helloworldpxy/thunder-https](https://github.com/helloworldpxy/thunder-https) - 专业的迅雷专用链转换工具，可将thunder://开头的加密链接转换为可直接使用的HTTP/HTTPS下载地址。支持Windows/macOS双平台（lite版本支持全平台），提供优雅的现代化界面和高效稳定的转换服务。
+
+*   [cofedream/extensions-copymanga](https://github.com/cofedream/extensions-copymanga) - Mihon的Copymanga扩展
+
+*   [merakiuilabs/merakiui](https://github.com/merakiuilabs/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
+
+*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
+
+*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
+
+*   [Purple-CSGO/CS2-Config-Presets](https://github.com/Purple-CSGO/CS2-Config-Presets) - 🎉​ CFG Presets for many scenarios in Counter-Strike 2
+
+*   [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
+
+*   [MeowCracker/MobaGenkey](https://github.com/MeowCracker/MobaGenkey) - 一个 MobaXterm 的许可证生成器
+
+*   [Carole007/midm-release](https://github.com/Carole007/midm-release) - mi动漫发布页
+
+*   [DesktopGooseUnofficial/ResourceHub](https://github.com/DesktopGooseUnofficial/ResourceHub) - ResourceHub, for everything Desktop Goose
+
+*   [LoosePrince/PF-MCDR-WebUI](https://github.com/LoosePrince/PF-MCDR-WebUI) - PF MCDR的WebUI
+
+*   [lingeringsound/10007](https://github.com/lingeringsound/10007) - hosts of block ads
+
+*   [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - Block the keyboard input while you were eating instant noodles on your laptop keyboard.
+
+*   [jenskutilek/sudo-font](https://github.com/jenskutilek/sudo-font) - Sudo, a font for programmers and command line users.
+
+*   [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
+
+*   [grbnb/xp\_module](https://github.com/grbnb/xp_module) - 备份午夜神大佬分享的应用集 【下面是Gitee仓库链接】https://gitee.com/grbnb/xp\_module.git
+
+*   [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io) -
+
+*   [Terminus2049/Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) - 豆瓣不存在的书影音
+
+*   [Xmader/aria-ng-gui-android](https://github.com/Xmader/aria-ng-gui-android) - 一个 Aria2 图形界面安卓客户端 | An Aria2 GUI Android App
+
+*   [wacko1805/MagiskGapps](https://github.com/wacko1805/MagiskGapps) - Convert a regular GApps package into a Magisk flashable package using a simple website
+
+*   [aoaostar/legado](https://github.com/aoaostar/legado) - 阅读APP书源
+
+*   [booksources/booksources.github.io](https://github.com/booksources/booksources.github.io) - 阅读在线书源分享库
+
+*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
+
+*   [acl4ssr-sub/acl4ssr-sub.github.io](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) -
+
+*   [TheresaQWQ/BroadcastOnAirDanmaku](https://github.com/TheresaQWQ/BroadcastOnAirDanmaku) - 一个直播间弹幕姬
+
+*   [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体无衬线风格，支持 8、10 和 12 像素
+
+*   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护4年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨clash丨karing丨hiddify丨mihomo丨clashmi丨ClashMeta丨FIClash丨Surfboard
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - Open source Pan-CJK pixel font / 开源的泛中日韩像素字体
 
 ## Shell
 
@@ -419,7 +479,7 @@
 
 *   [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点【不要 fork】 !而是 【use this template】
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点【 当前仅推荐Docker部署，Fork/Actions方式暂停（正在与GitHub官方沟通中）】
 
 *   [amchii/tg-signer](https://github.com/amchii/tg-signer) - 电报自动执行（签到、发送消息、点击键盘、AI回复等）；个人、群组、频道消息监控、转发与自动回复。Automated Telegram tasks (check-ins, sending messages, keyboard clicks, AI replies, etc.); monitoring, forwarding, and auto-replying to private, group, and channel messages.
 
@@ -1709,8 +1769,6 @@
 
 *   [alexhua/Aria2-Explorer](https://github.com/alexhua/Aria2-Explorer) - An aria2 download task management extension for chromium based browser
 
-*   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
-
 ## C\#
 
 *   [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
@@ -2433,64 +2491,6 @@
 
 *   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-## HTML
-
-*   [cofedream/extensions-copymanga](https://github.com/cofedream/extensions-copymanga) - Mihon的Copymanga扩展
-
-*   [merakiuilabs/merakiui](https://github.com/merakiuilabs/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.
-
-*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
-
-*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
-
-*   [Purple-CSGO/CS2-Config-Presets](https://github.com/Purple-CSGO/CS2-Config-Presets) - 🎉​ CFG Presets for many scenarios in Counter-Strike 2
-
-*   [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
-
-*   [MeowCracker/MobaGenkey](https://github.com/MeowCracker/MobaGenkey) - 一个 MobaXterm 的许可证生成器
-
-*   [Carole007/midm-release](https://github.com/Carole007/midm-release) - mi动漫发布页
-
-*   [DesktopGooseUnofficial/ResourceHub](https://github.com/DesktopGooseUnofficial/ResourceHub) - ResourceHub, for everything Desktop Goose
-
-*   [LoosePrince/PF-MCDR-WebUI](https://github.com/LoosePrince/PF-MCDR-WebUI) - PF MCDR的WebUI
-
-*   [lingeringsound/10007](https://github.com/lingeringsound/10007) - hosts of block ads
-
-*   [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - Block the keyboard input while you were eating instant noodles on your laptop keyboard.
-
-*   [jenskutilek/sudo-font](https://github.com/jenskutilek/sudo-font) - Sudo, a font for programmers and command line users.
-
-*   [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
-
-*   [grbnb/xp\_module](https://github.com/grbnb/xp_module) - 备份午夜神大佬分享的应用集 【下面是Gitee仓库链接】https://gitee.com/grbnb/xp\_module.git
-
-*   [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io) -
-
-*   [Terminus2049/Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) - 豆瓣不存在的书影音
-
-*   [Xmader/aria-ng-gui-android](https://github.com/Xmader/aria-ng-gui-android) - 一个 Aria2 图形界面安卓客户端 | An Aria2 GUI Android App
-
-*   [wacko1805/MagiskGapps](https://github.com/wacko1805/MagiskGapps) - Convert a regular GApps package into a Magisk flashable package using a simple website
-
-*   [aoaostar/legado](https://github.com/aoaostar/legado) - 阅读APP书源
-
-*   [booksources/booksources.github.io](https://github.com/booksources/booksources.github.io) - 阅读在线书源分享库
-
-*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
-
-*   [acl4ssr-sub/acl4ssr-sub.github.io](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) -
-
-*   [TheresaQWQ/BroadcastOnAirDanmaku](https://github.com/TheresaQWQ/BroadcastOnAirDanmaku) - 一个直播间弹幕姬
-
-*   [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体无衬线风格，支持 8、10 和 12 像素
-
-*   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护4年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨clash丨karing丨hiddify丨mihomo丨clashmi丨ClashMeta丨FIClash丨Surfboard
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - Open source Pan-CJK pixel font / 开源的泛中日韩像素字体
-
 ## PHP
 
 *   [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库  1Panel Store Unofficial App Adaptation Repository (https://t.me/dockerapps)
@@ -2605,7 +2605,7 @@
 
 *   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
-*   [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+*   [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 
 *   [wlh320/rime-ls](https://github.com/wlh320/rime-ls) - A language server that provides input method functionality using librime 通过 LSP 代码补全使用 Rime 输入法
 
@@ -2737,7 +2737,7 @@
 
 *   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
 
-*   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+*   [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 
 *   [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）
 
