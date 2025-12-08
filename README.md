@@ -11,6 +11,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [HTML](#html)
 *   [Shell](#shell)
 *   [C++](#c)
@@ -25,7 +26,6 @@
 *   [Kotlin](#kotlin)
 *   [PHP](#php)
 *   [Dart](#dart)
-*   [Rust](#rust)
 *   [PowerShell](#powershell)
 *   [Swift](#swift)
 *   [Batchfile](#batchfile)
@@ -62,6 +62,78 @@
 *   [Squirrel](#squirrel)
 *   [TeX](#tex)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+
+*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+
+*   [Eugeny/russh](https://github.com/Eugeny/russh) - Rust SSH client & server library
+
+*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
+
+*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
+
+*   [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
+
+*   [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
+
+*   [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+
+*   [burningtnt/Terracotta](https://github.com/burningtnt/Terracotta) - Terracotta | 陶瓦联机
+
+*   [Acfboy/twt-werewolf-master-ng](https://github.com/Acfboy/twt-werewolf-master-ng) - Modern generation of twt-werewolf-master
+
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+
+*   [JohanChane/clashtui](https://github.com/JohanChane/clashtui) - Mihomo (Clash.Meta) TUI Client
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+
+*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+
+*   [bloznelis/kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal
+
+*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
+
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+*   [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
+
+*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+
+*   [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
+
+*   [wlh320/rime-ls](https://github.com/wlh320/rime-ls) - A language server that provides input method functionality using librime 通过 LSP 代码补全使用 Rime 输入法
+
+*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
+
+*   [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+
+*   [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
+
+*   [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.
+
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
+
+*   [shadow3aaa/fas-rs](https://github.com/shadow3aaa/fas-rs) - Frame aware scheduling for android.
+
+*   [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
+
+*   [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+
+*   [iamcco/ds-pinyin-lsp](https://github.com/iamcco/ds-pinyin-lsp) - Dead Simple Pinyin Language Server
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) - A proxy to expose real tls handshake to the firewall
+
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+
+*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
 ## HTML
 
@@ -975,6 +1047,8 @@
 
 *   [kingsollyu/AppEnv](https://github.com/kingsollyu/AppEnv) - 应用变量
 
+*   [Archmage83/Android\_apk](https://github.com/Archmage83/Android_apk) - 手机安卓手机端电影软件，希望大家一起维护
+
 *   [ZhuRuoLing/AcceleratedRendering-reFabricated](https://github.com/ZhuRuoLing/AcceleratedRendering-reFabricated) - Entity ModelPart Transform Accelerator
 
 *   [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载｜网文下载 | 网络小说
@@ -1020,6 +1094,8 @@
 *   [Pairman/Lithonate](https://github.com/Pairman/Lithonate) - Tweaks to update your suppression.
 
 *   [xoureldeen/Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
+
+*   [Archmage83/tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
 
 *   [mywalkb/LSPosed\_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
 
@@ -1463,7 +1539,7 @@
 
 *   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 
 *   [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
 
@@ -1767,8 +1843,6 @@
 
 *   [lkyero/GitHubDesktop\_zh](https://github.com/lkyero/GitHubDesktop_zh) - 【GitHub Desktop】客户端中文汉化（简体）；【GitHub Desktop】 Simplified Chinese interface；（GitHub桌面版 中文汉化，非网页插件）
 
-*   [alexhua/Aria2-Explorer](https://github.com/alexhua/Aria2-Explorer) - An aria2 download task management extension for chromium based browser
-
 ## C\#
 
 *   [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
@@ -2057,8 +2131,6 @@
 
 *   [MlgmXyysd/Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) - 小米 BootLoader《解锁资格答题测试》更新记录
 
-*   [Archmage83/Android\_apk](https://github.com/Archmage83/Android_apk) - 手机安卓手机端电影软件，希望大家一起维护
-
 *   [mir1ce/Hawkeye](https://github.com/mir1ce/Hawkeye) - Windows应急响应工具---Hawkeye(鹰眼)。集Windows日志分析，进程扫描，主机信息于一体的综合应急响应分析工具
 
 *   [OOM-WG/ShiroSU-Utils](https://github.com/OOM-WG/ShiroSU-Utils) - ShiroSU Utils/SSUU/SUU/苏柚
@@ -2100,8 +2172,6 @@
 *   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
 
 *   [Xposed-Modules-Repo/top.hookvip.pro](https://github.com/Xposed-Modules-Repo/top.hookvip.pro) - NewHookVip
-
-*   [Archmage83/tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
 
 *   [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 
@@ -2564,76 +2634,6 @@
 *   [niuhuan/daisy](https://github.com/niuhuan/daisy) - 美观易用且无广告的漫画和轻小说客户端, 同时支持MacOS，Windows，Android，iOS。(动漫之家)
 
 *   [2697a/bujuan](https://github.com/2697a/bujuan) - Flutter移动端+桌面端三方网易云播放器
-
-## Rust
-
-*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
-
-*   [Eugeny/russh](https://github.com/Eugeny/russh) - Rust SSH client & server library
-
-*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
-
-*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
-
-*   [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
-
-*   [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
-
-*   [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
-
-*   [burningtnt/Terracotta](https://github.com/burningtnt/Terracotta) - Terracotta | 陶瓦联机
-
-*   [Acfboy/twt-werewolf-master-ng](https://github.com/Acfboy/twt-werewolf-master-ng) - Modern generation of twt-werewolf-master
-
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
-*   [JohanChane/clashtui](https://github.com/JohanChane/clashtui) - Mihomo (Clash.Meta) TUI Client
-
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-
-*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-
-*   [bloznelis/kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal
-
-*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
-
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-*   [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-
-*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-
-*   [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
-
-*   [wlh320/rime-ls](https://github.com/wlh320/rime-ls) - A language server that provides input method functionality using librime 通过 LSP 代码补全使用 Rime 输入法
-
-*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
-
-*   [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-
-*   [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
-
-*   [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.
-
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
-
-*   [shadow3aaa/fas-rs](https://github.com/shadow3aaa/fas-rs) - Frame aware scheduling for android.
-
-*   [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
-
-*   [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-
-*   [iamcco/ds-pinyin-lsp](https://github.com/iamcco/ds-pinyin-lsp) - Dead Simple Pinyin Language Server
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) - A proxy to expose real tls handshake to the firewall
-
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-
-*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
 ## PowerShell
 
