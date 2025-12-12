@@ -11,10 +11,10 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Python](#python)
 *   [Rust](#rust)
 *   [HTML](#html)
-*   [Shell](#shell)
 *   [C++](#c)
 *   [Go](#go)
 *   [Java](#java)
@@ -62,6 +62,230 @@
 *   [Squirrel](#squirrel)
 *   [TeX](#tex)
 *   [Thanks](#thanks)
+
+## Shell
+
+*   [Coolapk-Code9527/F2FS-Optimizer](https://github.com/Coolapk-Code9527/F2FS-Optimizer) -
+
+*   [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
+
+*   [liuran001/GJZS](https://github.com/liuran001/GJZS) - 搞机助手·R（原「搞机助手重制版」）
+
+*   [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) - HyDE, your Development Environment 🖥️💻
+
+*   [QYG2297248353/appstore-1panel](https://github.com/QYG2297248353/appstore-1panel) - Docker Compose 应用商店 已支持：1Panel, DPanel, Dockge
+
+*   [Magisk-Modules-Alt-Repo/Magisk-Tailscaled](https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled) - Magisk/KernelSU module for running Tailscale on rooted Android devices.
+
+*   [IceWhaleTech/CasaOS-AppStore](https://github.com/IceWhaleTech/CasaOS-AppStore) - Manifest files for CasaOS Apps
+
+*   [bigbeartechworld/big-bear-casaos](https://github.com/bigbeartechworld/big-bear-casaos) - One of the official app stores for IceWhale products (CasaOS & ZimaOS), developed and maintained independently by BigBearTechWorld. This curated collection offers a wide range of carefully selected applications to enhance your CasaOS and ZimaOS experience.
+
+*   [Magisk-Modules-Repo/acp](https://github.com/Magisk-Modules-Repo/acp) - acp
+
+*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+
+*   [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+
+*   [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
+
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
+*   [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
+
+*   [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
+
+*   [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+
+*   [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images
+
+*   [izabera/bitwise-challenge-2048](https://github.com/izabera/bitwise-challenge-2048) - 2048 with only 64 bits of state
+
+*   [bohanwood/debi](https://github.com/bohanwood/debi) - Reinstall your VPS to minimal Debian
+
+*   [Cp0204/CasaOS-AppStore-Play](https://github.com/Cp0204/CasaOS-AppStore-Play) - A Docker Compose Hub, Making Docker Your Productivity Tool - 一个 Docker Compose 仓库，让 Docker 成为你的生产力工具
+
+*   [NapNeko/NapCat-Docker](https://github.com/NapNeko/NapCat-Docker) - NapCat-Docker
+
+*   [1995chen/dnf](https://github.com/1995chen/dnf) -
+
+*   [anasfanani/magisk-tailscaled](https://github.com/anasfanani/magisk-tailscaled) - Magisk/KernelSU module for running Tailscale on rooted Android devices. The easiest, most secure way to use WireGuard and 2FA.
+
+*   [LeanxModulostk/wifi-bonding-nolog](https://github.com/LeanxModulostk/wifi-bonding-nolog) - This module doubles your bandwidth, disables Wi-Fi packet logging (has high overhead and several related security issues) and other logging for less background load and perhaps some battery life.
+
+*   [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
+
+*   [100pangci/syncthing-for-magisk](https://github.com/100pangci/syncthing-for-magisk) -
+
+*   [Magisk-Modules-Repo/busybox-ndk](https://github.com/Magisk-Modules-Repo/busybox-ndk) - busybox-ndk
+
+*   [Magisk-Modules-Alt-Repo/BuiltIn-BusyBox](https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox) - Systemless Magisk module that installs and symlinks BusyBox with its applets to the Magisk built-in busybox binary
+
+*   [lxgw/LxgwWenkaiGB](https://github.com/lxgw/LxgwWenkaiGB) - An open-source Simplified Chinese font derived from Klee One.
+
+*   [MIUI-Monet-Project/Module](https://github.com/MIUI-Monet-Project/Module) - Material You wallpaper-based dynamic theme for MIUI & HyperOS system apps on Android 12+
+
+*   [lxgw/advanced-cjk-font-magisk-module-template](https://github.com/lxgw/advanced-cjk-font-magisk-module-template) - A Magisk module template to systemlessly replace system fonts. Supports CJK Fonts. 用于制作字体模块的 Magisk 模块模板，支持中日韩字体的替换。
+
+*   [lingeringsound/adblock\_auto](https://github.com/lingeringsound/adblock_auto) - 自动合并 Adblock 规则，用于网页广告拦截
+
+*   [lxgw/simple-cjk-font-magisk-module-template](https://github.com/lxgw/simple-cjk-font-magisk-module-template) - A Magisk module template to systemlessly replace system fonts. Supports CJK Fonts. 用于制作字体模块的 Magisk 模块模板，支持中日韩字体的替换。
+
+*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
+
+*   [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) - serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
+
+*   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+
+*   [eooce/Sing-box](https://github.com/eooce/Sing-box) - 既然来了，就留下你的Star吧！Serv00 | CT8 | Hostuno | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Hostuno三合一代理脚本
+
+*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
+
+*   [Lxtharia/minegrub-world-sel-theme](https://github.com/Lxtharia/minegrub-world-sel-theme) - A grub theme in the style of the Minecraft singleplayer (sp) world selection screen!
+
+*   [chenzyadb/CuprumTurbo-Scheduler](https://github.com/chenzyadb/CuprumTurbo-Scheduler) - A Simple and Reliable Performance Scheduler.
+
+*   [aormsby/Fork-Sync-With-Upstream-action](https://github.com/aormsby/Fork-Sync-With-Upstream-action) - An action to automatically update your fork with new commits from the upstream repo
+
+*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
+
+*   [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) - Run Cloudflare WARP in Docker.
+
+*   [Unofficial-Life/Lawnchair-Launcher-Module](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module) - Replace your stock launcher with Lawnchair Launcher module (Q to U) for Magisk and KSU (Quickswitch included)
+
+*   [catppuccin/fcitx5](https://github.com/catppuccin/fcitx5) - 🧃 Soothing pastel theme for Fcitx5
+
+*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
+
+*   [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
+
+*   [pzcn/Perfect-Icons-Completion-Project](https://github.com/pzcn/Perfect-Icons-Completion-Project) - MIUI 完美图标补全计划
+
+*   [symbuzzer/livebootmodule](https://github.com/symbuzzer/livebootmodule) - A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices
+
+*   [twoone-3/AdGuardHomeForRoot](https://github.com/twoone-3/AdGuardHomeForRoot) - A module to easily execute AdGuardHome on Android
+
+*   [suiyuanlixin/fas-rs-usage-clamping](https://github.com/suiyuanlixin/fas-rs-usage-clamping) - Frame aware scheduling for android, work with cpufreq clamping. Requires 5.10 or 5.15 kernel and kernel ebpf support
+
+*   [YumeYuka/Tritium](https://github.com/YumeYuka/Tritium) - 最大化Soc的潜力 Maximize the potential of Soc
+
+*   [Magisk-Modules-Repo/adb-ndk](https://github.com/Magisk-Modules-Repo/adb-ndk) - adb-ndk
+
+*   [eendroroy/alien](https://github.com/eendroroy/alien) - An asynchronous zsh prompt
+
+*   [Bambooin/rimerc](https://github.com/Bambooin/rimerc) - rimerc: rimer's dictionary & config
+
+*   [RohitVerma882/termux-miunlock](https://github.com/RohitVerma882/termux-miunlock) - A program that can be used to retrieve the bootloader unlock token for Xiaomi devices. (and unlock the bootloader) using Termux
+
+*   [nohajc/termux-adb](https://github.com/nohajc/termux-adb) - Run adb in Termux without root permissions!
+
+*   [GitMetaio/Surfing](https://github.com/GitMetaio/Surfing) - Magisk and KernelSU modules for  Clash/mihomo services.
+
+*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
+
+*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
+
+*   [kirklin/magisk-brick-guardian](https://github.com/kirklin/magisk-brick-guardian) - 一个Magisk 模块，用于防止您的设备因 Magisk 模块导致的启动问题而变砖。
+
+*   [olegos2/mobox](https://github.com/olegos2/mobox) -
+
+*   [rushiranpise/xmlpak-RE](https://github.com/rushiranpise/xmlpak-RE) -
+
+*   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
+
+*   [DanGLVK/Hide-Navbar](https://github.com/DanGLVK/Hide-Navbar) - Hide Navbar
+
+*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
+
+*   [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices
+
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
+
+*   [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - A Simplified, Focused and Open NAS OS\_
+
+*   [Goooler/systemless-fcm-hosts](https://github.com/Goooler/systemless-fcm-hosts) - A Magisk module integrated with FCM hosts for Chinese users.
+
+*   [VR-25/acc](https://github.com/VR-25/acc) - Advanced Charging Controller
+
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+
+*   [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) - Colorize your termux! Oh-my-zsh included!
+
+*   [ful1e5/Bibata\_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
+
+*   [muink/Magisk-Captive-Manager](https://github.com/muink/Magisk-Captive-Manager) - 修改Captive Portal服务器, 可解Android 网络感叹号问题
+
+*   [huzesama/ASGuard](https://github.com/huzesama/ASGuard) - Magisk模块，用于安卓的无障碍服务(或名:辅助功能)辅助管理模块
+
+*   [programminghoch10/ViPER4AndroidRepackaged](https://github.com/programminghoch10/ViPER4AndroidRepackaged) - A refined ViPER4Android installer.
+
+*   [Zackptg5/Disable\_Dm-Verity\_ForceEncrypt](https://github.com/Zackptg5/Disable_Dm-Verity_ForceEncrypt) - Disables dm-verity and forceencrypt
+
+*   [Magisk-Modules-Repo/wifi-bonding](https://github.com/Magisk-Modules-Repo/wifi-bonding) - Double your bandwith on your Qualcomm devices.
+
+*   [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
+
+*   [nakixii/Magisk\_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) - 由于近期出现太多无效（不附带任何数据）适配申请，暂时停止接收任何申请。
+
+*   [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) -
+
+*   [2moe/tmoe](https://github.com/2moe/tmoe) - TMOE, More Optional Environments.
+
+*   [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
+
+*   [ping11700/LOLkit](https://github.com/ping11700/LOLkit) - One gift for all LOL gamers， League of Legends工具
+
+*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
+
+*   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
+
+*   [shipinbaoku/ikev2-vpn-setup-bash](https://github.com/shipinbaoku/ikev2-vpn-setup-bash) - 使用bash脚本一键搭建Ikev2的vpn服务端.
+
+*   [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
+
+*   [410154425/AdGuardHome\_magisk](https://github.com/410154425/AdGuardHome_magisk) - 去广告magisk模块，通过DNS层面过滤广告、防DNS劫持，使用前请先详读mode.conf文件，使用前需关闭私人dns，不可用wap接入点，支持订阅过滤规则，可兼容VPN、免模块、翻模块、校园网等特殊使用环境。top大佬(酷安)
+
+*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
+
+*   [Magisk-Modules-Repo/CloudflareDNS4Magisk](https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk) - CloudflareDNS4Magisk
+
+*   [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
+
+*   [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List for blocking ads in the Chinese region
+
+*   [yinwanxi/Uperf-Game-Turbo](https://github.com/yinwanxi/Uperf-Game-Turbo) - Userspace performance controller for android
+
+*   [yc9559/uperf](https://github.com/yc9559/uperf) - Userspace performance controller for android
+
+*   [zhucaidan/mtr\_trace](https://github.com/zhucaidan/mtr_trace) - Linux MTR route trace script | 检测VPS回程国内三网路由
+
+*   [VIKINGYFY/OpenWRT-CI](https://github.com/VIKINGYFY/OpenWRT-CI) - 云编译OpenWRT开源固件
+
+*   [nufeng1999/WSL\_GNOME](https://github.com/nufeng1999/WSL_GNOME) - Environment configuration for WSL running Gnome
+
+*   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+
+*   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+
+*   [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) - Transparent proxy(Tproxy) for android (root)
+
+*   [alvatip/Borealis-cursors](https://github.com/alvatip/Borealis-cursors) -
+
+*   [Generator/Grub2-themes](https://github.com/Generator/Grub2-themes) - Grub2 gfxmenu themes
+
+*   [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
+
+*   [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
+
+*   [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
+
+*   [vufa/deepin-wine-tim-arch](https://github.com/vufa/deepin-wine-tim-arch) - Tencent TIM on Deepin Wine(com.qq.office.deepin) For Archlinux
+
+*   [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch) - Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
+
+*   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 
 ## Python
 
@@ -257,7 +481,7 @@
 
 *   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
-*   [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - Rime输入法语法模型全流程构建教程，全局带声调词库，最全声调标注工具链：LMDG - Language, Model, Dictionary, Grammar。Q群：11033572
+*   [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - Rime输入法语法模型全流程构建教程，全局带声调词库，最全声调标注工具链：LMDG - Language, Model, Dictionary, Grammar。
 
 *   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 
@@ -523,228 +747,6 @@
 
 *   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - Open source Pan-CJK pixel font / 开源的泛中日韩像素字体
 
-## Shell
-
-*   [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
-
-*   [liuran001/GJZS](https://github.com/liuran001/GJZS) - 搞机助手·R（原「搞机助手重制版」）
-
-*   [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) - HyDE, your Development Environment 🖥️💻
-
-*   [QYG2297248353/appstore-1panel](https://github.com/QYG2297248353/appstore-1panel) - Docker Compose 应用商店 已支持：1Panel, DPanel, Dockge
-
-*   [Magisk-Modules-Alt-Repo/Magisk-Tailscaled](https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled) - Magisk/KernelSU module for running Tailscale on rooted Android devices.
-
-*   [IceWhaleTech/CasaOS-AppStore](https://github.com/IceWhaleTech/CasaOS-AppStore) - Manifest files for CasaOS Apps
-
-*   [bigbeartechworld/big-bear-casaos](https://github.com/bigbeartechworld/big-bear-casaos) - One of the official app stores for IceWhale products (CasaOS & ZimaOS), developed and maintained independently by BigBearTechWorld. This curated collection offers a wide range of carefully selected applications to enhance your CasaOS and ZimaOS experience.
-
-*   [Magisk-Modules-Repo/acp](https://github.com/Magisk-Modules-Repo/acp) - acp
-
-*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-
-*   [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
-
-*   [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
-
-*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
-*   [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
-
-*   [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
-
-*   [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
-
-*   [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images
-
-*   [izabera/bitwise-challenge-2048](https://github.com/izabera/bitwise-challenge-2048) - 2048 with only 64 bits of state
-
-*   [bohanwood/debi](https://github.com/bohanwood/debi) - Reinstall your VPS to minimal Debian
-
-*   [Cp0204/CasaOS-AppStore-Play](https://github.com/Cp0204/CasaOS-AppStore-Play) - A Docker Compose Hub, Making Docker Your Productivity Tool - 一个 Docker Compose 仓库，让 Docker 成为你的生产力工具
-
-*   [NapNeko/NapCat-Docker](https://github.com/NapNeko/NapCat-Docker) - NapCat-Docker
-
-*   [1995chen/dnf](https://github.com/1995chen/dnf) -
-
-*   [anasfanani/magisk-tailscaled](https://github.com/anasfanani/magisk-tailscaled) - Magisk/KernelSU module for running Tailscale on rooted Android devices. The easiest, most secure way to use WireGuard and 2FA.
-
-*   [LeanxModulostk/wifi-bonding-nolog](https://github.com/LeanxModulostk/wifi-bonding-nolog) - This module doubles your bandwidth, disables Wi-Fi packet logging (has high overhead and several related security issues) and other logging for less background load and perhaps some battery life.
-
-*   [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
-
-*   [100pangci/syncthing-for-magisk](https://github.com/100pangci/syncthing-for-magisk) -
-
-*   [Magisk-Modules-Repo/busybox-ndk](https://github.com/Magisk-Modules-Repo/busybox-ndk) - busybox-ndk
-
-*   [Magisk-Modules-Alt-Repo/BuiltIn-BusyBox](https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox) - Systemless Magisk module that installs and symlinks BusyBox with its applets to the Magisk built-in busybox binary
-
-*   [lxgw/LxgwWenkaiGB](https://github.com/lxgw/LxgwWenkaiGB) - An open-source Simplified Chinese font derived from Klee One.
-
-*   [MIUI-Monet-Project/Module](https://github.com/MIUI-Monet-Project/Module) - Material You wallpaper-based dynamic theme for MIUI & HyperOS system apps on Android 12+
-
-*   [lxgw/advanced-cjk-font-magisk-module-template](https://github.com/lxgw/advanced-cjk-font-magisk-module-template) - A Magisk module template to systemlessly replace system fonts. Supports CJK Fonts. 用于制作字体模块的 Magisk 模块模板，支持中日韩字体的替换。
-
-*   [lingeringsound/adblock\_auto](https://github.com/lingeringsound/adblock_auto) - 自动合并 Adblock 规则，用于网页广告拦截
-
-*   [lxgw/simple-cjk-font-magisk-module-template](https://github.com/lxgw/simple-cjk-font-magisk-module-template) - A Magisk module template to systemlessly replace system fonts. Supports CJK Fonts. 用于制作字体模块的 Magisk 模块模板，支持中日韩字体的替换。
-
-*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
-
-*   [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) - serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
-
-*   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
-
-*   [eooce/Sing-box](https://github.com/eooce/Sing-box) - 既然来了，就留下你的Star吧！Serv00 | CT8 | Hostuno | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞
-
-*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Hostuno三合一代理脚本
-
-*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
-
-*   [Lxtharia/minegrub-world-sel-theme](https://github.com/Lxtharia/minegrub-world-sel-theme) - A grub theme in the style of the Minecraft singleplayer (sp) world selection screen!
-
-*   [chenzyadb/CuprumTurbo-Scheduler](https://github.com/chenzyadb/CuprumTurbo-Scheduler) - A Simple and Reliable Performance Scheduler.
-
-*   [aormsby/Fork-Sync-With-Upstream-action](https://github.com/aormsby/Fork-Sync-With-Upstream-action) - An action to automatically update your fork with new commits from the upstream repo
-
-*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
-
-*   [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) - Run Cloudflare WARP in Docker.
-
-*   [Unofficial-Life/Lawnchair-Launcher-Module](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module) - Replace your stock launcher with Lawnchair Launcher module (Q to U) for Magisk and KSU (Quickswitch included)
-
-*   [catppuccin/fcitx5](https://github.com/catppuccin/fcitx5) - 🧃 Soothing pastel theme for Fcitx5
-
-*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
-
-*   [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
-
-*   [pzcn/Perfect-Icons-Completion-Project](https://github.com/pzcn/Perfect-Icons-Completion-Project) - MIUI 完美图标补全计划
-
-*   [symbuzzer/livebootmodule](https://github.com/symbuzzer/livebootmodule) - A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices
-
-*   [twoone-3/AdGuardHomeForRoot](https://github.com/twoone-3/AdGuardHomeForRoot) - A module to easily execute AdGuardHome on Android
-
-*   [suiyuanlixin/fas-rs-usage-clamping](https://github.com/suiyuanlixin/fas-rs-usage-clamping) - Frame aware scheduling for android, work with cpufreq clamping. Requires 5.10 or 5.15 kernel and kernel ebpf support
-
-*   [YumeYuka/Tritium](https://github.com/YumeYuka/Tritium) - 最大化Soc的潜力 Maximize the potential of Soc
-
-*   [Magisk-Modules-Repo/adb-ndk](https://github.com/Magisk-Modules-Repo/adb-ndk) - adb-ndk
-
-*   [eendroroy/alien](https://github.com/eendroroy/alien) - An asynchronous zsh prompt
-
-*   [Bambooin/rimerc](https://github.com/Bambooin/rimerc) - rimerc: rimer's dictionary & config
-
-*   [RohitVerma882/termux-miunlock](https://github.com/RohitVerma882/termux-miunlock) - A program that can be used to retrieve the bootloader unlock token for Xiaomi devices. (and unlock the bootloader) using Termux
-
-*   [nohajc/termux-adb](https://github.com/nohajc/termux-adb) - Run adb in Termux without root permissions!
-
-*   [GitMetaio/Surfing](https://github.com/GitMetaio/Surfing) - Magisk and KernelSU modules for  Clash/mihomo services.
-
-*   [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) - Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
-
-*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
-
-*   [kirklin/magisk-brick-guardian](https://github.com/kirklin/magisk-brick-guardian) - 一个Magisk 模块，用于防止您的设备因 Magisk 模块导致的启动问题而变砖。
-
-*   [olegos2/mobox](https://github.com/olegos2/mobox) -
-
-*   [rushiranpise/xmlpak-RE](https://github.com/rushiranpise/xmlpak-RE) -
-
-*   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
-
-*   [DanGLVK/Hide-Navbar](https://github.com/DanGLVK/Hide-Navbar) - Hide Navbar
-
-*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
-
-*   [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices
-
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
-
-*   [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - A Simplified, Focused and Open NAS OS\_
-
-*   [Goooler/systemless-fcm-hosts](https://github.com/Goooler/systemless-fcm-hosts) - A Magisk module integrated with FCM hosts for Chinese users.
-
-*   [VR-25/acc](https://github.com/VR-25/acc) - Advanced Charging Controller
-
-*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
-*   [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) - Colorize your termux! Oh-my-zsh included!
-
-*   [ful1e5/Bibata\_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
-
-*   [muink/Magisk-Captive-Manager](https://github.com/muink/Magisk-Captive-Manager) - 修改Captive Portal服务器, 可解Android 网络感叹号问题
-
-*   [huzesama/ASGuard](https://github.com/huzesama/ASGuard) - Magisk模块，用于安卓的无障碍服务(或名:辅助功能)辅助管理模块
-
-*   [programminghoch10/ViPER4AndroidRepackaged](https://github.com/programminghoch10/ViPER4AndroidRepackaged) - A refined ViPER4Android installer.
-
-*   [Zackptg5/Disable\_Dm-Verity\_ForceEncrypt](https://github.com/Zackptg5/Disable_Dm-Verity_ForceEncrypt) - Disables dm-verity and forceencrypt
-
-*   [Magisk-Modules-Repo/wifi-bonding](https://github.com/Magisk-Modules-Repo/wifi-bonding) - Double your bandwith on your Qualcomm devices.
-
-*   [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
-
-*   [nakixii/Magisk\_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) -
-
-*   [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) -
-
-*   [2moe/tmoe](https://github.com/2moe/tmoe) - TMOE, More Optional Environments.
-
-*   [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
-
-*   [ping11700/LOLkit](https://github.com/ping11700/LOLkit) - One gift for all LOL gamers， League of Legends工具
-
-*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-
-*   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
-
-*   [shipinbaoku/ikev2-vpn-setup-bash](https://github.com/shipinbaoku/ikev2-vpn-setup-bash) - 使用bash脚本一键搭建Ikev2的vpn服务端.
-
-*   [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
-
-*   [410154425/AdGuardHome\_magisk](https://github.com/410154425/AdGuardHome_magisk) - 去广告magisk模块，通过DNS层面过滤广告、防DNS劫持，使用前请先详读mode.conf文件，使用前需关闭私人dns，不可用wap接入点，支持订阅过滤规则，可兼容VPN、免模块、翻模块、校园网等特殊使用环境。top大佬(酷安)
-
-*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
-
-*   [Magisk-Modules-Repo/CloudflareDNS4Magisk](https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk) - CloudflareDNS4Magisk
-
-*   [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
-
-*   [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List for blocking ads in the Chinese region
-
-*   [yinwanxi/Uperf-Game-Turbo](https://github.com/yinwanxi/Uperf-Game-Turbo) - Userspace performance controller for android
-
-*   [yc9559/uperf](https://github.com/yc9559/uperf) - Userspace performance controller for android
-
-*   [zhucaidan/mtr\_trace](https://github.com/zhucaidan/mtr_trace) - Linux MTR route trace script | 检测VPS回程国内三网路由
-
-*   [VIKINGYFY/OpenWRT-CI](https://github.com/VIKINGYFY/OpenWRT-CI) - 云编译OpenWRT开源固件
-
-*   [nufeng1999/WSL\_GNOME](https://github.com/nufeng1999/WSL_GNOME) - Environment configuration for WSL running Gnome
-
-*   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-
-*   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-
-*   [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) - Transparent proxy(Tproxy) for android (root)
-
-*   [alvatip/Borealis-cursors](https://github.com/alvatip/Borealis-cursors) -
-
-*   [Generator/Grub2-themes](https://github.com/Generator/Grub2-themes) - Grub2 gfxmenu themes
-
-*   [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
-
-*   [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
-
-*   [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
-
-*   [vufa/deepin-wine-tim-arch](https://github.com/vufa/deepin-wine-tim-arch) - Tencent TIM on Deepin Wine(com.qq.office.deepin) For Archlinux
-
-*   [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch) - Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
-
-*   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
-
 ## C++
 
 *   [microsoft/DirectXTex](https://github.com/microsoft/DirectXTex) - DirectXTex texture processing library
@@ -966,8 +968,6 @@
 *   [layou233/ZBProxy](https://github.com/layou233/ZBProxy) - 🚀Transfer your network data, bypassing the Hypixel unofficial address detection!
 
 *   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 
 *   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
@@ -1423,7 +1423,7 @@
 
 *   [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
 
-*   [alovajs/alova](https://github.com/alovajs/alova) - The Request Toolkit For Ultimate Efficiency
+*   [alovajs/alova](https://github.com/alovajs/alova) - A request toolkit for ultimate efficiency
 
 *   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 
@@ -1537,6 +1537,8 @@
 
 *   [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+
 *   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
@@ -1594,8 +1596,6 @@
 *   [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 
 *   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-
-*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
 
 ## JavaScript
 
@@ -1763,7 +1763,7 @@
 
 *   [ymyuuu/Cloudflare-Workers-Proxy](https://github.com/ymyuuu/Cloudflare-Workers-Proxy) - 简单而功能强大的反代服务，允许你将一个网址映射到另一个网址，并处理跨域请求
 
-*   [DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource) - 阅读 3.0 的 Pixiv 书源
+*   [DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource) - 最好的 Pixiv 小说阅读器——开源阅读 + Pixiv 书源 / Legado with Pixiv BookSource, A Best Novel Reader for Pixiv
 
 *   [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 
@@ -2817,7 +2817,7 @@
 
 *   [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) - Rime / Easy English 英文输入法
 
-*   [amzxyz/rime\_wanxiang](https://github.com/amzxyz/rime_wanxiang) - Rime万象拼音输入方案：一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，7种辅助码，可扩展。支持混合编码输入，内置超级注释、快符、候选手动排序、tips、等功能扩展，大大增强使用体验，详见README和release。　　Q群：11033572
+*   [amzxyz/rime\_wanxiang](https://github.com/amzxyz/rime_wanxiang) - Rime万象拼音输入方案：一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，7种辅助码，可扩展。支持混合编码输入，内置超级注释、快符、候选手动排序、tips、等功能扩展，大大增强使用体验，详见README和release。Q群：11033572/11631066
 
 *   [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) - 墨奇音形，打造最强双拼辅助码rime输入方案，让天下双拼用户人人用得上辅助码。基于雾凇-白霜词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，辅助码支持墨奇码（原创拆分开源支持4万字）、自然码部首辅、小鹤音形（鹤形辅）等，支持双拼和辅助码之间排列组合，支持整句/字词输入。不认识的字可以笔画、部件拆字、仓颉码反查。支持aw、aj模式输入英文、日文，支持双拼并击输入、emoji、快符、日期、大写数字、计算器等高级功能。雾凇鹤|雾凇自然|墨奇码|墨奇音形
 
