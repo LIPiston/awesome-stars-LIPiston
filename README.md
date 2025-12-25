@@ -1649,7 +1649,7 @@
 
 *   [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
 
-*   [CelestialArtistry/Tenet](https://github.com/CelestialArtistry/Tenet) - Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly known as Thermos/Cauldron/MCPC+
+*   [Teneted/Tenet](https://github.com/Teneted/Tenet) - Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly known as Thermos/Cauldron/MCPC+
 
 *   [SuperMarcus/LevelDBViewer](https://github.com/SuperMarcus/LevelDBViewer) - A Java program provides ablities to access & edit leveldb database
 
